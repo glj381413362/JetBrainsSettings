@@ -1,0 +1,27 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.impx</mask>
+    <mask>*.t</mask>
+    <mask>*.bm</mask>
+    <mask>*.properties</mask>
+    <mask>*.yam</mask>
+    <mask>*.yml</mask>
+    <mask>*.html</mask>
+    <mask>*.wxml</mask>
+    <mask>*.lua</mask>
+    <mask>*.screen</mask>
+    <mask>*.impex</mask>
+    <mask>*.jsp</mask>
+    <mask>*.tag</mask>
+    <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

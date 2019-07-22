@@ -1,0 +1,69 @@
+<templateSet group="self.comment">
+  <template name="cc" value="/**&#10; * &lt;p&gt;&#10; * $description$&#10; * &lt;/p&gt;&#10; * &#10; * @author $USER$ $DATE$ $TIME$&#10; */" description="comment for class" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date(&quot;yyyy/MM/dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="hc" value="//&#10;// $TITLE$&#10;// ------------------------------------------------------------------------------" description="half line comment" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mc" value="/**&#10; * $description$&#10; *&#10; $param$&#10; * @author $USER$ $DATE$ $TIME$&#10; * @return $RETURN$&#10; */" description="comment for method" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {if(params[i] != ''){result+='* @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n ' : '')}}; return result == '' ? '*':result&quot;, methodParameters()) " defaultValue="" alwaysStopAt="false" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="RETURN" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dc" value="//===============================================================================&#10;//  $TITLE$&#10;//===============================================================================" description="double line comment" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sc" value="////////////////////////////////////////" description="separate line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pc" value="####################################&#10;# $TITLE$&#10;####################################" description="properties comment" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="MXML" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

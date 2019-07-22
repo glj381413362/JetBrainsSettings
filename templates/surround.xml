@@ -1,0 +1,10 @@
+<templateSet group="surround">
+  <template name="SE" value="&lt;!-- Added by Gong.LJ on $data$ $time$ $end$ --&gt;&#10;$end$&#10;&lt;!-- Added by Gong.LJ end --&gt;" description="开始和结束" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

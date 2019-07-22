@@ -1,0 +1,9 @@
+<templateSet group="self.output">
+  <template name="sinf" value="System.out.println(&quot;====================================================$CLASSNAME$ $METHOD$ START====================================================&quot;);&#10;System.out.println(&quot;$END$&quot;);&#10;System.out.println(&quot;====================================================$CLASSNAME$ $METHOD$ END====================================================&quot;);" description="Print Info" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

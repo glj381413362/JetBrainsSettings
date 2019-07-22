@@ -1,0 +1,1247 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="I:/IDEAWorkSpace/zhimi/homs-boot-smartmi-fulfilment/src/main/java/org/homs/boot/fulfilment/handler/impl/ZmManualAbnormalJudgementHandler.java" timestamp="1553758859257">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoEditAddress.jsp" timestamp="1562654311673">
+        <mark key="'" line="11" column="12" />
+      </file>
+      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/java/gjt/util/AESUtils.java" timestamp="1501232979204">
+        <mark key="[" line="137" column="34" />
+        <mark key="]" line="137" column="41" />
+        <mark key="." line="137" column="41" />
+        <mark key="^" line="137" column="41" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicTwoLayoutPage.jsp" timestamp="1562654320948">
+        <mark key="'" line="9" column="17" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorServiceImpl.java" timestamp="1559114251317">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountRightPage.jsp" timestamp="1562654296833">
+        <mark key="'" line="26" column="51" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HomePageBannerServiceImpl.java" timestamp="1558941669789">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CommonController.java" timestamp="1560759453069">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/o2o/HepBlackLiskSetController.java" timestamp="1533541585610">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="48" column="11" />
+        <mark key="^" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/controllers/XycpResultController.java" timestamp="1512045863550">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/diff_ab/diff_ab_detail.screen" timestamp="1524730853031">
+        <mark key="[" line="1618" column="48" />
+        <mark key="]" line="1618" column="52" />
+        <mark key="^" line="1618" column="52" />
+        <mark key="." line="1618" column="52" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-parent/oms-refund-starter-fulfilment/src/main/java/org/smartmi/oms/refund/fulfilment/service/impl/ZmRefundGenerateReturnServiceImpl.java" timestamp="1555406201423">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="56" column="11" />
+        <mark key="^" line="56" column="11" />
+        <mark key="." line="56" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/RecommendController.java" timestamp="1559703237585">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/dto/XycpAward.java" timestamp="1512294258247">
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="20" />
+        <mark key="." line="68" column="20" />
+        <mark key="^" line="68" column="20" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/HomePageController.java" timestamp="1558942286321">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/service/impl/OfflineRefundExcelServiceImpl.java" timestamp="1555320714703">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XycpResultServiceImpl.java" timestamp="1512045273881">
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="68" column="14" />
+        <mark key="." line="68" column="18" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountOrderDetailDemoLayoutPage.jsp" timestamp="1562654280252">
+        <mark key="'" line="13" column="21" />
+      </file>
+      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/java/gjt/mst/service/impl/ICBCSendUnsignPostReq.java" timestamp="1502190065815">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HomePageSymptomServiceImpl.java" timestamp="1563529574778">
+        <mark key="[" line="183" column="198" />
+        <mark key="]" line="183" column="204" />
+        <mark key="^" line="183" column="197" />
+        <mark key="." line="183" column="198" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/diff_ab/diff_ab_detail2.screen" timestamp="1524736426649">
+        <mark key="[" line="207" column="96" />
+        <mark key="]" line="207" column="95" />
+        <mark key="." line="207" column="95" />
+        <mark key="^" line="207" column="95" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/expresslogistics/zto/jobs/ZTOHandleMarkJob.java" timestamp="1517969606194">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/jobs/ECBSLogisticsInformationJob.java" timestamp="1511858113911">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/java/gjt/mst/service/impl/ICBCRequest.java" timestamp="1502161127754">
+        <mark key="[" line="532" column="18" />
+        <mark key="]" line="532" column="25" />
+        <mark key="." line="532" column="25" />
+        <mark key="^" line="532" column="25" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/XycpUserResultMapper.xml" timestamp="1512196797203">
+        <mark key="[" line="73" column="92" />
+        <mark key="]" line="81" column="8" />
+        <mark key="^" line="73" column="809" />
+        <mark key="." line="73" column="810" />
+      </file>
+      <file name="H:/[绫致/test/src/Main.java" timestamp="1526349762328">
+        <mark key="[" line="6015" column="0" />
+        <mark key="]" line="8014" column="5" />
+        <mark key="^" line="10037" column="4" />
+        <mark key="." line="6015" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/inventory/impl/DefaultHepStoreInventoryQueryFacede.java" timestamp="1528786923512">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="57" column="13" />
+        <mark key="." line="57" column="13" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/services/impl/DefaultECBSLogisticsInformationService.java" timestamp="1511856678226">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="164" column="24" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="3" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/webapp/WEB-INF/view/xycp/xycp_award.html" timestamp="1512380639507">
+        <mark key="[" line="231" column="26" />
+        <mark key="]" line="231" column="27" />
+        <mark key="." line="231" column="27" />
+        <mark key="^" line="231" column="25" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/BetResultServiceImpl.java" timestamp="1512187472002">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-order-service/src/main/java/com/hand/hmall/order/service/handler/OrderHandlerContext.java" timestamp="1560245075131">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/tb/services/impl/DefaultECTMProductUploadService.java" timestamp="1535422922845">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/src/com/epo/storefront/controllers/pages/checkout/steps/EpoSummaryCheckoutStepController.java" timestamp="1551411256149">
+        <mark key="[" line="79" column="100" />
+        <mark key="]" line="79" column="102" />
+        <mark key="^" line="79" column="102" />
+        <mark key="." line="79" column="102" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/DoctorController.java" timestamp="1559114692731">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicThreeLayoutPage.jsp" timestamp="1562654323945">
+        <mark key="'" line="9" column="22" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoAccountRegisterData.java" timestamp="1563263242352">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="28" />
+        <mark key="." line="48" column="28" />
+        <mark key="^" line="48" column="28" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/diff/services/impl/DefaultDiffAbDetailService.java" timestamp="1533177018106">
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="71" column="11" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+      </file>
+      <file name="H:/[绫致/test/src/RequestDemo1.java" timestamp="1535100954496">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DepartmentServiceImpl.java" timestamp="1560324540883">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/RejectReturnGoodEntryHanderJob.java" timestamp="1554802950265">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1560325296090">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/resources/config.properties" timestamp="1499945739414">
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="73" column="17" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/CalculateAwardResultJbo.java" timestamp="1512696143149">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/api/controller/v1/OfflineRefundExcelController.java" timestamp="1555322184666">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epowebservice/web/src/com/epo/webservice/payment/PayPalPaymentResponseController.java" timestamp="1551238484681">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_010/OM_010_01.screen" timestamp="1511330998198">
+        <mark key="[" line="972" column="51" />
+        <mark key="]" line="972" column="44" />
+        <mark key="." line="972" column="44" />
+        <mark key="^" line="972" column="44" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/EvaluationDO.java" timestamp="1562120524692">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/order/impl/DefaultReturnRequestFacade.java" timestamp="1521454049384">
+        <mark key="[" line="609" column="2" />
+        <mark key="]" line="609" column="56" />
+        <mark key="." line="609" column="56" />
+        <mark key="^" line="609" column="56" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/convertors/impl/DefaultECBSLogisticsInformationConverter.java" timestamp="1511855391434">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/hybris/jobs/HepTryFixCloseConAbnormalJob.java" timestamp="1541574383235">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="7" />
+        <mark key="^" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/xycp/dto/c_user_my.java" timestamp="1511926663521">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/sap/convertors/impl/DefaultECSAPDeliverOrderConvertor.java" timestamp="1525852131692">
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="62" column="13" />
+        <mark key="^" line="62" column="13" />
+        <mark key="." line="62" column="13" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/services/ECBSLogisticsInformationService.java" timestamp="1511856375624">
+        <mark key="[" line="26" column="170" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/src/com/hep/cws/cronjob/sap/ECHandleDifferenceNotConfirmRegistrationJob.java" timestamp="1516589349164">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/RecordsMapper.xml" timestamp="1511964028141">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HospitalServiceImpl.java" timestamp="1559199513089">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+      </file>
+      <file name="I:/IDEA_workspace/Java8InAction/src/main/java/lambdasinaction/dsl/DefaultECBSWaybillConverter.java" timestamp="1511493555964">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/ych/impl/DefaultECYCHWarehouseStatusFacade.java" timestamp="1523956065870">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="76" column="7" />
+        <mark key="^" line="76" column="7" />
+        <mark key="." line="76" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountProfileEditPage.jsp" timestamp="1562654291538">
+        <mark key="'" line="11" column="14" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryMsdInnerLayoutPage.jsp" timestamp="1562654306225">
+        <mark key="'" line="11" column="19" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/AutoCloseSwapApplicationJob.java" timestamp="1525833444899">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/HospitalController.java" timestamp="1559204714863">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/CalculateService.java" timestamp="1512182775328">
+        <mark key="[" line="790" column="43" />
+        <mark key="]" line="790" column="45" />
+        <mark key="^" line="815" column="27" />
+        <mark key="." line="790" column="43" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountMyCollectionPage.jsp" timestamp="1562654276590">
+        <mark key="'" line="49" column="21" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-parent/oms-refund-starter-fulfilment/src/main/java/org/smartmi/oms/refund/fulfilment/domain/repository/impl/ZmReturnOrderEntryProcessRepositoryImpl.java" timestamp="1555470409786">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/dto/ScMixEntity.java" timestamp="1512007152081">
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="56" column="19" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/UpdateAwardInfoService.java" timestamp="1512288767094">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="24" column="11" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReturnGoodEntryHanderJob.java" timestamp="1554692059863">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/HttpGetApiRecordService.java" timestamp="1512445619439">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryCampaignLayoutPage.jsp" timestamp="1562654299410">
+        <mark key="'" line="10" column="23" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/MembersServiceImpl.java" timestamp="1511960336566">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/AppointmentController.java" timestamp="1559719356056">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/order/converters/impl/DefaultO2OConsignmentDataConverter.java" timestamp="1518077854466">
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/dai/impl/DefaultECHandleDifferenceNotConfirmRegistrationFacade.java" timestamp="1516607723416">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AppointmentServiceImpl.java" timestamp="1559717118638">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/o2oautoext/QueryOrderController.java" timestamp="1528456520823">
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="60" column="13" />
+        <mark key="^" line="60" column="13" />
+        <mark key="." line="60" column="13" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/service/impl/ReturnGoodEntryHanderServiceImpl.java" timestamp="1554803493056">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="47" column="11" />
+        <mark key="^" line="47" column="11" />
+        <mark key="." line="47" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hap/hmall-base/src/main/java/com/hand/hmall/om/service/impl/ConsignmentServiceImpl.java" timestamp="1559032531807">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_001/OM_001_02.screen" timestamp="1512096168016">
+        <mark key="[" line="141" column="25" />
+        <mark key="]" line="141" column="36" />
+        <mark key="." line="141" column="26" />
+        <mark key="^" line="141" column="24" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/SET_023/TransshipOrderManage.screen" timestamp="1514170601759">
+        <mark key="[" line="177" column="35" />
+        <mark key="]" line="177" column="50" />
+        <mark key="." line="235" column="81" />
+        <mark key="^" line="235" column="81" />
+      </file>
+      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/resources/gjt/pay/mapper/PayPaymentBatchMapper.xml" timestamp="1500363060174">
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="81" column="12" />
+        <mark key="." line="81" column="12" />
+        <mark key="^" line="81" column="12" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1559702092259">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/H5PointOfServiceAddJob.java" timestamp="1522724284316">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/homs-boot-smartmi-fulfilment/src/main/java/org/homs/boot/fulfilment/feign/impl/CancelWaybillFeignClientImpl.java" timestamp="1553851417992">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/diff/impl/DefaultDiffAbDetailFacade.java" timestamp="1531209794811">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="73" column="11" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="73" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/logs/services/impl/DefaultConsignmentGetMarkErrMsgService.java" timestamp="1526007548228">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/expresslogistics/zto/convertors/impl/DefaultZTODataConvertor.java" timestamp="1525836943722">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="50" column="11" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryHappeningLayoutPage.jsp" timestamp="1562654301815">
+        <mark key="'" line="9" column="20" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-order-service/src/main/java/com/hand/hmall/order/service/impl/OrderV1ServiceImpl.java" timestamp="1560136596388">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CommonServiceImpl.java" timestamp="1560760201710">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/zhimi/homs-interface/src/main/java/org/homs/interfaces/crm/app/service/impl/CrmOrderServiceImpl.java" timestamp="1554188176676">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="48" column="11" />
+        <mark key="^" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/myAccountBindPage.jsp" timestamp="1562654317889">
+        <mark key="'" line="11" column="16" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/ych/ECYchConsignmentController.java" timestamp="1511316422481">
+        <mark key="[" line="208" column="52" />
+        <mark key="]" line="208" column="52" />
+        <mark key="^" line="37" column="13" />
+        <mark key="." line="208" column="52" />
+      </file>
+      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XResultsServiceImpl.java" timestamp="1512043811047">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="19" />
+        <mark key="^" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoUpdateMessageMOData.java" timestamp="1562229801359">
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="103" column="27" />
+        <mark key="]" line="103" column="28" />
+        <mark key="." line="103" column="28" />
+        <mark key="^" line="103" column="28" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountOrderHistoryPage.jsp" timestamp="1562654286310">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicOneLayoutPage.jsp" timestamp="1562654327020">
+        <mark key="'" line="7" column="20" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/SwapInfoPushH5Job.java" timestamp="1527040995207">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="41" column="11" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+      </file>
+      <file name="I:/IDEA_workspace/HYBRISCOMM6300P2_1/hybris/bin/custom/hep/hepcore/testsrc/com/hep/core/daos/impls/testTests.java" timestamp="1493264181120">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/h5/impl/DefaultH5SwapApplicationFacade.java" timestamp="1523953933618">
+        <mark key="[" line="129" column="4" />
+        <mark key="]" line="130" column="11" />
+        <mark key="^" line="130" column="11" />
+        <mark key="." line="130" column="11" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="181" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="182" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="183" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="184" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="185" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="186" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="187" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="188" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="189" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="190" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="191" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="192" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="193" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="194" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="195" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="196" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="197" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="198" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="199" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="200" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="201" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="202" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="203" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="204" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="205" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="206" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
+      <jump line="61" column="0" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="22" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="23" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="24" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="25" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="26" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="27" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="28" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="29" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="30" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="31" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="32" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="33" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="34" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="35" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="36" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="37" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="38" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="39" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="40" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="41" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="42" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="47" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="48" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="49" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="50" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="51" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="52" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="53" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="54" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="55" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="56" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="57" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="43" column="28" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="44" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="45" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="46" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="13" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="14" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="15" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="16" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="17" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="18" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="19" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="20" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="21" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="60" column="27" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
+      <jump line="34" column="16" filename="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/WEB-INF/models/SET_023/transship_order_manage.bm" />
+      <jump line="35" column="15" filename="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/WEB-INF/models/SET_023/transship_order_manage.bm" />
+      <jump line="190" column="28" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
+      <jump line="188" column="37" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
+      <jump line="1370" column="0" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
+      <jump line="0" column="0" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
+      <jump line="1119" column="8" filename="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_006/OM_006_list-min.js" />
+      <jump line="14" column="5" filename="H:/[绫致/test/src/Main.java" />
+      <jump line="122" column="2" filename="D:/Program_Files/java8/jdk/src.zip!/java/util/PriorityQueue.java" />
+      <jump line="508" column="18" filename="I:/IDEAWorkSpace/hybris-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/oms/services/impl/DefaultECOMSRegistrationformService.java" />
+      <jump line="277" column="28" filename="I:/IDEAWorkSpace/hybris-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/WEB-INF/models/SET_023/transship_order_manage.bm" />
+      <jump line="86" column="4" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoUpdateMessageMOData.java" />
+      <jump line="88" column="4" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoUpdateMessageMOData.java" />
+      <jump line="49" column="21" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountMyCollectionPage.jsp" />
+      <jump line="13" column="21" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountOrderDetailDemoLayoutPage.jsp" />
+      <jump line="0" column="0" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountOrderHistoryPage.jsp" />
+      <jump line="11" column="14" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountProfileEditPage.jsp" />
+      <jump line="26" column="51" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountRightPage.jsp" />
+      <jump line="10" column="23" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryCampaignLayoutPage.jsp" />
+      <jump line="9" column="20" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryHappeningLayoutPage.jsp" />
+      <jump line="11" column="19" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryMsdInnerLayoutPage.jsp" />
+      <jump line="11" column="12" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoEditAddress.jsp" />
+      <jump line="11" column="16" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/myAccountBindPage.jsp" />
+      <jump line="9" column="17" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicTwoLayoutPage.jsp" />
+      <jump line="9" column="22" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicThreeLayoutPage.jsp" />
+      <jump line="7" column="20" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicOneLayoutPage.jsp" />
+      <jump line="33" column="4" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoAccountRegisterData.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>street</text>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="f" type="4">
+        <keys>
+          <key char="34" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="h" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');</text>
+      </register>
+      <register name="m" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="n" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text>i</text>
+      </register>
+      <register name="o" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="0" type="4">
+        <text>street</text>
+      </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="65535" code="8" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY29tcGFueU5hbWUiamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0icGhvbmVOdW0iamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iZW1haWwiamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+      </register>
+      <register name="s" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ib3BlbklkImpkYmNUeXBlPSJWQVJDSEFSInByb3BlcnR5PSIiLz4K</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="50" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="81" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3VzdG9tZXJOYW1lImpkYmNUeXBlPSJWQVJDSEFSInByb3BlcnR5PSIiLz4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iZG9jdG9yTmFtZSJqZGJjVHlwZT0iVkFSQ0hBUiJwcm9wZXJ0eT0iIi8+Cg==</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IDxyZXN1bHQgY29sdW1uPSJob3NwaXRhbE5hbWUiamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihFcG9TdW1tYXJ5Q2hlY2tvdXRTdGVwQ29udHJvbGxlci5jbGFzcyk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwgPSAic2luZ2xlU3RlcENoZWNrb3V0T3JkZXJDb25maXJtIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQQVlNRU5UX1NFUlZJQ0VfUFJPVklERVJfUEFUSF9WQVJJQUJMRV9QQVRURVJOID0gIntwYXltZW50U2VydmljZVByb3ZpZGVyfSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1JERVJfQ09ERV9QQVRIX1ZBUklBQkxFX1BBVFRFUk4gPSAie29yZGVyQ29kZTouKn0iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVBQUk9WQUxfVVJMID0gImFwcHJvdmFsX3VybCI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgUEFZTUVOVElEID0gInBheW1lbnRJZCI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgVE9LRU4gPSAidG9rZW4iOwogICAgcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIFBBWUVSSUQgPSAiUGF5ZXJJRCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBQYXR0ZXJuIHJlZ2V4ID0gUGF0dGVybi5jb21waWxlKCJcXHMqfFx0fFxyfFxuIik7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBFcG9DaGVja291dEZhY2FkZSBlcG9DaGVja291dEZhY2FkZTsKICAgIEBSZXNvdXJjZShuYW1lID0gImVwb09yZGVyRmFjYWRlIikKICAgIHByaXZhdGUgRXBvT3JkZXJGYWNhZGUgZXBvT3JkZXJGYWNhZGU7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEVwb0NvbW1vblNlYXJjaFNlcnZpY2UgZXBvQ29tbW9uU2VhcmNoU2VydmljZTsKICAgIEBSZXNvdXJjZShuYW1lID0gImVwb1RoaXJkUGFydHlMb2dpbkZhY2FkZSIpCiAgICBwcml2YXRlIEVwb1RoaXJkUGFydHlMb2dpbkZhY2FkZSBlcG9UaGlyZFBhcnR5TG9naW5GYWNhZGU7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIENvbmZpZ3VyYXRpb25TZXJ2aWNlIGNvbmZpZ3VyYXRpb25TZXJ2aWNlOwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQYXlQYWxQYXltZW50RmFjYWRlIHBheVBhbFBheW1lbnRGYWNhZGU7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEJhc2VTdG9yZVNlcnZpY2UgYmFzZVN0b3JlU2VydmljZTsKCgogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9ob3AtcGF5bWVudC8iICsgT1JERVJfQ09ERV9QQVRIX1ZBUklBQkxFX1BBVFRFUk4pCiAgICBAUmVxdWlyZUhhcmRMb2dJbgogICAgcHVibGljIFN0cmluZyBob3BQYXltZW50KEBQYXRoVmFyaWFibGUoIm9yZGVyQ29kZSIpIGZpbmFsIFN0cmluZyBvcmRlckNvZGUsIGZpbmFsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBmaW5hbCBNb2RlbCBtb2RlbCkgdGhyb3dzIENNU0l0ZW1Ob3RGb3VuZEV4Y2VwdGlvbgogICAgewogICAgICAgIC8vvOyy6crHt/HWp7i2s8m5pgogICAgICAgIGZpbmFsIE9yZGVyRGF0YSBvcmRlckRhdGEgPSBlcG9PcmRlckZhY2FkZS5nZXRPcmRlckRhdGFPbmx5Rm9yQ29kZShvcmRlckNvZGUpOwogICAgICAgIGlmIChvcmRlckRhdGEgIT0gbnVsbCkgewogICAgICAgICAgICBmaW5hbCBQYXltZW50U3RhdHVzIHBheW1lbnRTdGF0dXMgPSBvcmRlckRhdGEuZ2V0UGF5bWVudFN0YXR1cygpOwogICAgICAgICAgICAvL7j5vt22qbWl17TMrMXQts/M+Neqo6zS0danuLbM+Neqtqm1pcHQse0KICAgICAgICAgICAgaWYgKFBheW1lbnRTdGF0dXMuUEFJRC5lcXVhbHMocGF5bWVudFN0YXR1cykpIHsKICAgICAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyAiL2NoZWNrb3V0L211bHRpL3N1bW1hcnkvY2hlY2tQYXltZW50UmVzdWx0LyIgKyBvcmRlckNvZGU7CiAgICAgICAgICAgIH1lbHNlIGlmKCFPcmRlclN0YXR1cy5VTlBBSUQuZXF1YWxzKG9yZGVyRGF0YS5nZXRTdGF0dXMoKSkpewogICAgICAgICAgICAgICAgcmV0dXJuIFJFRElSRUNUX1BSRUZJWCArICIvbXktYWNjb3VudC9vcmRlcnMiOwogICAgICAgICAgICB9CiAgICAgICAgICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgib3JkZXJEYXRhIiwgb3JkZXJEYXRhKTsKICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJwYXltZW50TWV0aG9kIiwgRXBvQ29udHJvbGxlckNvbnN0YW50cy5QQVlNRU5UX0FMSVBBWSk7CiAgICAgICAgICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgid2VDaGF0V2FwIiwgVXNlckFnZW50VXRpbC5jaGVja0FnZW50V2VDaGF0KHJlcXVlc3QpKTsKICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJyZXNwb25zaXZlIiwgVXNlckFnZW50VXRpbC5jaGVja0FnZW50TW9iaWxlKHJlcXVlc3QpKTsKCiAgICAgICAgICAgIHN0b3JlQ21zUGFnZUluTW9kZWwobW9kZWwsIGdldENvbnRlbnRQYWdlRm9yTGFiZWxPcklkKFNJTkdMRV9DSEVDS09VVF9PUkRFUl9DT05GSVJNX19QQUdFX0xBQkVMKSk7CiAgICAgICAgICAgIHNldFVwTWV0YURhdGFGb3JDb250ZW50UGFnZShtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgcmV0dXJuIENvbnRyb2xsZXJDb25zdGFudHMuVmlld3MuUGFnZXMuU2luZ2xlU3RlcENoZWNrb3V0LkhvcFBheW1lbnRQYWdlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUkVESVJFQ1RfUFJFRklYICsgIi9jYXJ0IjsKICAgIH0KCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL3ZhbGlkT3JkZXIiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgUmVzdWx0IHZhbGlkT3JkZXIoQFJlcXVlc3RQYXJhbSgib3JkZXIiKSBmaW5hbCBTdHJpbmcgb3JkZXIpIHRocm93cyBDTVNJdGVtTm90Rm91bmRFeGNlcHRpb24gewogICAgICAgIGZpbmFsIE9yZGVyTW9kZWwgb3JkZXJNb2RlbCA9IGVwb0NvbW1vblNlYXJjaFNlcnZpY2UuZmluZEJ5Q29kZShvcmRlciwgT3JkZXJNb2RlbC5jbGFzcyk7CiAgICAgICAgaWYobnVsbCA9PSBvcmRlck1vZGVsKXsKICAgICAgICAgICAgcmV0dXJuIFJlc3VsdFV0aWwuZmFpbCg0MDAsIraptaXWp7i2yqew3CIpOwogICAgICAgIH0KICAgICAgICBmaW5hbCBCb29sZWFuIHJlc2VydmVTdG9ja0ZsYWcgPSBvcmRlck1vZGVsLmdldFJlc2VydmVTdG9ja0ZsYWcoKTsKICAgICAgICBpZihudWxsID09IHJlc2VydmVTdG9ja0ZsYWcgfHwgIXJlc2VydmVTdG9ja0ZsYWcpewogICAgICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IGVwb0NoZWNrb3V0RmFjYWRlLnZhbGlkT3JkZXJJbnZlbnRvcnkob3JkZXJNb2RlbCk7CiAgICAgICAgICAgIGlmKCFyZXN1bHQpewogICAgICAgICAgICAgICAgcmV0dXJuIFJlc3VsdFV0aWwuZmFpbCg0MDQsIr/itOayu9fjo6zH69bY0MLPwrWlIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgZ2V0Q2FydEZhY2FkZSgpLnJlbW92ZVNlc3Npb25DYXJ0KCk7CiAgICAgICAgcmV0dXJuIFJlc3VsdFV0aWwuc3VjY2VzcygpOwogICAgfQoKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcGF5UmlnaHROb3cvIiArIFBBWU1FTlRfU0VSVklDRV9QUk9WSURFUl9QQVRIX1ZBUklBQkxFX1BBVFRFUk4gKyAiLyIgKyBPUkRFUl9DT0RFX1BBVEhfVkFSSUFCTEVfUEFUVEVSTikKICAgIHB1YmxpYyBTdHJpbmcgZG9QYXltZW50KEBQYXRoVmFyaWFibGUoIm9yZGVyQ29kZSIpIGZpbmFsIFN0cmluZyBvcmRlckNvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUGF0aFZhcmlhYmxlKCJwYXltZW50U2VydmljZVByb3ZpZGVyIikgZmluYWwgU3RyaW5nIHBheW1lbnRTZXJ2aWNlUHJvdmlkZXIsIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5hbCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgZmluYWwgTW9kZWwgbW9kZWwpIHRocm93cyBDTVNJdGVtTm90Rm91bmRFeGNlcHRpb24sIElPRXhjZXB0aW9uIHsKICAgICAgICBmaW5hbCBPcmRlck1vZGVsIG9yZGVyTW9kZWwgPSBlcG9Db21tb25TZWFyY2hTZXJ2aWNlLmZpbmRCeUNvZGUob3JkZXJDb2RlLCBPcmRlck1vZGVsLmNsYXNzKTsKICAgICAgICAvL7aptaXXtMysxdC2zwogICAgICAgIGlmKG51bGwgPT0gb3JkZXJNb2RlbCB8fCAhT3JkZXJTdGF0dXMuVU5QQUlELmVxdWFscyhvcmRlck1vZGVsLmdldFN0YXR1cygpKSl7CiAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyAiL215LWFjY291bnQvb3JkZXJzIjsKICAgICAgICB9CiAgICAgICAgLy+2qbWlv+K05sXQts8KICAgICAgICBmaW5hbCBCb29sZWFuIHJlc2VydmVTdG9ja0ZsYWcgPSBvcmRlck1vZGVsLmdldFJlc2VydmVTdG9ja0ZsYWcoKTsKICAgICAgICBpZihudWxsID09IHJlc2VydmVTdG9ja0ZsYWcgfHwgIXJlc2VydmVTdG9ja0ZsYWcpewogICAgICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IGVwb0NoZWNrb3V0RmFjYWRlLnZhbGlkT3JkZXJJbnZlbnRvcnkob3JkZXJNb2RlbCk7CiAgICAgICAgICAgIGlmKCFyZXN1bHQpewogICAgICAgICAgICAgICAgcmV0dXJuIFJFRElSRUNUX1BSRUZJWCArICIvbXktYWNjb3VudC9vcmRlcnMiOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC8vtqm1pdanuLbXtMysxdC2zwogICAgICAgIGlmIChQYXltZW50U3RhdHVzLlBBSUQuZXF1YWxzKG9yZGVyTW9kZWwuZ2V0UGF5bWVudFN0YXR1cygpKSkgewogICAgICAgICAgICAvL9LR1qe4trK71NnH68fzCiAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyAiL2NoZWNrb3V0L211bHRpL3N1bW1hcnkvY2hlY2tQYXltZW50UmVzdWx0LyIgKyBvcmRlck1vZGVsLmdldENvZGUoKTsKICAgICAgICB9CiAgICAgICAgLy+xo7Tm1qe4ttDFz6IKICAgICAgICBmaW5hbCBib29sZWFuIHJlc3VsdCA9IGVwb0NoZWNrb3V0RmFjYWRlLnNldFBheW1lbnRJbmZvKHBheW1lbnRTZXJ2aWNlUHJvdmlkZXIsIG9yZGVyTW9kZWwpOwogICAgICAgIGlmKCFyZXN1bHQpewogICAgICAgICAgICBMT0cuZXJyb3IoIk5vdCBTZWxlY3QgUGF5bWVudCBNZXRob2QiKTsKICAgICAgICAgICAgcmV0dXJuIFJFRElSRUNUX1BSRUZJWCArICIvY2hlY2tvdXQvbXVsdGkvc3VtbWFyeS9ob3AtcGF5bWVudC8iICsgb3JkZXJNb2RlbC5nZXRDb2RlKCk7CiAgICAgICAgfQoKICAgICAgICAvL8XQts/Kx7fxysfSxravtssKICAgICAgICBmaW5hbCBib29sZWFuIGNoZWNrQWdlbnRNb2JpbGUgPSBVc2VyQWdlbnRVdGlsLmNoZWNrQWdlbnRNb2JpbGUocmVxdWVzdCk7CiAgICAgICAgLy/F0LbPyse38crHzqLQxeSvwMDG9wogICAgICAgIGZpbmFsIGJvb2xlYW4gYWdlbnRXZUNoYXQgPSBVc2VyQWdlbnRVdGlsLmNoZWNrQWdlbnRXZUNoYXQocmVxdWVzdCk7CiAgICAgICAgLy+78cihtbHHsLXEx+vH81VSTAogICAgICAgIGZpbmFsIFN0cmluZyByZXF1ZXN0VVJMID0gcmVxdWVzdC5nZXRSZXF1ZXN0VVJMKCkudG9TdHJpbmcoKTsKCiAgICAgICAgLy+yu82stcTWp7i2t73KvSy0psDtsrvNrAogICAgICAgIHN3aXRjaCAob3JkZXJNb2RlbC5nZXRQYXltZW50TW9kZSgpLmdldENvZGUoKSkgewogICAgICAgICAgICBjYXNlIEVwb0NvbnRyb2xsZXJDb25zdGFudHMuUEFZTUVOVF9BTElQQVk6CiAgICAgICAgICAgICAgICAvL9anuLaxpsf4t9bK1rv6tssKICAgICAgICAgICAgICAgIC8vu/HIodanuLaxptanuLayzsr9CiAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgYWxpcGF5UGF5bWVudFJlcXVlc3RVcmwgPSBlcG9DaGVja291dEZhY2FkZS5nZXRBbGlwYXlQYXltZW50UmVxdWVzdFVybChvcmRlck1vZGVsLCBjaGVja0FnZW50TW9iaWxlLCByZXF1ZXN0VVJMKTsKICAgICAgICAgICAgICAgIExPRy5kZWJ1ZygiRG8gQWxpcGF5IFBheW1lbnQgUmVxdWVzdCBVcmwgOiB7fSIgLCBhbGlwYXlQYXltZW50UmVxdWVzdFVybCk7CgogICAgICAgICAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhhbGlwYXlQYXltZW50UmVxdWVzdFVybCkpewogICAgICAgICAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyAiL2NoZWNrb3V0L211bHRpL3N1bW1hcnkvaG9wLXBheW1lbnQvIiArIG9yZGVyTW9kZWwuZ2V0Q29kZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYoY2hlY2tBZ2VudE1vYmlsZSl7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbDtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCkud3JpdGUoYWxpcGF5UGF5bWVudFJlcXVlc3RVcmwpOwogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLmZsdXNoKCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJwYXltZW50TWV0aG9kIiwgb3JkZXJNb2RlbC5nZXRQYXltZW50TW9kZSgpLmdldENvZGUoKSk7CiAgICAgICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm9yZGVyIiwgb3JkZXJDb2RlKTsKICAgICAgICAgICAgICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgidG90YWxQcmljZSIsIGVwb0NoZWNrb3V0RmFjYWRlLmNyZWF0ZVByaWNlRGF0YShvcmRlck1vZGVsLmdldFRvdGFsUHJpY2UoKSkpOwogICAgICAgICAgICAgICAgc3RvcmVDbXNQYWdlSW5Nb2RlbChtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgICAgIHNldFVwTWV0YURhdGFGb3JDb250ZW50UGFnZShtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgICAgIHN0b3JlQ29udGVudFBhZ2VUaXRsZUluTW9kZWwobW9kZWwsIGdldFBhZ2VUaXRsZVJlc29sdmVyKCkucmVzb2x2ZUNvbnRlbnRQYWdlVGl0bGUoCiAgICAgICAgICAgICAgICAgICAgICAgIGdldE1lc3NhZ2VTb3VyY2UoKS5nZXRNZXNzYWdlKCJwYXltZW50LnBhZ2Uuc3dlZXBDb2RlIiwgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicGF5bWVudC5wYWdlLnN3ZWVwQ29kZSIsIGdldEkxOG5TZXJ2aWNlKCkuZ2V0Q3VycmVudExvY2FsZSgpKSkpOwoKICAgICAgICAgICAgICAgIGZpbmFsIEN1c3RvbWVyRGF0YSBjdXJyZW50Q3VzdG9tZXIgPSBnZXRDdXN0b21lckZhY2FkZSgpLmdldEN1cnJlbnRDdXN0b21lcigpOwogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHF1ZXJ5U3RhdHVzU3RhcnRUaW1lU2Vzc2lvbiA9IGN1cnJlbnRDdXN0b21lci5nZXRDdXN0b21lcklkKCkgKyBvcmRlck1vZGVsLmdldFBheW1lbnRNb2RlKCkuZ2V0Q29kZSgpICsgInF1ZXJ5U3RhdHVzU3RhcnRUaW1lIjsKICAgICAgICAgICAgICAgIGdldFNlc3Npb25TZXJ2aWNlKCkucmVtb3ZlQXR0cmlidXRlKHF1ZXJ5U3RhdHVzU3RhcnRUaW1lU2Vzc2lvbik7CgogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIGFsaXBheUZvcm1TZXNzaW9uID0gY3VycmVudEN1c3RvbWVyLmdldEN1c3RvbWVySWQoKSsiYWxpcGF5Rm9ybSI7CiAgICAgICAgICAgICAgICBnZXRTZXNzaW9uU2VydmljZSgpLnNldEF0dHJpYnV0ZShhbGlwYXlGb3JtU2Vzc2lvbiwgYWxpcGF5UGF5bWVudFJlcXVlc3RVcmwpOwoKICAgICAgICAgICAgICAgIHJldHVybiBDb250cm9sbGVyQ29uc3RhbnRzLlZpZXdzLlBhZ2VzLlNpbmdsZVN0ZXBDaGVja291dC5Td2VlcENvZGVQYXltZW50UGFnZTsKCiAgICAgICAgICAgIGNhc2UgRXBvQ29udHJvbGxlckNvbnN0YW50cy5QQVlNRU5UX1dFQ0hBVDoKICAgICAgICAgICAgICAgIC8vzqLQxeSvwMDG99Kqu/HIodPDu6dvcGVuSUQKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBvcGVuSWQgPSByZXF1ZXN0LmdldFBhcmFtZXRlcihFcG9Db250cm9sbGVyQ29uc3RhbnRzLldFQ0hBVF9XQVBfT1BFTl9JRCk7CiAgICAgICAgICAgICAgICBpZihjaGVja0FnZW50TW9iaWxlICYmIGFnZW50V2VDaGF0ICYmIFN0cmluZ1V0aWxzLmlzQmxhbmsob3BlbklkKSl7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgQmFzZVNpdGVNb2RlbCBzaXRlID0gb3JkZXJNb2RlbC5nZXRTaXRlKCkgPT0gbnVsbCA/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRCYXNlU2l0ZVNlcnZpY2UoKS5nZXRDdXJyZW50QmFzZVNpdGUoKSA6IG9yZGVyTW9kZWwuZ2V0U2l0ZSgpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyBlcG9DaGVja291dEZhY2FkZS5nZXRXZUNoYXRQYXltZW50V2FwVXJsKHJlcXVlc3RVUkwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcG9UaGlyZFBhcnR5TG9naW5GYWNhZGUuZ2V0Q3VycmVudEJhc2VTaXRlU3ltYm9sKHNpdGUpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC8vu/HIobTTx7C2y7SrwLS1xL/Nu6dJUCy78tXftNPH68fz1tC78cihCiAgICAgICAgICAgICAgICBTdHJpbmcgcmVtb3RlSG9zdCA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKEVwb0NvbnRyb2xsZXJDb25zdGFudHMuUEFZTUVOVF9BRERSRVNTX0lQKTsKICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsocmVtb3RlSG9zdCkpewogICAgICAgICAgICAgICAgICAgIHJlbW90ZUhvc3QgPSBXZUNoYXRVdGlsLmdldElwQWRkcmVzcyhyZXF1ZXN0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC8vzqLQxdanuLajrMf4t9bK1rv6tsvOotDF5K/AwMb31qe4tgogICAgICAgICAgICAgICAgTE9HLmRlYnVnKCJEbyBQYXltZW50IFdlQ2hhdCBKU0FQSSBPcGVuSWQgW3t9XSIsIG9wZW5JZCk7CiAgICAgICAgICAgICAgICAvL7vxyKHOotDF1qe4trLOyv0KICAgICAgICAgICAgICAgIGZpbmFsIEVwb1dlQ2hhdFBheW1lbnREYXRhIGVwb1dlQ2hhdFBheW1lbnREYXRhID0gZXBvQ2hlY2tvdXRGYWNhZGUuZ2V0V2VDaGF0UGF5bWVudFJlcXVlc3RVcmwob3JkZXJNb2RlbCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tBZ2VudE1vYmlsZSwgYWdlbnRXZUNoYXQsIG9wZW5JZCwgcmVtb3RlSG9zdCwgcmVxdWVzdFVSTCk7CiAgICAgICAgICAgICAgICBpZihjaGVja0FnZW50TW9iaWxlKXsKICAgICAgICAgICAgICAgICAgICBpZihhZ2VudFdlQ2hhdCl7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vzPjXqrW9zqLQxeSvwMDG99anuLbW0NKzw+YKICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJlcG9XZUNoYXRQYXltZW50RGF0YSIsIGVwb1dlQ2hhdFBheW1lbnREYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJ3ZWNoYXRQYXlUaW1lb3V0IiwgNSo2MCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0b3JlQ21zUGFnZUluTW9kZWwobW9kZWwsIGdldENvbnRlbnRQYWdlRm9yTGFiZWxPcklkKFNJTkdMRV9DSEVDS09VVF9PUkRFUl9DT05GSVJNX19QQUdFX0xBQkVMKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldFVwTWV0YURhdGFGb3JDb250ZW50UGFnZShtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3RvcmVDb250ZW50UGFnZVRpdGxlSW5Nb2RlbChtb2RlbCwgZ2V0UGFnZVRpdGxlUmVzb2x2ZXIoKS5yZXNvbHZlQ29udGVudFBhZ2VUaXRsZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRNZXNzYWdlU291cmNlKCkuZ2V0TWVzc2FnZSgiIiwgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiLCBnZXRJMThuU2VydmljZSgpLmdldEN1cnJlbnRMb2NhbGUoKSkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENvbnRyb2xsZXJDb25zdGFudHMuVmlld3MuUGFnZXMuU2luZ2xlU3RlcENoZWNrb3V0LldlQ2hhdE1vYmlsZVBheW1lbnRQYWdlOwogICAgICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgICAgICAvL86i0MVINdanuLajrLfHzqLQxeSvwMDG96Os1rG908z416oKICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHJlcXVlc3RVUkkgPSByZXF1ZXN0VVJMLnN1YnN0cmluZygwLCByZXF1ZXN0VVJMLmluZGV4T2YoInN1bW1hcnkvIikrOCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyByZXR1cm5VUkwgPSByZXF1ZXN0VVJJICsgb3JkZXJNb2RlbC5nZXRQYXltZW50TW9kZSgpLmdldENvZGUoKSArICIvcHNwc3luY3Jlc3BvbnNlLyIgKyBvcmRlck1vZGVsLmdldENvZGUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHJlZGlyZWN0VXJsID0gdXJsRW5jb2RlKHJldHVyblVSTCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyBlcG9XZUNoYXRQYXltZW50RGF0YS5nZXRNd2ViVXJsKCkrICImcmVkaXJlY3RfdXJsPSIgKyByZWRpcmVjdFVybDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInBheW1lbnRNZXRob2QiLCBvcmRlck1vZGVsLmdldFBheW1lbnRNb2RlKCkuZ2V0Q29kZSgpKTsKICAgICAgICAgICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIndlQ2hhdFFSIiwgZXBvV2VDaGF0UGF5bWVudERhdGEuZ2V0Q29kZVVybCgpKTsKICAgICAgICAgICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm9yZGVyIiwgb3JkZXJDb2RlKTsKICAgICAgICAgICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInRvdGFsUHJpY2UiLCBlcG9DaGVja291dEZhY2FkZS5jcmVhdGVQcmljZURhdGEob3JkZXJNb2RlbC5nZXRUb3RhbFByaWNlKCkpKTsKICAgICAgICAgICAgICAgICAgICBzdG9yZUNtc1BhZ2VJbk1vZGVsKG1vZGVsLCBnZXRDb250ZW50UGFnZUZvckxhYmVsT3JJZChTSU5HTEVfQ0hFQ0tPVVRfT1JERVJfQ09ORklSTV9fUEFHRV9MQUJFTCkpOwogICAgICAgICAgICAgICAgICAgIHNldFVwTWV0YURhdGFGb3JDb250ZW50UGFnZShtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgICAgICAgICBzdG9yZUNvbnRlbnRQYWdlVGl0bGVJbk1vZGVsKG1vZGVsLCBnZXRQYWdlVGl0bGVSZXNvbHZlcigpLnJlc29sdmVDb250ZW50UGFnZVRpdGxlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2V0TWVzc2FnZVNvdXJjZSgpLmdldE1lc3NhZ2UoInBheW1lbnQucGFnZS5zd2VlcENvZGUiLCBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicGF5bWVudC5wYWdlLnN3ZWVwQ29kZSIsIGdldEkxOG5TZXJ2aWNlKCkuZ2V0Q3VycmVudExvY2FsZSgpKSkpOwoKICAgICAgICAgICAgICAgICAgICBmaW5hbCBDdXN0b21lckRhdGEgY3VycmVudEN1c3RvbWVyX3dlQ2hhdCA9IGdldEN1c3RvbWVyRmFjYWRlKCkuZ2V0Q3VycmVudEN1c3RvbWVyKCk7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHF1ZXJ5U3RhdHVzU3RhcnRUaW1lU2Vzc2lvbl93ZUNoYXQgPSBjdXJyZW50Q3VzdG9tZXJfd2VDaGF0LmdldEN1c3RvbWVySWQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBvcmRlck1vZGVsLmdldFBheW1lbnRNb2RlKCkuZ2V0Q29kZSgpICsgInF1ZXJ5U3RhdHVzU3RhcnRUaW1lIjsKICAgICAgICAgICAgICAgICAgICBnZXRTZXNzaW9uU2VydmljZSgpLnJlbW92ZUF0dHJpYnV0ZShxdWVyeVN0YXR1c1N0YXJ0VGltZVNlc3Npb25fd2VDaGF0KTsKCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENvbnRyb2xsZXJDb25zdGFudHMuVmlld3MuUGFnZXMuU2luZ2xlU3RlcENoZWNrb3V0LlN3ZWVwQ29kZVBheW1lbnRQYWdlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBjYXNlIEVwb0NvbnRyb2xsZXJDb25zdGFudHMuUEFZTUVOVF9VTklPTjoKICAgICAgICAgICAgICAgIC8vVE9ET6O60vjBqrXE09C0/b+qt6IKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEVwb0NvbnRyb2xsZXJDb25zdGFudHMuUEFZTUVOVF9QQVlQQUw6CiAgICAgICAgICAgICAgICAvKmZpbmFsIFNvcnRlZE1hcDxTdHJpbmcsU3RyaW5nPiByZXF1ZXN0TWFwID0gbmV3IFRyZWVNYXA8PigpOwogICAgICAgICAgICAgICAgcmVxdWVzdE1hcC5wdXQoIiIpKi8KICAgICAgICAgICAgICAgIC8vILX308NUcmFuc2FjdGlvblNlYXJjaLe9t6gKICAgICAgICAgICAgICAvKiAgU3RyaW5nIGNvbmZpZ0ZpbGVQYXRoID0gInNka19jb25maWcucHJvcGVydGllcyI7CiAgICAgICAgICAgICAgICAgSW5wdXRTdHJlYW0gaXMgPSBHZW5lcmF0ZVBheXBhbEludGVyZmFjZVNlcnZpY2UuY2xhc3MKICAgICAgICAgICAgICAgICAuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZUFzU3RyZWFtKGNvbmZpZ0ZpbGVQYXRoKTsKCiAgICAgICAgICAgICAgICBQYXlQYWxBUElJbnRlcmZhY2VTZXJ2aWNlU2VydmljZSAgc2VydmljZSA9IG5ldyBQYXlQYWxBUElJbnRlcmZhY2VTZXJ2aWNlU2VydmljZShpcyk7CiAgICAgICAgICAgICAgICBUcmFuc2FjdGlvblNlYXJjaFJlcXVlc3RUeXBlIHNlYXJjaFJlcVR5cGUgPSBuZXcgVHJhbnNhY3Rpb25TZWFyY2hSZXF1ZXN0VHlwZSgpOwogICAgICAgICAgICAgICAgc2VhcmNoUmVxVHlwZS5zZXRTdGFydERhdGUoVHJhbnNhY3Rpb25VdGlscy5jb252ZXJ0VVRDRGF0ZShkYXRlRnJvbSkpOwogICAgICAgICAgICAgICAgc2VhcmNoUmVxVHlwZS5zZXRFbmREYXRlKFRyYW5zYWN0aW9uVXRpbHMuY29udmVydFVUQ0RhdGUoZGF0ZVRvKSk7CiAgICAgICAgICAgICAgICBUcmFuc2FjdGlvblNlYXJjaFJlcSBzZWFyY2hSZXEgPSBuZXcgVHJhbnNhY3Rpb25TZWFyY2hSZXEoKTsKICAgICAgICAgICAgICAgIHNlYXJjaFJlcS5zZXRUcmFuc2FjdGlvblNlYXJjaFJlcXVlc3Qoc2VhcmNoUmVxVHlwZSk7CgogICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25TZWFyY2hSZXNwb25zZVR5cGUgc2VhcmNoUmVzcCA9IG5ldyBUcmFuc2FjdGlvblNlYXJjaFJlc3BvbnNlVHlwZSgpOwogICAgICAgICAgICAgICAgc2VhcmNoUmVzcCA9IHNlcnZpY2UudHJhbnNhY3Rpb25TZWFyY2goc2VhcmNoUmVxKTsKICAgICAgICAgICAgICAgIC8vx+vH87LOyv0KICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBwYXJhbXMgPSBFcG9GYXN0anNvblV0aWwubWFwVG9Kc29uKHJlcXVlc3RNYXApOwogICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHJlc3VsdFRleHQgPSBOZXRVdGlscy5wb3N0KCIiLCBwYXJhbXMsIHBhcmFtcy5zdGFydHNXaXRoKCJ7IikgPyAiYXBwbGljYXRpb24vanNvbiIgOiAidGV4dC94bWwiLCBOZXRVdGlscy5nZXRIdHRwQ2xpZW50KCkpOwogICAgICAgICAgICAgICAgLy/P7NOmbWFwCiAgICAgICAgICAgICAgICBmaW5hbCBTb3J0ZWRNYXAgcmVzdWx0TWFwID0gSnNvblV0aWxzLmpzb24yT2JqZWN0KHJlc3VsdFRleHQsIFNvcnRlZE1hcC5jbGFzcyk7Ki8KICAgICAgICAgICAgICAgIE9wdGlvbmFsPFBheW1lbnQ+IGNyZWF0ZWRQYXltZW50ID0gbnVsbDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgTE9HLmluZm8ocmVxdWVzdC5nZXRSZXF1ZXN0VVJJKCkpOwogICAgICAgICAgICAgICAgICAgIExPRy5pbmZvKHJlcXVlc3QuZ2V0UmVxdWVzdFVSTCgpLnN1YnN0cmluZygwLHJlcXVlc3QuZ2V0UmVxdWVzdFVSTCgpLmluZGV4T2YoIi8iKSkpOwogICAgICAgICAgICAgICAgICAgIExPRy5pbmZvKHJlcXVlc3QuZ2V0UmVtb3RlQWRkcigpKTsKICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbyhyZXF1ZXN0LmdldFJlbW90ZUhvc3QoKSk7CiAgICAgICAgICAgICAgICAgICAgTE9HLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZG9tYWluID0gcmVxdWVzdC5nZXRSZXF1ZXN0VVJMKCkuc3Vic3RyaW5nKDAscmVxdWVzdC5nZXRSZXF1ZXN0VVJJKCkuaW5kZXhPZigiLyIpKTsKICAgICAgICAgICAgICAgICAgICBjcmVhdGVkUGF5bWVudCA9IHRoaXMuaGFuZFBheXBhbENoZWNrKGRvbWFpbixvcmRlck1vZGVsKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFBheVBhbFJFU1RFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIExPRy5pbmZvKCK199PDcGF5cGFs1qe4ttLss6OjuiIrZS5nZXREZXRhaWxzKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJwYXlwYWxfc3RhdHVzIiwgIkYiKTsKICAgICAgICAgICAgICAgICAgICAvL7vYtb3RodTx1qe4tre9yr21xNKzw+YKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUkVESVJFQ1RfUFJFRklYICsgIi9jaGVja291dC9tdWx0aS9zdW1tYXJ5L2hvcC1wYXltZW50LyIgKyBvcmRlck1vZGVsLmdldENvZGUoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChjcmVhdGVkUGF5bWVudC5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICAgICAgICAgIExPRy5pbmZvKCJDcmVhdGVkIHBheW1lbnQgd2l0aCBpZCA9ICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgY3JlYXRlZFBheW1lbnQuZ2V0KCkuZ2V0SWQoKSArICIgYW5kIHN0YXR1cyA9ICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgY3JlYXRlZFBheW1lbnQuZ2V0KCkuZ2V0U3RhdGUoKSk7CiAgICAgICAgICAgICAgICAgICAgSXRlcmF0b3IgbGlua3MgPSBjcmVhdGVkUGF5bWVudC5nZXQoKS5nZXRMaW5rcygpLml0ZXJhdG9yKCk7CiAgICAgICAgICAgICAgICAgICAgd2hpbGUgKGxpbmtzLmhhc05leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBMaW5rcyBsaW5rID0gKExpbmtzKSBsaW5rcy5uZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChBUFBST1ZBTF9VUkwuZXF1YWxzSWdub3JlQ2FzZShsaW5rLmdldFJlbCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbDtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZShsaW5rLmdldEhyZWYoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS5mbHVzaCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBSZWRpcmVjdCB0aGUgY3VzdG9tZXIgdG8gbGluay5nZXRIcmVmKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgTE9HLmVycm9yKCJEb24ndCBTdXBwb3J0IE90aGVyIFBheW1lbnQgTWV0aG9kIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFJFRElSRUNUX1BSRUZJWCArICIvY2hlY2tvdXQvbXVsdGkvc3VtbWFyeS9ob3AtcGF5bWVudC8iICsgb3JkZXJNb2RlbC5nZXRDb2RlKCk7CiAgICB9CgogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9wc3Bhc3lucmVzcG9uc2UvKiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBFcG9Fc2JJbmZvRGF0YSBoYW5kbGVBc3luY1Jlc3BvbnNlKGZpbmFsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBmaW5hbCBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgSU9FeGNlcHRpb24KICAgIHsKICAgICAgICBCdWZmZXJlZFJlYWRlciBzdHJlYW1SZWFkZXIgPSBudWxsOwogICAgICAgIEVwb09tc1Jlc3BvbnNlRGF0YSByZXNwb25zZURhdGE7CiAgICAgICAgZmluYWwgU3RyaW5nIHRyYW5zYWN0aW9uSWQgPSBTdHJpbmcudmFsdWVPZihFcG9Tbm93Zmxha2VJZFdvcmtlci5nZXRUcmFuc2FjdGlvbklkKCkpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHN0cmVhbVJlYWRlciA9IG5ldyBCdWZmZXJlZFJlYWRlciggbmV3IElucHV0U3RyZWFtUmVhZGVyKHJlcXVlc3QuZ2V0SW5wdXRTdHJlYW0oKSwgIlVURi04IikpOwogICAgICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIHJlcXVlc3RCdWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgU3RyaW5nIGxpbmU7CiAgICAgICAgICAgIHdoaWxlICgobGluZSA9IHN0cmVhbVJlYWRlci5yZWFkTGluZSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBpZihTdHJpbmdVdGlscy5pc05vdEJsYW5rKGxpbmUpKXsKICAgICAgICAgICAgICAgICAgICByZXF1ZXN0QnVpbGRlci5hcHBlbmQobGluZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmluYWwgTWF0Y2hlciBtYXRjaGVyID0gcmVnZXgubWF0Y2hlcihyZXF1ZXN0QnVpbGRlci50b1N0cmluZygpKTsKICAgICAgICAgICAgZmluYWwgU3RyaW5nIHJlcXVlc3RQYXJhbXMgPSBtYXRjaGVyLnJlcGxhY2VBbGwoIiIpOwogICAgICAgICAgICBMT0cuaW5mbygiKHt9KSAtIGhhbmRsZUFzeW5jUmVzcG9uc2Ugc2Vzc2lvbiBzdGFydCEgUmVxdWVzdERhdGEgaXMgKHt9KSwiLCB0cmFuc2FjdGlvbklkLCByZXF1ZXN0UGFyYW1zKTsKICAgICAgICAgICAgcmVzcG9uc2VEYXRhID0gZXBvQ2hlY2tvdXRGYWNhZGUuaGFuZGxlQXN5bmNSZXNwb25zZShyZXF1ZXN0UGFyYW1zLCB0cmFuc2FjdGlvbklkKTsKCiAgICAgICAgfSBjYXRjaCAoZmluYWwgRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HLmVycm9yKCJ7fSAtIGhhbmRsZUFzeW5jUmVzcG9uc2UgaW52b2tlIGVycm9yOnt9IiwgdHJhbnNhY3Rpb25JZCAsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmVzcG9uc2VEYXRhID0gZXBvQ2hlY2tvdXRGYWNhZGUuYXN5bmNSZXNwb25zZUFibm9ybWFsKCJFIiwgIjEwMDIxIiwgdHJhbnNhY3Rpb25JZCwKICAgICAgICAgICAgICAgICAgICAi1qe4ttLssr272LX3vdO/2rSmwO3S7LOjIiwgIiIpOwogICAgICAgIH1maW5hbGx5IHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChudWxsICE9IHN0cmVhbVJlYWRlcikgewogICAgICAgICAgICAgICAgICAgIHN0cmVhbVJlYWRlci5jbG9zZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChmaW5hbCBJT0V4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgTE9HLmVycm9yKGV4LmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgTE9HLmluZm8oIih7fSkgLSBoYW5kbGVBc3luY1Jlc3BvbnNlIHNlc3Npb24gZW5kISBSZXNwb25zZURhdGEgaXMgKHt9KSIsdHJhbnNhY3Rpb25JZCwgRXBvRmFzdGpzb25VdGlsLm9iamVjdFRvSnNvbihyZXNwb25zZURhdGEpKTsKICAgICAgICByZXR1cm4gcmVzcG9uc2VEYXRhLmdldEVzYkluZm8oKTsKICAgIH0KCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiLyIgKyBQQVlNRU5UX1NFUlZJQ0VfUFJPVklERVJfUEFUSF9WQVJJQUJMRV9QQVRURVJOICsgIi9wc3BzeW5jcmVzcG9uc2UvIiArIE9SREVSX0NPREVfUEFUSF9WQVJJQUJMRV9QQVRURVJOKQogICAgcHVibGljIFN0cmluZyBoYW5kbGVTeW5jUmVzcG9uc2UoQFBhdGhWYXJpYWJsZSgicGF5bWVudFNlcnZpY2VQcm92aWRlciIpIGZpbmFsIFN0cmluZyBwYXltZW50U2VydmljZVByb3ZpZGVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFBhdGhWYXJpYWJsZSgib3JkZXJDb2RlIikgZmluYWwgU3RyaW5nIG91dFRyYWRlTm8sIGZpbmFsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgSHR0cFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSwgZmluYWwgTW9kZWwgbW9kZWwpIHRocm93cyBDTVNJdGVtTm90Rm91bmRFeGNlcHRpb257CiAgICAgICAgTE9HLmRlYnVnKCJoYW5kbGUgU3luYyBSZXNwb25zZSBwYXltZW50U2VydmljZVByb3ZpZGVyIDoge30iLCBwYXltZW50U2VydmljZVByb3ZpZGVyKTsKICAgICAgICBMT0cuZGVidWcoImhhbmRsZSBTeW5jIFJlc3BvbnNlIG9yZGVyQ29kZSA6IHt9Iiwgb3V0VHJhZGVObyk7CiAgICAgICAgLy+72LX3sdi0q8rkss7K/QogICAgICAgIGZpbmFsIFN0cmluZyBvcmRlckNvZGUgPSBlcG9DaGVja291dEZhY2FkZS5oYW5kbGVTeW5jUmVzcG9uc2Uob3V0VHJhZGVObywgcGF5bWVudFNlcnZpY2VQcm92aWRlcik7CiAgICAgICAgaWYgKG9yZGVyQ29kZSAhPSBudWxsKSB7CiAgICAgICAgICAgIGZpbmFsIE9yZGVyRGF0YSBvcmRlckRhdGEgPSBlcG9PcmRlckZhY2FkZS5nZXRPcmRlckRhdGFPbmx5Rm9yQ29kZShvcmRlckNvZGUpOwogICAgICAgICAgICBmaW5hbCBQYXltZW50U3RhdHVzIHBheW1lbnRzdGF0dXMgPSBvcmRlckRhdGEuZ2V0UGF5bWVudFN0YXR1cygpOwogICAgICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm9yZGVyIiwgb3JkZXJEYXRhKTsKICAgICAgICAgICAgcmV0dXJuIGdldE9yZGVyUmVzdWx0UGFnZShtb2RlbCwgcGF5bWVudHN0YXR1cyk7CiAgICAgICAgfQogICAgICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgicGF5bWVudFN0YXR1cyIsICJub3RGb3VuZCIpOwogICAgICAgIHN0b3JlQ21zUGFnZUluTW9kZWwobW9kZWwsIGdldENvbnRlbnRQYWdlRm9yTGFiZWxPcklkKFNJTkdMRV9DSEVDS09VVF9PUkRFUl9DT05GSVJNX19QQUdFX0xBQkVMKSk7CiAgICAgICAgc2V0VXBNZXRhRGF0YUZvckNvbnRlbnRQYWdlKG1vZGVsLCBnZXRDb250ZW50UGFnZUZvckxhYmVsT3JJZChTSU5HTEVfQ0hFQ0tPVVRfT1JERVJfQ09ORklSTV9fUEFHRV9MQUJFTCkpOwogICAgICAgIHJldHVybiBDb250cm9sbGVyQ29uc3RhbnRzLlZpZXdzLlBhZ2VzLlNpbmdsZVN0ZXBDaGVja291dC5Ib3BSZXR1cm5QYWdlOwogICAgfQoKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvY2hlY2tQYXltZW50UmVzdWx0LyIgKyBPUkRFUl9DT0RFX1BBVEhfVkFSSUFCTEVfUEFUVEVSTikKICAgIHB1YmxpYyBTdHJpbmcgY2hlY2tQYXltZW50UmVzdWx0KGZpbmFsIE1vZGVsIG1vZGVsLCBAUGF0aFZhcmlhYmxlKCJvcmRlckNvZGUiKSBmaW5hbCBTdHJpbmcgb3JkZXJDb2RlKSB0aHJvd3MgQ01TSXRlbU5vdEZvdW5kRXhjZXB0aW9uIHsKICAgICAgICBmaW5hbCBPcmRlckRhdGEgb3JkZXJEYXRhID0gY2hlY2tQYXlTdWNjZXNzKG9yZGVyQ29kZSk7CiAgICAgICAgZmluYWwgUGF5bWVudFN0YXR1cyBwYXltZW50c3RhdHVzID0gb3JkZXJEYXRhLmdldFBheW1lbnRTdGF0dXMoKTsKICAgICAgICBMT0cuZGVidWcoIkNoZWNrIFBheW1lbnQgUmVzdWx0IDoge30iLCBwYXltZW50c3RhdHVzKTsKICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm9yZGVyIiwgb3JkZXJEYXRhKTsKICAgICAgICByZXR1cm4gZ2V0T3JkZXJSZXN1bHRQYWdlKG1vZGVsLCBwYXltZW50c3RhdHVzKTsKICAgIH0KCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL3F1ZXJ5U3RhdHVzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgQFJlc3BvbnNlQm9keQogICAgcHVibGljIFJlc3VsdCBxdWVyeVN0YXR1cyhAUmVxdWVzdFBhcmFtKCJvcmRlciIpIGZpbmFsIFN0cmluZyBvcmRlciwgQFJlcXVlc3RQYXJhbSgicGF5bWVudE1ldGhvZCIpIGZpbmFsIFN0cmluZyBwYXltZW50TWV0aG9kLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5hbCBNb2RlbCBtb2RlbCwgZmluYWwgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHRocm93cyBDTVNJdGVtTm90Rm91bmRFeGNlcHRpb24gewogICAgICAgIGZpbmFsIEN1c3RvbWVyRGF0YSBjdXJyZW50Q3VzdG9tZXIgPSBnZXRDdXN0b21lckZhY2FkZSgpLmdldEN1cnJlbnRDdXN0b21lcigpOwogICAgICAgIGZpbmFsIFN0cmluZyBxdWVyeVN0YXR1c1N0YXJ0VGltZVNlc3Npb24gPSBjdXJyZW50Q3VzdG9tZXIuZ2V0Q3VzdG9tZXJJZCgpICsgcGF5bWVudE1ldGhvZCArICJxdWVyeVN0YXR1c1N0YXJ0VGltZSI7CiAgICAgICAgLy+78cihc2Vzc2lvbtbQtcS/qsq8yrG85AogICAgICAgIExvbmcgcXVlcnlTdGF0dXNTdGFydFRpbWUgPSBnZXRTZXNzaW9uU2VydmljZSgpLmdldEF0dHJpYnV0ZShxdWVyeVN0YXR1c1N0YXJ0VGltZVNlc3Npb24pOwogICAgICAgIGlmKG51bGwgPT0gcXVlcnlTdGF0dXNTdGFydFRpbWUpewogICAgICAgICAgICBxdWVyeVN0YXR1c1N0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgICAgICBnZXRTZXNzaW9uU2VydmljZSgpLnNldEF0dHJpYnV0ZShxdWVyeVN0YXR1c1N0YXJ0VGltZVNlc3Npb24sIHF1ZXJ5U3RhdHVzU3RhcnRUaW1lKTsKICAgICAgICB9CiAgICAgICAgLy+zrMqxNbfW1tOyu9TZsunRr8rHt/HWp7i2s8m5pgogICAgICAgIGlmKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gcXVlcnlTdGF0dXNTdGFydFRpbWUgPiA1KjYwKjEwMDApewogICAgICAgICAgICBnZXRTZXNzaW9uU2VydmljZSgpLnJlbW92ZUF0dHJpYnV0ZShxdWVyeVN0YXR1c1N0YXJ0VGltZVNlc3Npb24pOwogICAgICAgICAgICByZXR1cm4gUmVzdWx0VXRpbC5zdWNjZXNzKCk7CiAgICAgICAgfQogICAgICAgIGZpbmFsIEJvb2xlYW4gZmxhZyA9IGVwb0NoZWNrb3V0RmFjYWRlLmhhbmRsZVF1ZXJ5U3RhdHVzKG9yZGVyLCBwYXltZW50TWV0aG9kKTsKICAgICAgICBpZihudWxsID09IGZsYWcgfHwgZmxhZyl7CiAgICAgICAgICAgIGdldFNlc3Npb25TZXJ2aWNlKCkucmVtb3ZlQXR0cmlidXRlKHF1ZXJ5U3RhdHVzU3RhcnRUaW1lU2Vzc2lvbik7CiAgICAgICAgICAgIHJldHVybiBSZXN1bHRVdGlsLnN1Y2Nlc3MoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFJlc3VsdFV0aWwuZmFpbCgicXVlcnkgc3RhdHVzIGlzIG5vdCBwYWlkIik7CiAgICB9CgogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9hbGlwYXlJZnJhbWUiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIHB1YmxpYyBTdHJpbmcgYWxpcGF5SWZyYW1lUmVxdWVzdChmaW5hbCBNb2RlbCBtb2RlbCwgZmluYWwgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHRocm93cyBDTVNJdGVtTm90Rm91bmRFeGNlcHRpb24gewogICAgICAgIGZpbmFsIEN1c3RvbWVyRGF0YSBjdXJyZW50Q3VzdG9tZXIgPSBnZXRDdXN0b21lckZhY2FkZSgpLmdldEN1cnJlbnRDdXN0b21lcigpOwogICAgICAgIGZpbmFsIFN0cmluZyBhbGlwYXlGb3JtU2Vzc2lvbiA9IGN1cnJlbnRDdXN0b21lci5nZXRDdXN0b21lcklkKCkrImFsaXBheUZvcm0iOwogICAgICAgIG1vZGVsLmFkZEF0dHJpYnV0ZSgiYWxpcGF5Rm9ybSIsZ2V0U2Vzc2lvblNlcnZpY2UoKS5nZXRBdHRyaWJ1dGUoYWxpcGF5Rm9ybVNlc3Npb24pKTsKICAgICAgICBnZXRTZXNzaW9uU2VydmljZSgpLnJlbW92ZUF0dHJpYnV0ZShhbGlwYXlGb3JtU2Vzc2lvbik7CiAgICAgICAgcmV0dXJuIENvbnRyb2xsZXJDb25zdGFudHMuVmlld3MuUGFnZXMuU2luZ2xlU3RlcENoZWNrb3V0LkFsaXBheUlmcmFtZVBhZ2U7CiAgICB9CgogICAgcHJpdmF0ZSBTdHJpbmcgZ2V0T3JkZXJSZXN1bHRQYWdlKE1vZGVsIG1vZGVsLCBQYXltZW50U3RhdHVzIHBheW1lbnRzdGF0dXMpIHRocm93cyBDTVNJdGVtTm90Rm91bmRFeGNlcHRpb24gewogICAgICAgIGlmIChQYXltZW50U3RhdHVzLlBBSUQuZXF1YWxzKHBheW1lbnRzdGF0dXMpKSB7CiAgICAgICAgICAgIHN0b3JlQ21zUGFnZUluTW9kZWwobW9kZWwsIGdldENvbnRlbnRQYWdlRm9yTGFiZWxPcklkKFNJTkdMRV9DSEVDS09VVF9PUkRFUl9DT05GSVJNX19QQUdFX0xBQkVMKSk7CiAgICAgICAgICAgIHNldFVwTWV0YURhdGFGb3JDb250ZW50UGFnZShtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgc3RvcmVDb250ZW50UGFnZVRpdGxlSW5Nb2RlbChtb2RlbCwgZ2V0UGFnZVRpdGxlUmVzb2x2ZXIoKS5yZXNvbHZlQ29udGVudFBhZ2VUaXRsZSgKICAgICAgICAgICAgICAgICAgICBnZXRNZXNzYWdlU291cmNlKCkuZ2V0TWVzc2FnZSgicGF5bWVudC5wYWdlLnBheVN1Y2Nlc3MiLCBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInBheW1lbnQucGFnZS5wYXlTdWNjZXNzIiwgZ2V0STE4blNlcnZpY2UoKS5nZXRDdXJyZW50TG9jYWxlKCkpKSk7CiAgICAgICAgICAgIHJldHVybiBDb250cm9sbGVyQ29uc3RhbnRzLlZpZXdzLlBhZ2VzLlNpbmdsZVN0ZXBDaGVja291dC5QYXltZW50U3VjY2Vzc1BhZ2U7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgc3RvcmVDbXNQYWdlSW5Nb2RlbChtb2RlbCwgZ2V0Q29udGVudFBhZ2VGb3JMYWJlbE9ySWQoU0lOR0xFX0NIRUNLT1VUX09SREVSX0NPTkZJUk1fX1BBR0VfTEFCRUwpKTsKICAgICAgICAgICAgc2V0VXBNZXRhRGF0YUZvckNvbnRlbnRQYWdlKG1vZGVsLCBnZXRDb250ZW50UGFnZUZvckxhYmVsT3JJZChTSU5HTEVfQ0hFQ0tPVVRfT1JERVJfQ09ORklSTV9fUEFHRV9MQUJFTCkpOwogICAgICAgICAgICBzdG9yZUNvbnRlbnRQYWdlVGl0bGVJbk1vZGVsKG1vZGVsLCBnZXRQYWdlVGl0bGVSZXNvbHZlcigpLnJlc29sdmVDb250ZW50UGFnZVRpdGxlKAogICAgICAgICAgICAgICAgICAgIGdldE1lc3NhZ2VTb3VyY2UoKS5nZXRNZXNzYWdlKCJwYXltZW50LnBhZ2UucGF5RmFpbCIsIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAicGF5bWVudC5wYWdlLnBheUZhaWwiLCBnZXRJMThuU2VydmljZSgpLmdldEN1cnJlbnRMb2NhbGUoKSkpKTsKICAgICAgICAgICAgcmV0dXJuIENvbnRyb2xsZXJDb25zdGFudHMuVmlld3MuUGFnZXMuU2luZ2xlU3RlcENoZWNrb3V0LlBheW1lbnRGYWlsZWRQYWdlOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIE9yZGVyRGF0YSBjaGVja1BheVN1Y2Nlc3MoZmluYWwgU3RyaW5nIG9yZGVyQ29kZSkgewogICAgICAgIE9yZGVyRGF0YSBvcmRlckRhdGEgPSBlcG9PcmRlckZhY2FkZS5nZXRPcmRlckRhdGFPbmx5Rm9yQ29kZShvcmRlckNvZGUpOwogICAgICAgIGlmICghUGF5bWVudFN0YXR1cy5QQUlELmVxdWFscyhvcmRlckRhdGEuZ2V0UGF5bWVudFN0YXR1cygpKSkgewogICAgICAgICAgICAvL7j5vt22qbWlu/HIobbU06a1xNanuLbQxc+io6jWp7i2wODQzaOpCiAgICAgICAgICAgIGVwb0NoZWNrb3V0RmFjYWRlLnN5bmNQYXltZW50U3RhdHVzKG9yZGVyRGF0YS5nZXRDb2RlKCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZXBvT3JkZXJGYWNhZGUuZ2V0T3JkZXJEYXRhT25seUZvckNvZGUob3JkZXJDb2RlKTsKICAgIH0KICAgIHByaXZhdGUgT3B0aW9uYWw8UGF5bWVudD4gaGFuZFBheXBhbENoZWNrKGZpbmFsIFN0cmluZyBkb21haW4sIGZpbmFsIE9yZGVyTW9kZWwgb3JkZXJNb2RlbCkgdGhyb3dzIFBheVBhbFJFU1RFeGNlcHRpb24gewogICAgICAgIEJhc2VTdG9yZU1vZGVsIHN0b3JlID0gb3JkZXJNb2RlbC5nZXRTdG9yZSgpOwogICAgICAgIFN0cmluZyBwYXlwYWxDbGllbnRJZCA9IHN0b3JlLmdldFBheXBhbENsaWVudElkKCk7CiAgICAgICAgU3RyaW5nIHBheXBhbFNlY3JldCA9IHN0b3JlLmdldFBheXBhbFNlY3JldCgpOwogICAgICAgIGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsocGF5cGFsQ2xpZW50SWQpIHx8IFN0cmluZ1V0aWxzLmlzQmxhbmsocGF5cGFsU2VjcmV0KSl7CiAgICAgICAgICAgIExPRy5pbmZvKCLOtMXk1sNwYXlwYWy1xENsaWVudElku/JTZWNyZXQiKTsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7CiAgICAgICAgfQogICAgICAgIGZpbmFsIENvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbiA9IGNvbmZpZ3VyYXRpb25TZXJ2aWNlLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBBUElDb250ZXh0IGFwaUNvbnRleHQ7CiAgICAgICAgZmluYWwgU3RyaW5nIGVudiA9IGNvbmZpZ3VyYXRpb24uZ2V0U3RyaW5nKEVwb0NvbnRyb2xsZXJDb25zdGFudHMuUEFZUEFMX0VOVklST05NRU5ULCBFcG9Db250cm9sbGVyQ29uc3RhbnRzLlBBWVBBTF9FTlZJUk9OTUVOVF9ERUZBVUxUKTsKICAgICAgICBpZiAoRXBvQ29udHJvbGxlckNvbnN0YW50cy5QQVlQQUxfRU5WSVJPTk1FTlRfUFJPLmVxdWFscyhlbnYpKSB7CiAgICAgICAgICAgIGFwaUNvbnRleHQgPSBuZXcgQVBJQ29udGV4dChwYXlwYWxDbGllbnRJZCwgcGF5cGFsU2VjcmV0LCBFcG9Db250cm9sbGVyQ29uc3RhbnRzLlBBWVBBTF9FTlZJUk9OTUVOVF9QUk8pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGFwaUNvbnRleHQgPSBuZXcgQVBJQ29udGV4dChwYXlwYWxDbGllbnRJZCwgcGF5cGFsU2VjcmV0LCBFcG9Db250cm9sbGVyQ29uc3RhbnRzLlBBWVBBTF9FTlZJUk9OTUVOVF9ERUZBVUxUKTsKICAgICAgICB9CgogICAgICAgIC8vIFNldCByZWRpcmVjdCBVUkxzCiAgICAgICAgUmVkaXJlY3RVcmxzIHJlZGlyZWN0VXJscyA9IG5ldyBSZWRpcmVjdFVybHMoKTsKLy8gICAgICAgIFN0cmluZyByID0gImh0dHBzOi8vbWFsbHNpdC5tb2NvLmNvbS9lcG93ZWJzZXJ2aWNlL3BheXBhbC9jaGVja291dC9yZXNwb25zZSI7L2NoZWNrb3V0L211bHRpL3N1bW1hcnkKICAgICAgICBTdHJpbmcgciA9ICJodHRwczovL21hbGxzaXQubW9jby5jb20vbW9jby96aC9jaGVja291dC9tdWx0aS9zdW1tYXJ5L3BheXBhbC9yZXNwb25zZSI7CiAgICAgICAgU3RyaW5nIGMgPSAiaHR0cHM6Ly9tYWxsc2l0Lm1vY28uY29tL21vY28vemgvY2FydCI7CiAgICAgICAgcmVkaXJlY3RVcmxzLnNldENhbmNlbFVybChjKTsKICAgICAgICByZWRpcmVjdFVybHMuc2V0UmV0dXJuVXJsKHIpOwogICAgICAgIC8vIEZJWE1FOiAyMDE5LzIvMjYg0N64xM6q1f3It7XECi8qCiAgICAgICAgcmVkaXJlY3RVcmxzLnNldENhbmNlbFVybChjb25maWd1cmF0aW9uLmdldFN0cmluZyhFcG9Db250cm9sbGVyQ29uc3RhbnRzLlBBWVBBTF9DQU5DTEVfVVJMKSk7CiAgICAgICAgcmVkaXJlY3RVcmxzLnNldFJldHVyblVybChjb25maWd1cmF0aW9uLmdldFN0cmluZyhFcG9Db250cm9sbGVyQ29uc3RhbnRzLlBBWVBBTF9SRVRVUk5fVVJMKSk7CiovCiAgICAgICAgUGF5bWVudCBjcmVhdGVkUGF5bWVudCA9IHBheVBhbFBheW1lbnRGYWNhZGUuc2V0RXhwcmVzc0NoZWNrb3V0KG9yZGVyTW9kZWwscmVkaXJlY3RVcmxzLCBhcGlDb250ZXh0KTsKCiAgICAgICAgaWYgKExPRy5pc0RlYnVnRW5hYmxlZCgpKSB7CiAgICAgICAgICAgIExPRy5kZWJ1ZygicGF5cGFsIHJlc3BvbnNlOiIgKyBjcmVhdGVkUGF5bWVudC50b0pTT04oKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBPcHRpb25hbC5vZk51bGxhYmxlKGNyZWF0ZWRQYXltZW50KTsKICAgIH0KCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL3BheXBhbC9yZXNwb25zZSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgcHVibGljIFN0cmluZyBkb0hhbmRsZVBheXBhbFJlc3BvbnNlKGZpbmFsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBmaW5hbCBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7CiAgICAgICAgaWYgKExPRy5pc0RlYnVnRW5hYmxlZCgpKSB7CiAgICAgICAgICAgIExPRy5kZWJ1ZygiPT09PT09PT09PT09PT09PdanuLbH68i3yM89PT09PT09PT09PT09PT09MSIgKyByZXF1ZXN0LmdldFF1ZXJ5U3RyaW5nKCkpOwogICAgICAgIH0KICAgICAgICBCYXNlU3RvcmVNb2RlbCBjdXJyZW50QmFzZVN0b3JlID0gYmFzZVN0b3JlU2VydmljZS5nZXRDdXJyZW50QmFzZVN0b3JlKCk7CiAgICAgICAgTE9HLndhcm4oY3VycmVudEJhc2VTdG9yZS5nZXRTYXBTdG9yZUNvZGUoKSsgIj09PT09PT09PT09PT09PT3Wp7i2x+vIt8jPPT09PT09PT09PT09PT09PTEiICsgcmVxdWVzdC5nZXRRdWVyeVN0cmluZygpKTsKICAgICAgICBTdHJpbmcgcGF5bWVudElkID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoUEFZTUVOVElEKTsKICAgICAgICBTdHJpbmcgcGF5ZXJJRCA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKFBBWUVSSUQpOwogICAgICAgIC8vtb3V4rK9wctDbGllbnRJZLrNU2VjcmV0v8+2qNPQ1rUKICAgICAgICBTdHJpbmcgcGF5cGFsQ2xpZW50SWQgPSBjdXJyZW50QmFzZVN0b3JlLmdldFBheXBhbENsaWVudElkKCk7CiAgICAgICAgU3RyaW5nIHBheXBhbFNlY3JldCA9IGN1cnJlbnRCYXNlU3RvcmUuZ2V0UGF5cGFsU2VjcmV0KCk7CiAgICAgICAgZmluYWwgU3RyaW5nIGVudiA9IGNvbmZpZ3VyYXRpb25TZXJ2aWNlLmdldENvbmZpZ3VyYXRpb24oKS5nZXRTdHJpbmcoRXBvQ29udHJvbGxlckNvbnN0YW50cy5QQVlQQUxfRU5WSVJPTk1FTlQsIEVwb0NvbnRyb2xsZXJDb25zdGFudHMuUEFZUEFMX0VOVklST05NRU5UX0RFRkFVTFQpOwogICAgICAgIEFQSUNvbnRleHQgYXBpQ29udGV4dCA9IG5ldyBBUElDb250ZXh0KHBheXBhbENsaWVudElkLCBwYXlwYWxTZWNyZXQsIGVudik7CiAgICAgICAgU3RyaW5nIG9yZGVyQ29kZSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUGF5bWVudCBwYXltZW50RGV0YWlsID0gcGF5UGFsUGF5bWVudEZhY2FkZS5nZXRQYXltZW50RGV0YWlscyhwYXltZW50SWQsYXBpQ29udGV4dCk7CiAgICAgICAgICAgIExPRy5pbmZvKCJwYXltZW50RGV0YWlsPT4iK3BheW1lbnREZXRhaWwudG9KU09OKCkpOwogICAgICAgICAgICBvcmRlckNvZGUgPSBwYXltZW50RGV0YWlsLmdldFRyYW5zYWN0aW9ucygpLmdldCgwKS5nZXRDdXN0b20oKTsKICAgICAgICB9IGNhdGNoIChQYXlQYWxSRVNURXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy/V4sDvzPjXqrW9xMe49tKzw+ajvwogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICByZXR1cm4gUkVESVJFQ1RfUFJFRklYICsgIi9teS1hY2NvdW50L29yZGVycyI7CiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgICBQYXltZW50IHBheW1lbnREZXRhaWxzID0gcGF5UGFsUGF5bWVudEZhY2FkZS5leGVjdXRlUGF5bWVudChwYXltZW50SWQsIHBheWVySUQsIGFwaUNvbnRleHQpOwogICAgICAgICAgICBMT0cuaW5mbygiyLfIz9anuLbP7NOmo7oiICsgcGF5bWVudERldGFpbHMudG9KU09OKCkpOwovLyAgICAgICAgICAgIHBheW1lbnREZXRhaWxzID0gcGF5UGFsUGF5bWVudEZhY2FkZS5nZXRQYXltZW50RGV0YWlscyhwYXltZW50SWQsIGFwaUNvbnRleHQpOwovLyAgICAgICAgICAgIExPRy5pbmZvKCKy6dGv1qe4tr3hufvP6sfpo7oiICsgcGF5bWVudERldGFpbHMudG9KU09OKCkpOwogICAgICAgICAgICBTdHJpbmcgc3RhdGUgPSBwYXltZW50RGV0YWlscy5nZXRTdGF0ZSgpOwogICAgICAgICAgICBpZiAoImFwcHJvdmVkIi5lcXVhbHMoc3RhdGUpKSB7CiAgICAgICAgICAgICAgICBmaW5hbCBPcmRlck1vZGVsIG9yZGVyTW9kZWwgPSBlcG9Db21tb25TZWFyY2hTZXJ2aWNlLmZpbmRCeUNvZGUob3JkZXJDb2RlLCBPcmRlck1vZGVsLmNsYXNzKTsKICAgICAgICAgICAgICAgIC8vIEZJWE1FOiAyMDE5LzIvMjggyOe5+9XiwO+3tbvYyqew3CDU9cO01/ajvwogICAgICAgICAgICAgICAgZXBvQ2hlY2tvdXRGYWNhZGUuaGFuZGxlUGF5cGFsQ2hlY2tvdXRTdWNjZXNzKG9yZGVyTW9kZWwscGF5bWVudERldGFpbHMpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoUGF5UGFsUkVTVEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyAiL215LWFjY291bnQvb3JkZXJzIjsKICAgICAgICB9CgogICAgICAgIHJldHVybiBSRURJUkVDVF9QUkVGSVggKyAobnVsbCA9PSBvcmRlckNvZGUgPyAiL215LWFjY291bnQvb3JkZXJzIiA6ICIvY2hlY2tvdXQvbXVsdGkvc3VtbWFyeS9jaGVja1BheW1lbnRSZXN1bHQvIiArIG9yZGVyQ29kZSk7CiAgICB9</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICBldHJ1biAnIHF1ZXJ5LnB1c2goInNzd2FwX3BheXR5cGVfY29kZSAnO2FwX3BheXR5cGVfY29kZSBpcyBudWxsIikKICAgICAgICAgICAgPCEtLSRjdHgucGFyYW1ldGVyLnN3YXBfcGF5dHlwZV9jb2RlID0gJygnK3F1ZXJ5LmpvaW4oJyBvciAnKSsnKSc7LS0+</text>
+      </register>
+      <register name="y" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name=":" type="4">
+        <text>vsplit</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>i</last-search>
+      <last-offset />
+      <last-pattern>i</last-pattern>
+      <last-replace>AAAA</last-replace>
+      <last-substitute>a</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxOQU1FXD4=</entry>
+        <entry>Hap</entry>
+        <entry>c</entry>
+        <entry>d</entry>
+        <entry>right</entry>
+        <entry>p</entry>
+        <entry>div</entry>
+        <entry>FIleName</entry>
+        <entry>保存</entry>
+        <entry>dto</entry>
+        <entry>PayPaymentBatch</entry>
+        <entry>pay.PaymentBatch.</entry>
+        <entry>co</entry>
+        <entry>o</entry>
+        <entry>dish</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry>apply</entry>
+        <entry>String</entry>
+        <entry>a</entry>
+        <entry>i</entry>
+      </history-search>
+      <history-cmd>
+        <entry>e file</entry>
+        <entry>e+rrr</entry>
+        <entry>4,9x</entry>
+        <entry>33,34x</entry>
+        <entry>3x</entry>
+        <entry>3,4d</entry>
+        <entry>3,4y</entry>
+        <entry>s/a/AAAA/g</entry>
+        <entry>reg</entry>
+        <entry>set spell</entry>
+        <entry>tabn</entry>
+        <entry>[N]vne[w]</entry>
+        <entry>undolist</entry>
+        <entry>undo5</entry>
+        <entry>undo 2</entry>
+        <entry>2sp</entry>
+        <entry>2split</entry>
+        <entry>vertical</entry>
+        <entry>split</entry>
+        <entry>vsplit</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

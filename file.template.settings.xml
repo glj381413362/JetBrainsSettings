@@ -1,0 +1,18 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="AnnotationType.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Enum.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="JavaScript File.js" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="ActionScript File Header.as" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+    <code_templates>
+      <template name="JUnit4 Test Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>

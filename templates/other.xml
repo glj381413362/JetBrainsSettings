@@ -1,0 +1,13 @@
+<templateSet group="other">
+  <template name="for" value="for(int i = 0; i &lt; $LEN$; i++) {&#10;    &#10;}" description="Insert for(int i = 0; i &lt; n; i++)" toReformat="false" toShortenFQNames="true">
+    <variable name="LEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void test() {&#10;    &#10;}" description="Insert test method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

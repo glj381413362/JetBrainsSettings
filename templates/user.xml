@@ -1,0 +1,194 @@
+<templateSet group="user">
+  <template name="rv" value="// REVIEW[$WHO$] $DATE$ $TIME$ $TEXT$" description="TODO review" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date(&quot;MM月dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="fm" value="// FIXME[$WHO$] $DATE$ $TIME$ $TEXT$" description="TODO fixme" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="td" value="// TODO[$WHO$] $DATE$ $TIME$ $WHO$ $WHO1$描述：$TEXT$" description="TODO" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="" defaultValue="glj" alwaysStopAt="false" />
+    <variable name="DATE" expression="date(&quot;MM月dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="WHO1" expression="" defaultValue="ssss" alwaysStopAt="false" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="mm" value="/**&#10; * @MethodNmae: $mn$&#10; * @description: &#10;$param$&#10; * @return: $ReturnType$&#10; * @date: $data$ $time$&#10;*/" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="mn" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param'+(i+1) +':'+ params[i] + ((i &lt; params.size() - 1) ? '\\n\\b' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
+    <variable name="ReturnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <variable name="data" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*" value="* @author: Gong.LJ&#10;* @description: $Description$&#10;* @date: $data$ $time$" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="Description" expression="$Description" defaultValue="" alwaysStopAt="false" />
+    <variable name="data" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pfs" value="private final static String $end$  = &quot;&quot;;" description="private final static String" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="/** logger */&#10;private static final Logger log = LoggerFactory.getLogger($CLASS$.class);" description="logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ttt" value="private String int $test$ " description="" toReformat="false" toShortenFQNames="true">
+    <variable name="test" expression="enum(&quot;String&quot;,&quot;int&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pri" value="private $type$ $end$;&#10;" description="private 字段" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="enum(&quot;String&quot;,&quot;char&quot;,&quot;int&quot;,&quot;long&quot;,&quot;double&quot;,&quot;boolean&quot;,&quot;float&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bean" value="&lt;bean id=&quot;$id$&quot; class=&quot;$REF$&quot; /&gt;" description="xml bean" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="decapitalize(groovyScript(&quot;_1.tokenize('.')[-1]&quot;, clipboard()))" defaultValue="" alwaysStopAt="false" />
+    <variable name="REF" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pc" value="LogUtil.$end$(LOGGER, &quot;$MSG$ &quot; + $params$);" description="printContext  快速打印当前上下文信息" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;'\&quot;' + _1.collect { it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ') + '\&quot;'&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="linfo" value="LOG.$end$(&quot;$end$&quot;+$end$)" description="Log.&quot;  &quot;(.....)" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="kf" value="/**&#10; * 提交表单数据(头行数据可一起提交).&#10; *&#10; * &lt;ul&gt;&#10; * &lt;li&gt;options.form: form对象&lt;/li&gt;&#10; * &lt;li&gt;options.grid: grid对象&lt;/li&gt;&#10; * &lt;li&gt;options.gridName: grid数据的name&lt;/li&gt;&#10; * &lt;li&gt;options.url: 提交的url&lt;/li&gt;&#10; * &lt;li&gt;options.success: success回调函数&lt;/li&gt;&#10; * &lt;li&gt;options.failure: failure回调函数&lt;/li&gt;&#10; * &lt;/ul&gt;&#10; * @param {options}&#10; */&#10;" description="表单数据提交" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="au" value="@Autowired" description="@Autowired注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="re" value="@Resource" description="@Resource注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="js" value=" @describe：$end$&#10;* &lt;ul&gt;&#10;* &lt;li&gt;$param1$&lt;/li&gt;&#10;* &lt;li&gt;$param2$&lt;/li&gt;&#10;*      &lt;ul&gt;&#10;*          &lt;li&gt;$param3$&lt;/li&gt;&#10;*      &lt;/ul&gt;&#10;* &lt;/ul&gt;" description="js注释" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="* c" value="/**&#10; * @title $NAME$&#10; * @description: $Description$&#10; * @date: $data$ $time$&#10; * @author Gong.LJ&#10; */" description="class注释" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sa" value="sqlBuilder.append(&quot;$end$&quot;)" description="sqlBuilder.append（）" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="isLD" value="if(LOG.isDebugEnabled()){&#10;    LOG.debug(&quot;  &quot;+ $end$);&#10;}" description="LOG.isDebugEnabled()" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/screen" value="&lt;!--&#10;    $Author: 龚梁钧  &#10;    $Date: $data$ $time$&#10;    $Revision: 1.0  &#10;    $Purpose: $end$&#10;--&gt;" description="screen文件创建信息" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="adddes" value="&lt;!--added by liangjun.gong on $data$ $time$ $TEXT$  start --&gt;&#10;&#9;&#9;$end$&#9;&#9;&#9;&#10;&lt;!--added by liangjun.gong on $data$ $time$ $TEXT$ end --&gt;" description="添加描述" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="IMPEX" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="MXML" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+    </context>
+  </template>
+  <template name="adddesj" value="// added by liangjun.gong on $data$ $time$ $TEXT$  start &#10;&#9;&#9;$end$&#9;&#9;&#9;&#10;// added by liangjun.gong on $data$ $time$ $TEXT$ end " description="java" toReformat="false" toShortenFQNames="true">
+    <variable name="data" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="rac" value="@RequiredArgsConstructor(onConstructor = @__(@Autowired))&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="@NonNull&#10;private final $end$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

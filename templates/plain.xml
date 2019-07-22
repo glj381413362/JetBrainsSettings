@@ -1,0 +1,3 @@
+<templateSet group="plain">
+  <template name="pvs" value="public void String" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
