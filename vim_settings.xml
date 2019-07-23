@@ -106,8 +106,13 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1563865500866">
-        <mark key="[" line="7" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1563873025075">
+        <mark key="[" line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1563872741216">
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XycpResultServiceImpl.java" timestamp="1512045273881">
         <mark key="[" line="68" column="18" />
@@ -129,6 +134,11 @@
         <mark key="]" line="183" column="204" />
         <mark key="^" line="183" column="197" />
         <mark key="." line="183" column="198" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/ICreateAppiontmentTimeService.java" timestamp="1563870972892">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/diff_ab/diff_ab_detail2.screen" timestamp="1524736426649">
         <mark key="[" line="207" column="96" />
@@ -214,6 +224,11 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorDO.java" timestamp="1563871575355">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="12" />
+      </file>
       <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicThreeLayoutPage.jsp" timestamp="1562654323945">
         <mark key="'" line="9" column="22" />
       </file>
@@ -272,12 +287,7 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563870316014">
-        <mark key="[" line="94" column="16" />
-        <mark key="]" line="94" column="16" />
-        <mark key="." line="94" column="16" />
-        <mark key="^" line="42" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563870781353" />
       <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epowebservice/web/src/com/epo/webservice/payment/PayPalPaymentResponseController.java" timestamp="1551238484681">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="37" column="11" />
@@ -449,6 +459,11 @@
         <mark key="]" line="17" column="7" />
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorMapper.xml" timestamp="1563871516961">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="71" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/o2oautoext/QueryOrderController.java" timestamp="1528456520823">
         <mark key="[" line="59" column="6" />
@@ -728,7 +743,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>doctorStockLevelDO.setWeek(appointmentSettingDO.getId());</text>
+        <text>failed</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -924,7 +939,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>doctorStockLevelDO.setWeek(appointmentSettingDO.getId());</text>
+        <text>failed</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1021,7 +1036,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8RG9jdG9yU3RvY2tMZXZlbERPPiBmaW5kQXZhaWxhYmxlU3RvY2soRG9jdG9yU3RvY2tMZXZlbERPIGRvY3RvclN0b2NrTGV2ZWxETyk7Cg==</text>
+        <text encoding="base64">CUBOb25OdWxsCglwcml2YXRlIGZpbmFsIERvY3RvclN0b2NrTGV2ZWxNYXBwZXIgZG9jdG9yU3RvY2tMZXZlbE1hcHBlcjsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1032,7 +1047,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGF2YWlsYWJsZV9hbW91bnQgPiAwCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBwcmljZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1052,10 +1067,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzX2F2YWlsYWJsZSA9IDEK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBwcmljZTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGF2YWlsYWJsZV9hbW91bnQgPiAwCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aQoKICAgIA==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1085,7 +1100,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgU3RyaW5nIGhvc3BpdGFsOwo=</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIGNyZWF0ZUFwcGlvbnRtZW50VGltZUJ5RG9jdG9yKERvY3RvckRPIGRvY3RvckRPLGludCBkYXlzKSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1122,10 +1137,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgKiBmcm9tIHNhX2RvY3Rvcl9zdG9ja19sZXZlbCBhcyBkc2wKICAgICAgICA8dHJpbSBwcmVmaXg9IndoZXJlIiBwcmVmaXhPdmVycmlkZXM9ImFuZHxvciI+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJkb2N0b3IgIT0gbnVsbCBhbmQgZG9jdG9yICE9ICcnIj4K</text>
+        <text encoding="base64">CXZvaWQgY3JlYXRlQXBwaW9udG1lbnRUaW1lQnlEb2N0b3IoRG9jdG9yRE8gZG9jdG9yRE8saW50IGRheXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0IGpvaW4gc2FfZG9jdG9yIGFzIGQgb24gZC5jb2RlID0gZHNsLmRvY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGF2YWlsYWJsZV9hbW91bnQgPiAwCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1140,13 +1155,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Imhvc3BpdGFsICE9IG51bGwgYW5kIGhvc3BpdGFsICE9ICcnIj4KICAgICAgICAgICAgICAgIGFuZCAgZG9jdG9yID0gI3tob3NwaXRhbH0KICAgICAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGlzX2F2YWlsYWJsZSA9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kIGF2YWlsYWJsZV9hbW91bnQgPiAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFN0b2NrQnlEYXRlIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiIHBhcmFtZXRlclR5cGU9ImNvbS5oYW5kLmhtYWxsLnNhLmVudGl0eS5Eb2N0b3JTdG9ja0xldmVsRE8iPgo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgU3RyaW5nIGhvc3BpdGFsOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
