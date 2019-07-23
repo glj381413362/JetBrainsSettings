@@ -101,6 +101,9 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1563865500866">
+        <mark key="[" line="7" column="36" />
+      </file>
       <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XycpResultServiceImpl.java" timestamp="1512045273881">
         <mark key="[" line="68" column="18" />
         <mark key="]" line="68" column="18" />
@@ -264,7 +267,7 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563863187334">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563865476408">
         <mark key="[" line="46" column="25" />
         <mark key="]" line="46" column="25" />
         <mark key="." line="46" column="25" />
