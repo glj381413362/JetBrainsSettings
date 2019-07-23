@@ -7,4 +7,7 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
 </keymap>
