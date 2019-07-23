@@ -42,6 +42,10 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CompanyForAdminController.java" timestamp="1563861818272">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="43" />
+      </file>
       <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/o2o/HepBlackLiskSetController.java" timestamp="1533541585610">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="48" column="11" />
@@ -90,6 +94,12 @@
         <mark key="]" line="28" column="11" />
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorStockLevelDO.java" timestamp="1563863034191">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
       </file>
       <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XycpResultServiceImpl.java" timestamp="1512045273881">
         <mark key="[" line="68" column="18" />
@@ -254,10 +264,11 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563861702123">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563863187334">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epowebservice/web/src/com/epo/webservice/payment/PayPalPaymentResponseController.java" timestamp="1551238484681">
         <mark key="[" line="36" column="4" />
@@ -270,11 +281,6 @@
         <mark key="]" line="972" column="44" />
         <mark key="." line="972" column="44" />
         <mark key="^" line="972" column="44" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/EvaluationDO.java" timestamp="1562120524692">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/order/impl/DefaultReturnRequestFacade.java" timestamp="1521454049384">
         <mark key="[" line="609" column="2" />
@@ -365,6 +371,10 @@
         <mark key="]" line="790" column="45" />
         <mark key="^" line="815" column="27" />
         <mark key="." line="790" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CompanyServiceImpl.java" timestamp="1563861962291">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="46" />
       </file>
       <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountMyCollectionPage.jsp" timestamp="1562654276590">
         <mark key="'" line="49" column="21" />
@@ -473,6 +483,11 @@
         <mark key="]" line="19" column="11" />
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorStockLevelMapper.xml" timestamp="1563863102980">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/H5PointOfServiceAddJob.java" timestamp="1522724284316">
         <mark key="[" line="33" column="4" />
@@ -701,7 +716,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -897,7 +912,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');</text>
+        <text>schedule</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -994,7 +1009,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlTdHJpbmcgYSA9ICJhIjsK</text>
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ic2NoZWR1bGUiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0ic2NoZWR1bGUiLz4K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1005,7 +1020,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1025,10 +1040,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHNjaGVkdWxlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogPC9wPgo=</text>
+        <text encoding="base64">CQlMaXN0PElDb21wYW55U2VydmljZS5Db21wYW55SW5mbz4gY29tcGFueUluZm9zID0K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1057,8 +1072,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gcmVkaXMuaHNldChTdHJpbmcuZm9ybWF0KFJVTEVTX0tFWV9QUkUsIHRhYmxlKSwgInNlcXNfcmVjZW50bHkiLCAiMCIpOwoJCQkJfQoJCQl9KTsKCQkJbG9nLmluZm8oIuihqFt7fV0s5pyA6L+R5Y2K5bCP5pe25L2/55So5oOF5Ya15bey57uP5riF6Zu25oiQ5YqfIiwgdGFibGUpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">bGlzdCgpOwoJCQ==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1095,10 +1110,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTZXQ8U3RyaW5nPiB0YWJsZXMgPSBIZXBSZWRpc1Rhc2tFeGVjdXRvci5leGVjdXRlKGhtYWxsUmVkaXNTZXJ2aWNlLCBuZXcgSGVwUmVkaXNUYXNrUnVubmVyPFNldDxTdHJpbmc+PigpIHsKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBTZXQ8U3RyaW5nPiBydW4oSmVkaXMgcmVkaXMpIHRocm93cyBFeGNlcHRpb24gewoJCQkJcmV0dXJuIHJlZGlzLnNtZW1iZXJzKCJydWxlczp0YWJsZSIpOwoJCQl9CgkJfSk7CgkJZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKCQkJTG9uZyBzZXFzX3JlY2VudGx5ID0gSGVwUmVkaXNUYXNrRXhlY3V0b3IuZXhlY3V0ZShobWFsbFJlZGlzU2VydmljZSwgbmV3IEhlcFJlZGlzVGFza1J1bm5lcjxMb25nPigpIHsKCQkJCUBPdmVycmlkZQoJCQkJcHVibGljIExvbmcgcnVuKEplZGlzIHJlZGlzKSB0aHJvd3MgRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgYSA9ICJhIjsK</text>
+        <text encoding="base64">CWRkcHJpdmF0ZSBmaW5hbCBJQ29tcGFueVNlcnZpY2UgY29tcGFueVNlcnZpY2U7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1113,13 +1128,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmdmZ2ZnZmcK</text>
+        <text encoding="base64">CWRkcHJpdmF0ZSBmaW5hbCBJQ29tcGFueVNlcnZpY2UgY29tcGFueVNlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmdmZ2ZnZmcK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmZpaWZkYXNkZmdoaGpqbGdmZ2ZnZmcK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
