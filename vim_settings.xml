@@ -14,10 +14,10 @@
         <mark key="^" line="44" column="14" />
         <mark key="." line="51" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IAdminAppointmentSettingService.java" timestamp="1563953382171">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IAdminAppointmentSettingService.java" timestamp="1564046035656">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/EvaluationServiceImpl.java" timestamp="1563958429479">
         <mark key="[" line="200" column="26" />
@@ -35,6 +35,12 @@
         <mark key="]" line="35" column="29" />
         <mark key="." line="35" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminAppointmentSettingSaveReqDto.java" timestamp="1564045659307">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/AppointmentSettingDO.java" timestamp="1564045435719" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AppointmentSettingRespDto.java" timestamp="1563953042704">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="26" column="0" />
@@ -46,6 +52,7 @@
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DepartmentServiceImpl.java" timestamp="1564045782320" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminDoctorStockLevelRespDto.java" timestamp="1564038630568">
         <mark key="[" line="41" column="29" />
         <mark key="]" line="41" column="29" />
@@ -82,10 +89,10 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AdminAppointmentSettingServiceImpl.java" timestamp="1563953740491">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="21" />
-        <mark key="." line="71" column="21" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AdminAppointmentSettingServiceImpl.java" timestamp="1564045911657">
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="33" />
+        <mark key="." line="85" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/TestController.java" timestamp="1563936193504">
         <mark key="[" line="48" column="7" />
@@ -97,7 +104,7 @@
         <mark key="]" line="14" column="69" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564042155145">
+      <file name="/fragment.java" timestamp="1564045398834">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -230,7 +237,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>querySetting</text>
+        <text>build</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -426,7 +433,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>querySetting</text>
+        <text>build</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -523,7 +530,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCiAgICBATm90RW1wdHkKICAgIHByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
