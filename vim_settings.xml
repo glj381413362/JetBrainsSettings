@@ -1,582 +1,105 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="I:/IDEAWorkSpace/zhimi/homs-boot-smartmi-fulfilment/src/main/java/org/homs/boot/fulfilment/handler/impl/ZmManualAbnormalJudgementHandler.java" timestamp="1553758859257">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoEditAddress.jsp" timestamp="1562654311673">
-        <mark key="'" line="11" column="12" />
-      </file>
-      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/java/gjt/util/AESUtils.java" timestamp="1501232979204">
-        <mark key="[" line="137" column="34" />
-        <mark key="]" line="137" column="41" />
-        <mark key="." line="137" column="41" />
-        <mark key="^" line="137" column="41" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicTwoLayoutPage.jsp" timestamp="1562654320948">
-        <mark key="'" line="9" column="17" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorServiceImpl.java" timestamp="1559114251317">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountRightPage.jsp" timestamp="1562654296833">
-        <mark key="'" line="26" column="51" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HomePageBannerServiceImpl.java" timestamp="1558941669789">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CommonController.java" timestamp="1560759453069">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/o2o/HepBlackLiskSetController.java" timestamp="1533541585610">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="48" column="11" />
-        <mark key="^" line="48" column="11" />
-        <mark key="." line="48" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/controllers/XycpResultController.java" timestamp="1512045863550">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/diff_ab/diff_ab_detail.screen" timestamp="1524730853031">
-        <mark key="[" line="1618" column="48" />
-        <mark key="]" line="1618" column="52" />
-        <mark key="^" line="1618" column="52" />
-        <mark key="." line="1618" column="52" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-parent/oms-refund-starter-fulfilment/src/main/java/org/smartmi/oms/refund/fulfilment/service/impl/ZmRefundGenerateReturnServiceImpl.java" timestamp="1555406201423">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="56" column="11" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/RecommendController.java" timestamp="1559703237585">
-        <mark key="[" line="24" column="4" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IAdminAppointmentSettingService.java" timestamp="1563953382171">
+        <mark key="[" line="25" column="11" />
         <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/dto/XycpAward.java" timestamp="1512294258247">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-        <mark key="^" line="68" column="20" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AppointmentSettingRespDto.java" timestamp="1563953042704">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="12" column="38" />
       </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/HomePageController.java" timestamp="1558942286321">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminAppointmentSettingReqDto.java" timestamp="1563952299591">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/service/impl/OfflineRefundExcelServiceImpl.java" timestamp="1555320714703">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="11" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/AppointmentSettingMapper.xml" timestamp="1564042707318" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminDoctorStockLevelRespDto.java" timestamp="1564038630568">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
       </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XycpResultServiceImpl.java" timestamp="1512045273881">
-        <mark key="[" line="68" column="18" />
-        <mark key="]" line="68" column="18" />
-        <mark key="^" line="68" column="14" />
-        <mark key="." line="68" column="18" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorDO.java" timestamp="1564022709536">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="0" />
       </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountOrderDetailDemoLayoutPage.jsp" timestamp="1562654280252">
-        <mark key="'" line="13" column="21" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorStockLevelMapper.xml" timestamp="1564042488852">
+        <mark key="[" line="41" column="132" />
+        <mark key="]" line="41" column="132" />
+        <mark key="." line="41" column="132" />
+        <mark key="^" line="43" column="40" />
       </file>
-      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/java/gjt/mst/service/impl/ICBCSendUnsignPostReq.java" timestamp="1502190065815">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-        <mark key="." line="36" column="27" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/mapper/DoctorStockLevelMapper.java" timestamp="1563869097333">
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="16" column="87" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HomePageSymptomServiceImpl.java" timestamp="1563529574778">
-        <mark key="[" line="183" column="198" />
-        <mark key="]" line="183" column="204" />
-        <mark key="^" line="183" column="197" />
-        <mark key="." line="183" column="198" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/diff_ab/diff_ab_detail2.screen" timestamp="1524736426649">
-        <mark key="[" line="207" column="96" />
-        <mark key="]" line="207" column="95" />
-        <mark key="." line="207" column="95" />
-        <mark key="^" line="207" column="95" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/expresslogistics/zto/jobs/ZTOHandleMarkJob.java" timestamp="1517969606194">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/jobs/ECBSLogisticsInformationJob.java" timestamp="1511858113911">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/java/gjt/mst/service/impl/ICBCRequest.java" timestamp="1502161127754">
-        <mark key="[" line="532" column="18" />
-        <mark key="]" line="532" column="25" />
-        <mark key="." line="532" column="25" />
-        <mark key="^" line="532" column="25" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/XycpUserResultMapper.xml" timestamp="1512196797203">
-        <mark key="[" line="73" column="92" />
-        <mark key="]" line="81" column="8" />
-        <mark key="^" line="73" column="809" />
-        <mark key="." line="73" column="810" />
-      </file>
-      <file name="H:/[绫致/test/src/Main.java" timestamp="1526349762328">
-        <mark key="[" line="6015" column="0" />
-        <mark key="]" line="8014" column="5" />
-        <mark key="^" line="10037" column="4" />
-        <mark key="." line="6015" column="0" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/inventory/impl/DefaultHepStoreInventoryQueryFacede.java" timestamp="1528786923512">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="57" column="13" />
-        <mark key="." line="57" column="13" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/services/impl/DefaultECBSLogisticsInformationService.java" timestamp="1511856678226">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="164" column="24" />
-        <mark key="." line="38" column="4" />
-        <mark key="^" line="38" column="3" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/webapp/WEB-INF/view/xycp/xycp_award.html" timestamp="1512380639507">
-        <mark key="[" line="231" column="26" />
-        <mark key="]" line="231" column="27" />
-        <mark key="." line="231" column="27" />
-        <mark key="^" line="231" column="25" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/BetResultServiceImpl.java" timestamp="1512187472002">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-order-service/src/main/java/com/hand/hmall/order/service/handler/OrderHandlerContext.java" timestamp="1560245075131">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/tb/services/impl/DefaultECTMProductUploadService.java" timestamp="1535422922845">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="43" column="11" />
-        <mark key="^" line="43" column="11" />
-        <mark key="." line="43" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/src/com/epo/storefront/controllers/pages/checkout/steps/EpoSummaryCheckoutStepController.java" timestamp="1551411256149">
-        <mark key="[" line="79" column="100" />
-        <mark key="]" line="79" column="102" />
-        <mark key="^" line="79" column="102" />
-        <mark key="." line="79" column="102" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/DoctorController.java" timestamp="1559114692731">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicThreeLayoutPage.jsp" timestamp="1562654323945">
-        <mark key="'" line="9" column="22" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoAccountRegisterData.java" timestamp="1563263242352">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="28" />
-        <mark key="." line="48" column="28" />
-        <mark key="^" line="48" column="28" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/diff/services/impl/DefaultDiffAbDetailService.java" timestamp="1533177018106">
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="71" column="11" />
-        <mark key="^" line="71" column="11" />
-        <mark key="." line="71" column="11" />
-      </file>
-      <file name="H:/[绫致/test/src/RequestDemo1.java" timestamp="1535100954496">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DepartmentServiceImpl.java" timestamp="1560324540883">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/RejectReturnGoodEntryHanderJob.java" timestamp="1554802950265">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1560325296090">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-      </file>
-      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/resources/config.properties" timestamp="1499945739414">
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="73" column="17" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/CalculateAwardResultJbo.java" timestamp="1512696143149">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/api/controller/v1/OfflineRefundExcelController.java" timestamp="1555322184666">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="32" column="10" />
-        <mark key="^" line="32" column="10" />
-        <mark key="." line="32" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563849235235">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epowebservice/web/src/com/epo/webservice/payment/PayPalPaymentResponseController.java" timestamp="1551238484681">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_010/OM_010_01.screen" timestamp="1511330998198">
-        <mark key="[" line="972" column="51" />
-        <mark key="]" line="972" column="44" />
-        <mark key="." line="972" column="44" />
-        <mark key="^" line="972" column="44" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/EvaluationDO.java" timestamp="1562120524692">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/order/impl/DefaultReturnRequestFacade.java" timestamp="1521454049384">
-        <mark key="[" line="609" column="2" />
-        <mark key="]" line="609" column="56" />
-        <mark key="." line="609" column="56" />
-        <mark key="^" line="609" column="56" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/convertors/impl/DefaultECBSLogisticsInformationConverter.java" timestamp="1511855391434">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="4" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/hybris/jobs/HepTryFixCloseConAbnormalJob.java" timestamp="1541574383235">
-        <mark key="[" line="47" column="0" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/TestController.java" timestamp="1563936193504">
+        <mark key="[" line="48" column="7" />
         <mark key="]" line="48" column="7" />
-        <mark key="^" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/xycp/dto/c_user_my.java" timestamp="1511926663521">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="51" column="15" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="51" column="0" />
+      <file name="/Dummy.txt" timestamp="1564042793654">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/sap/convertors/impl/DefaultECSAPDeliverOrderConvertor.java" timestamp="1525852131692">
-        <mark key="[" line="61" column="6" />
-        <mark key="]" line="62" column="13" />
-        <mark key="^" line="62" column="13" />
-        <mark key="." line="62" column="13" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/AppointmentSettingController.java" timestamp="1563953768407">
+        <mark key="[" line="51" column="68" />
+        <mark key="]" line="51" column="68" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="51" column="68" />
       </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/bs/services/ECBSLogisticsInformationService.java" timestamp="1511856375624">
-        <mark key="[" line="26" column="170" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="26" column="14" />
-        <mark key="^" line="26" column="14" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/EvaluationServiceImpl.java" timestamp="1563958429479">
+        <mark key="[" line="200" column="26" />
+        <mark key="]" line="200" column="26" />
+        <mark key="." line="200" column="26" />
       </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/src/com/hep/cws/cronjob/sap/ECHandleDifferenceNotConfirmRegistrationJob.java" timestamp="1516589349164">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="20" column="11" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="11" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564039125653">
+        <mark key="[" line="180" column="70" />
+        <mark key="]" line="180" column="70" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="180" column="70" />
       </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/RecordsMapper.xml" timestamp="1511964028141">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/EvaluationRespDto.java" timestamp="1563956944745">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
       </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HospitalServiceImpl.java" timestamp="1559199513089">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorStockLevelDO.java" timestamp="1563874737433">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="I:/IDEA_workspace/Java8InAction/src/main/java/lambdasinaction/dsl/DefaultECBSWaybillConverter.java" timestamp="1511493555964">
-        <mark key="[" line="57" column="15" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564042809639">
+        <mark key="[" line="92" column="26" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="37" column="11" />
       </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/ych/impl/DefaultECYCHWarehouseStatusFacade.java" timestamp="1523956065870">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="76" column="7" />
-        <mark key="^" line="76" column="7" />
-        <mark key="." line="76" column="7" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AdminAppointmentSettingServiceImpl.java" timestamp="1563953740491">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="71" column="21" />
+        <mark key="." line="71" column="21" />
       </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountProfileEditPage.jsp" timestamp="1562654291538">
-        <mark key="'" line="11" column="14" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorMapper.xml" timestamp="1564022738022">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="69" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryMsdInnerLayoutPage.jsp" timestamp="1562654306225">
-        <mark key="'" line="11" column="19" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/AutoCloseSwapApplicationJob.java" timestamp="1525833444899">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/HospitalController.java" timestamp="1559204714863">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/CalculateService.java" timestamp="1512182775328">
-        <mark key="[" line="790" column="43" />
-        <mark key="]" line="790" column="45" />
-        <mark key="^" line="815" column="27" />
-        <mark key="." line="790" column="43" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountMyCollectionPage.jsp" timestamp="1562654276590">
-        <mark key="'" line="49" column="21" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-parent/oms-refund-starter-fulfilment/src/main/java/org/smartmi/oms/refund/fulfilment/domain/repository/impl/ZmReturnOrderEntryProcessRepositoryImpl.java" timestamp="1555470409786">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/dto/ScMixEntity.java" timestamp="1512007152081">
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-        <mark key="^" line="56" column="19" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/UpdateAwardInfoService.java" timestamp="1512288767094">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="24" column="11" />
-        <mark key="^" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReturnGoodEntryHanderJob.java" timestamp="1554692059863">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="19" column="11" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/HttpGetApiRecordService.java" timestamp="1512445619439">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryCampaignLayoutPage.jsp" timestamp="1562654299410">
-        <mark key="'" line="10" column="23" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/MembersServiceImpl.java" timestamp="1511960336566">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/AppointmentController.java" timestamp="1559719356056">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/order/converters/impl/DefaultO2OConsignmentDataConverter.java" timestamp="1518077854466">
-        <mark key="[" line="48" column="6" />
-        <mark key="]" line="49" column="13" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="13" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/dai/impl/DefaultECHandleDifferenceNotConfirmRegistrationFacade.java" timestamp="1516607723416">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="29" column="11" />
-        <mark key="^" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AppointmentServiceImpl.java" timestamp="1559717118638">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/o2oautoext/QueryOrderController.java" timestamp="1528456520823">
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="60" column="13" />
-        <mark key="^" line="60" column="13" />
-        <mark key="." line="60" column="13" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/service/impl/ReturnGoodEntryHanderServiceImpl.java" timestamp="1554803493056">
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="47" column="11" />
-        <mark key="^" line="47" column="11" />
-        <mark key="." line="47" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hap/hmall-base/src/main/java/com/hand/hmall/om/service/impl/ConsignmentServiceImpl.java" timestamp="1559032531807">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_001/OM_001_02.screen" timestamp="1512096168016">
-        <mark key="[" line="141" column="25" />
-        <mark key="]" line="141" column="36" />
-        <mark key="." line="141" column="26" />
-        <mark key="^" line="141" column="24" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/SET_023/TransshipOrderManage.screen" timestamp="1514170601759">
-        <mark key="[" line="177" column="35" />
-        <mark key="]" line="177" column="50" />
-        <mark key="." line="235" column="81" />
-        <mark key="^" line="235" column="81" />
-      </file>
-      <file name="I:/IDEAWorkSpace/dev-GJT/GJT/core/src/main/resources/gjt/pay/mapper/PayPaymentBatchMapper.xml" timestamp="1500363060174">
-        <mark key="[" line="81" column="13" />
-        <mark key="]" line="81" column="12" />
-        <mark key="." line="81" column="12" />
-        <mark key="^" line="81" column="12" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1559702092259">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="19" column="11" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/H5PointOfServiceAddJob.java" timestamp="1522724284316">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="34" column="11" />
-        <mark key="^" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/homs-boot-smartmi-fulfilment/src/main/java/org/homs/boot/fulfilment/feign/impl/CancelWaybillFeignClientImpl.java" timestamp="1553851417992">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/diff/impl/DefaultDiffAbDetailFacade.java" timestamp="1531209794811">
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="73" column="11" />
-        <mark key="^" line="73" column="11" />
-        <mark key="." line="73" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/logs/services/impl/DefaultConsignmentGetMarkErrMsgService.java" timestamp="1526007548228">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/expresslogistics/zto/convertors/impl/DefaultZTODataConvertor.java" timestamp="1525836943722">
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="50" column="11" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="50" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoBrandHistoryHappeningLayoutPage.jsp" timestamp="1562654301815">
-        <mark key="'" line="9" column="20" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-order-service/src/main/java/com/hand/hmall/order/service/impl/OrderV1ServiceImpl.java" timestamp="1560136596388">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/SGP/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CommonServiceImpl.java" timestamp="1560760201710">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/zhimi/homs-interface/src/main/java/org/homs/interfaces/crm/app/service/impl/CrmOrderServiceImpl.java" timestamp="1554188176676">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="48" column="11" />
-        <mark key="^" line="48" column="11" />
-        <mark key="." line="48" column="11" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/myAccountBindPage.jsp" timestamp="1562654317889">
-        <mark key="'" line="11" column="16" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepcws/web/src/com/hep/cws/v2/controller/ych/ECYchConsignmentController.java" timestamp="1511316422481">
-        <mark key="[" line="208" column="52" />
-        <mark key="]" line="208" column="52" />
-        <mark key="^" line="37" column="13" />
-        <mark key="." line="208" column="52" />
-      </file>
-      <file name="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/service/impl/XResultsServiceImpl.java" timestamp="1512043811047">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="19" />
-        <mark key="^" line="43" column="19" />
-        <mark key="." line="43" column="19" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoUpdateMessageMOData.java" timestamp="1562229801359">
-        <mark key="'" line="88" column="4" />
-        <mark key="[" line="103" column="27" />
-        <mark key="]" line="103" column="28" />
-        <mark key="." line="103" column="28" />
-        <mark key="^" line="103" column="28" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoAccountOrderHistoryPage.jsp" timestamp="1562654286310">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicOneLayoutPage.jsp" timestamp="1562654327020">
-        <mark key="'" line="7" column="20" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepecs/src/com/hep/ecs/h5/jobs/SwapInfoPushH5Job.java" timestamp="1527040995207">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="41" column="11" />
-        <mark key="^" line="41" column="11" />
-        <mark key="." line="41" column="11" />
-      </file>
-      <file name="I:/IDEA_workspace/HYBRISCOMM6300P2_1/hybris/bin/custom/hep/hepcore/testsrc/com/hep/core/daos/impls/testTests.java" timestamp="1493264181120">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="I:/IDEAWorkSpace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/h5/impl/DefaultH5SwapApplicationFacade.java" timestamp="1523953933618">
-        <mark key="[" line="129" column="4" />
-        <mark key="]" line="130" column="11" />
-        <mark key="^" line="130" column="11" />
-        <mark key="." line="130" column="11" />
+      <file name="/fragment.java" timestamp="1564042155145">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
-      <jump line="182" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
-      <jump line="183" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
-      <jump line="184" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="185" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="186" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="187" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
@@ -673,6 +196,10 @@
       <jump line="9" column="22" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicThreeLayoutPage.jsp" />
       <jump line="7" column="20" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epostorefront/web/webroot/WEB-INF/views/responsive/pages/account/mocoSpecialTopicOneLayoutPage.jsp" />
       <jump line="33" column="4" filename="I:/IDEAWorkSpace/HYBRIS_EPO/hybris/bin/custom/epo/epoecs/src/com/epo/ecs/dcrm/datas/EpoAccountRegisterData.java" />
+      <jump line="48" column="76" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" />
+      <jump line="101" column="31" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminAppointmentSettingReqDto.java" />
+      <jump line="87" column="26" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -700,8 +227,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmdmZ2ZnZmcK</text>
+      <register name="&quot;" type="4">
+        <text>querySetting</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -897,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');, NULL, NULL, NULL, NULL, NULL, NULL, '200');</text>
+        <text>querySetting</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -993,8 +520,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>street</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1005,30 +532,17 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmdmZ2ZnZmcK</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="116" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>nyy3jkp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZmdmZ2ZnZmcK</text>
+      <register name="2" type="4">
+        <text>else {
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmZpaWZkYXNkZmdoaGpqbGdmZ2ZnZmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBdmFpbGFibGUgPSAwTDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1058,7 +572,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGZnZmdmZ2ZnZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBdmFpbGFibGUgPSBxdWVyeVNldHRpbmcuZ2V0SXNBdmFpbGFibGUoKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1095,10 +609,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY29tcGFueU5hbWUiamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0icGhvbmVOdW0iamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkFwcG9pbnRtZW50U2V0dGluZ0RPIGlzIG51bGwgLCB3ZWVrIFt7fV0iLCBkYXlPZldlZWsudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1113,13 +627,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iZW1haWwiamRiY1R5cGU9IlZBUkNIQVIicHJvcGVydHk9IiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGlzQXZhaWxhYmxlID0gcXVlcnlTZXR0aW5nLmdldElzQXZhaWxhYmxlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ib3BlbklkImpkYmNUeXBlPSJWQVJDSEFSInByb3BlcnR5PSIiLz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDVVJSRU5DWSA9ICJTR0QiOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iY3VzdG9tZXJOYW1lImpkYmNUeXBlPSJWQVJDSEFSInByb3BlcnR5PSIiLz4K</text>
+      <register name="9" type="4">
+        <text>if (null ==appointmentSettingDO) {
+				
+			}</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1248,6 +764,12 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
