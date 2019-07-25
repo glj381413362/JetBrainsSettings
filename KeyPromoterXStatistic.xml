@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>65</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -46,6 +46,14 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌥⌘B'</ShortCut>
+          <Description>Implementation(s)</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
