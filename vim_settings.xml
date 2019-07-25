@@ -3,64 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CompanyForAdminController.java" timestamp="1563861818272">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/mapper/DoctorStockLevelMapper.java" timestamp="1563869097333">
-        <mark key="[" line="16" column="85" />
-        <mark key="]" line="16" column="87" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/ICompanyService.java" timestamp="1563861752790" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/AppointmentSettingController.java" timestamp="1563953768407">
-        <mark key="[" line="51" column="68" />
-        <mark key="]" line="51" column="68" />
-        <mark key="^" line="44" column="14" />
-        <mark key="." line="51" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/EvaluationServiceImpl.java" timestamp="1563958429479">
-        <mark key="[" line="200" column="26" />
-        <mark key="]" line="200" column="26" />
-        <mark key="." line="200" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1563958962949">
-        <mark key="[" line="241" column="79" />
-        <mark key="]" line="241" column="79" />
-        <mark key="." line="241" column="79" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorStockLevelDO.java" timestamp="1563874737433">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564022810937">
-        <mark key="'" line="101" column="31" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/EvaluationController.java" timestamp="1563957642571" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorDO.java" timestamp="1564022709536">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="25" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Maven_Repository/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0.jar!/com/github/pagehelper/util/PageObjectUtil.class" timestamp="1563952661764" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/TestController.java" timestamp="1563936193504">
-        <mark key="[" line="48" column="7" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" timestamp="1563934674920">
-        <mark key="'" line="46" column="76" />
-        <mark key="[" line="46" column="73" />
-        <mark key="]" line="46" column="73" />
-        <mark key="^" line="39" column="67" />
-        <mark key="." line="46" column="73" />
-      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IAdminAppointmentSettingService.java" timestamp="1563953382171">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="25" column="11" />
@@ -81,9 +23,62 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminDoctorStockLevelRespDto.java" timestamp="1564038630568">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorDO.java" timestamp="1564022709536">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorStockLevelMapper.xml" timestamp="1563933707541">
+        <mark key="[" line="41" column="132" />
+        <mark key="]" line="41" column="132" />
+        <mark key="." line="41" column="132" />
+        <mark key="^" line="43" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CompanyForAdminController.java" timestamp="1563861818272">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/mapper/DoctorStockLevelMapper.java" timestamp="1563869097333">
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="16" column="87" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/TestController.java" timestamp="1563936193504">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564039139531">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminAppointmentReqDto.java" timestamp="1563950942741">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/AppointmentSettingController.java" timestamp="1563953768407">
+        <mark key="[" line="51" column="68" />
+        <mark key="]" line="51" column="68" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="51" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/EvaluationServiceImpl.java" timestamp="1563958429479">
+        <mark key="[" line="200" column="26" />
+        <mark key="]" line="200" column="26" />
+        <mark key="." line="200" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564039125653">
+        <mark key="[" line="180" column="70" />
+        <mark key="]" line="180" column="70" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="180" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/EvaluationRespDto.java" timestamp="1563956944745">
         <mark key="[" line="35" column="29" />
@@ -94,25 +89,17 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-common-service/src/main/resources/mapper/FndWebsizeMapper.xml" timestamp="1563932651541" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1563949840244" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorMapper.xml" timestamp="1564022738022">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="69" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/DoctorStockLevelDO.java" timestamp="1563874737433">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorStockLevelMapper.xml" timestamp="1563933707541">
-        <mark key="[" line="41" column="132" />
-        <mark key="]" line="41" column="132" />
-        <mark key="." line="41" column="132" />
-        <mark key="^" line="43" column="40" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564039933375">
+        <mark key="[" line="75" column="51" />
+        <mark key="]" line="38" column="68" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564022830484">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/EvaluationDO.java" timestamp="1563956419570" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/DepartmentInfoResqDto.java" timestamp="1563952168654">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="8" />
@@ -122,12 +109,16 @@
         <mark key="]" line="71" column="21" />
         <mark key="." line="71" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DoctorMapper.xml" timestamp="1564022738022">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="69" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1563958844699">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="185" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="186" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="187" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
@@ -227,6 +218,7 @@
       <jump line="48" column="76" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/job/CreateAppointmentTimeJob.java" />
       <jump line="101" column="31" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" />
       <jump line="22" column="4" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminAppointmentSettingReqDto.java" />
+      <jump line="87" column="26" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -254,8 +246,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDVVJSRU5DWSA9ICJTR0QiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getStockId</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -451,7 +443,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getStockId</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -548,7 +540,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJzdGF0dXMiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0ic3RhdHVzIiAvPgo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -559,18 +551,17 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDVVJSRU5DWSA9ICJTR0QiOwo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="4">
-        <text>if (null ==appointmentSettingDO) {
-				
-			}</text>
+        <text>else {
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBdmFpbGFibGUgPSAwTDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -600,7 +591,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoc2V0dGluZ0RPUykpIHsKCQkJcmV0dXJuIFJlc0R0by5mYWlsZWQoIuacquiOt+WPluWIsOebuOW6lOaVsOaNriIpOwoJCX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBdmFpbGFibGUgPSBxdWVyeVNldHRpbmcuZ2V0SXNBdmFpbGFibGUoKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -637,10 +628,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkKCQkKCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkFwcG9pbnRtZW50U2V0dGluZ0RPIGlzIG51bGwgLCB3ZWVrIFt7fV0iLCBkYXlPZldlZWsudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -655,13 +646,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUxpc3Q8QXBwb2ludG1lbnRTZXR0aW5nUmVzcER0bz4gbGlzdEFwcG9pbnRtZW50U2V0dGluZ3MoQWRtaW5BcHBvaW50bWVudFNldHRpbmdSZXFEdG8gYXBwb2ludG1lbnRTZXR0aW5nUmVxRHRvKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGlzQXZhaWxhYmxlID0gcXVlcnlTZXR0aW5nLmdldElzQXZhaWxhYmxlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDVVJSRU5DWSA9ICJTR0QiOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwo=</text>
+      <register name="9" type="4">
+        <text>if (null ==appointmentSettingDO) {
+				
+			}</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -794,5 +787,8 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
