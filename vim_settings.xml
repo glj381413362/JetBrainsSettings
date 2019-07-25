@@ -54,7 +54,7 @@
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564039139531">
+      <file name="/Dummy.txt" timestamp="1564040657896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -94,10 +94,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564039933375">
-        <mark key="[" line="75" column="51" />
-        <mark key="]" line="38" column="68" />
-        <mark key="." line="37" column="11" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564040599401">
+        <mark key="[" line="88" column="48" />
+        <mark key="]" line="88" column="48" />
+        <mark key="." line="88" column="48" />
         <mark key="^" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/DepartmentInfoResqDto.java" timestamp="1563952168654">
@@ -247,7 +247,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getStockId</text>
+        <text>getIsAvailable</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -443,7 +443,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getStockId</text>
+        <text>getIsAvailable</text>
       </register>
       <register name="m" type="4">
         <keys>
