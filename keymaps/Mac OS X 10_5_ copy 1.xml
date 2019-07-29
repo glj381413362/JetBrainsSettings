@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
