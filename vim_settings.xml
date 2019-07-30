@@ -9,10 +9,6 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HospitalServiceImpl.java" timestamp="1564046267807">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="298" column="43" />
-      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminAppointmentSettingSaveReqDto.java" timestamp="1564046916898">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="38" column="27" />
@@ -35,7 +31,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/HYBRIS_EPO/hybris/config/localextensions.xml" timestamp="1564379075712" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/RecommendInfoReqDto.java" timestamp="1564451695308">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminDoctorStockLevelRespDto.java" timestamp="1564038630568">
         <mark key="[" line="41" column="29" />
         <mark key="]" line="41" column="29" />
@@ -66,6 +66,9 @@
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IRecommendService.java" timestamp="1564451256518">
+        <mark key="[" line="26" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1564389756634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -78,7 +81,6 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/filter/UserFilter.java" timestamp="1564388699619" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/enums/OperationStatus.java" timestamp="1564389754723">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="53" column="29" />
@@ -88,6 +90,9 @@
         <mark key="[" line="63" column="69" />
         <mark key="]" line="63" column="68" />
         <mark key="." line="63" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564451563445">
+        <mark key="[" line="39" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/EvaluationServiceImpl.java" timestamp="1563958429479">
         <mark key="[" line="200" column="26" />
@@ -104,6 +109,11 @@
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="29" />
         <mark key="." line="35" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" timestamp="1564451160021">
+        <mark key="[" line="45" column="79" />
+        <mark key="]" line="45" column="79" />
+        <mark key="." line="45" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CompanyController.java" timestamp="1564125612805">
         <mark key="'" line="48" column="30" />
@@ -128,11 +138,16 @@
         <mark key="^" line="34" column="11" />
         <mark key="." line="77" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1564450742679">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="57" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminCompanyReqDto.java" timestamp="1564124893468">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/QueryLabelReqDto.java" timestamp="1564450975445" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AdminAppointmentSettingServiceImpl.java" timestamp="1564125898755">
         <mark key="[" line="108" column="39" />
         <mark key="]" line="108" column="39" />
@@ -143,7 +158,7 @@
         <mark key="]" line="14" column="69" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564388957891">
+      <file name="/fragment.java" timestamp="1564450604709">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -276,7 +291,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MySQLIntegrityConstraintViolationException</text>
+        <text />
       </register>
       <register name="c" type="4">
         <keys>
@@ -296,7 +311,7 @@
         </keys>
       </register>
       <register name="d" type="4">
-        <text>e.getMessage())</text>
+        <text />
       </register>
       <register name="f" type="4">
         <keys>
@@ -394,7 +409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MySQLIntegrityConstraintViolationException</text>
+        <text>departmentReqDtos)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -491,7 +506,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBMb2cKCUBQcmVBdXRob3JpemUoImhhc0FueVJvbGUoJ0FETUlOLFVTRVInKSIpCglAQXBpT3BlcmF0aW9uKHZhbHVlID0gIi/liKDpmaQiLCBub3RlcyA9ICLliKDpmaQiKQoJQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9kZWxldGUiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkRFTEVURSkKCXB1YmxpYyBIbWFsbFJlc3BvbnNlRHRvIGRlbGV0ZShAUmVxdWVzdEJvZHkgQFZhbGlkIExpc3Q8U3RyaW5nPiBjb21wYW55SWRzKSB7CgkJSG1hbGxBcGlJbmZvRHRvIGhtYWxsQXBpSW5mb0R0byA9IEhtYWxsQXBpSW5mb0R0by5idWlsZGVyKCkuYnVpbGQoKTsKCQlSZXNEdG8gcmVzRHRvID0gY29tcGFueVNlcnZpY2UuZGVsZXRlKGNvbXBhbnlJZHMpOwoJCXJldHVybiByZXNEdG8uYnVpbGRSZXNwb25zZShobWFsbEFwaUluZm9EdG8pOwo=</text>
+        <text encoding="base64">CUBMb2cKCUBQcmVBdXRob3JpemUoImhhc0FueVJvbGUoJ0FETUlOLFVTRVInKSIpCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIi/mlrDlop7miJbmm7TmlrAiLCBub3RlcyA9ICLmlrDlop7miJbmm7TmlrAiKQogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9zYXZlIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgcHVibGljIEhtYWxsUmVzcG9uc2VEdG8gc2F2ZShAUmVxdWVzdEJvZHkgQFZhbGlkIExpc3Q8RGVwYXJ0bWVudFJlcUR0bz4gZGVwYXJ0bWVudFJlcUR0b3MpIHsKICAgICAgICBSZXNEdG8gcmVzRHRvID0gZGVwYXJ0bWVudFNlcnZpY2UuYmF0Y2hTYXZlKGRlcGFydG1lbnRSZXFEdG9zKTsKICAgICAgICBIbWFsbEFwaUluZm9EdG8gYXBpSW5mb0R0byA9IGRlcGFydG1lbnRSZXFEdG9zLmdldCgwKS5nZXRBcGlJbmZvRHRvKCk7CiAgICAgICAgcmV0dXJuIHJlc0R0by5idWlsZFJlc3BvbnNlKGFwaUluZm9EdG8pOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -501,17 +516,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUgaW5zdGFuY2VvZiBNeVNRTEludGVncml0eUNvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pIHsK</text>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="4">
-        <text>e.getMessage())</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUgaW5zdGFuY2VvZiBNeVNRTEludGVncml0eUNvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pIHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuY29weVByb3BlcnRpZXMoYWRtaW5BcHBvaW50bWVudFNldHRpbmdTYXZlUmVxRHRvLCBhcHBvaW50bWVudFNldHRpbmdETyk7Cg==</text>
+      <register name="3" type="4">
+        <text>e.getMessage())</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -541,7 +556,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIDJkZCBmb3IgKEFkbWluQ29tcGFueVNhdmVSZXFEdG8gY29tcGFueVNhdmVSZXFEdG8gOiBjb21wYW55U2F2ZVJlcUR0b3MpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY29weVByb3BlcnRpZXMoYWRtaW5BcHBvaW50bWVudFNldHRpbmdTYXZlUmVxRHRvLCBhcHBvaW50bWVudFNldHRpbmdETyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -578,10 +593,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgIDJkZCBmb3IgKEFkbWluQ29tcGFueVNhdmVSZXFEdG8gY29tcGFueVNhdmVSZXFEdG8gOiBjb21wYW55U2F2ZVJlcUR0b3MpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLnp5/miLflkI3np7AiLG5hbWU9ImNvbXBhbnlOYW1lIiApCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIGNvbXBhbnlOYW1lOwo=</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -596,13 +611,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwb2ludG1lbnRTZXR0aW5nRE8gYXBwb2ludG1lbnRTZXR0aW5nRE8gPSBBcHBvaW50bWVudFNldHRpbmdETy5idWlsZGVyKCkuYnVpbGQoKTsKICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKGFwcG9pbnRtZW50U2V0dGluZ1JlcUR0byxhcHBvaW50bWVudFNldHRpbmdETyk7Cg==</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLnp5/miLflkI3np7AiLG5hbWU9ImNvbXBhbnlOYW1lIiApCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIGNvbXBhbnlOYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFJlc0R0byBzYXZlKExpc3Q8QWRtaW5BcHBvaW50bWVudFNldHRpbmdTYXZlUmVxRHRvPiBhcHBvaW50bWVudFNldHRpbmdSZXFEdG9zKSB7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwb2ludG1lbnRTZXR0aW5nRE8gYXBwb2ludG1lbnRTZXR0aW5nRE8gPSBBcHBvaW50bWVudFNldHRpbmdETy5idWlsZGVyKCkuYnVpbGQoKTsKICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKGFwcG9pbnRtZW50U2V0dGluZ1JlcUR0byxhcHBvaW50bWVudFNldHRpbmdETyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFJlc0R0byBzYXZlKExpc3Q8QWRtaW5BcHBvaW50bWVudFNldHRpbmdTYXZlUmVxRHRvPiBhcHBvaW50bWVudFNldHRpbmdSZXFEdG9zKSB7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
