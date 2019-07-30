@@ -41,7 +41,7 @@
         <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/tk/mybatis/mapper-base/1.1.4/mapper-base-1.1.4.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeySelectiveMapper.class" timestamp="1564471275658" />
-      <file name="/Dummy.txt" timestamp="1564472193066">
+      <file name="/Dummy.txt" timestamp="1564475260554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -52,11 +52,12 @@
         <mark key="." line="53" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564470789829" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564473454415">
-        <mark key="[" line="216" column="8" />
-        <mark key="]" line="216" column="8" />
-        <mark key="^" line="89" column="8" />
-        <mark key="." line="216" column="8" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564475247318">
+        <mark key="'" line="101" column="30" />
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="104" column="57" />
+        <mark key="^" line="104" column="57" />
+        <mark key="." line="104" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" timestamp="1564454018249">
         <mark key="[" line="50" column="67" />
@@ -72,7 +73,7 @@
         <mark key="]" line="37" column="48" />
         <mark key="." line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564473521432">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CreateAppiontmentTimeServiceImpl.java" timestamp="1564474093051">
         <mark key="[" line="77" column="56" />
         <mark key="]" line="77" column="56" />
         <mark key="^" line="34" column="11" />
@@ -83,7 +84,9 @@
         <mark key="]" line="57" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/QueryLabelReqDto.java" timestamp="1564450975445" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1564473564415" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1564475194227">
+        <mark key="[" line="2" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/AdminAppointmentSettingServiceImpl.java" timestamp="1564451730536">
         <mark key="[" line="108" column="39" />
         <mark key="]" line="108" column="39" />
@@ -98,7 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="190" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="191" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="192" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
@@ -198,6 +200,7 @@
       <jump line="34" column="57" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/CompanyServiceImpl.java" />
       <jump line="46" column="30" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CompanyController.java" />
       <jump line="34" column="18" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/ICompanyService.java" />
+      <jump line="101" column="30" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -226,7 +229,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QE5vdE51bGwobWVzc2FnZSA9ICLml6XmnJ/kuI3og73kuLrnqboiKSA=</text>
+        <text>推荐榜单</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -344,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QE5vdE51bGwobWVzc2FnZSA9ICLml6XmnJ/kuI3og73kuLrnqboiKSA=</text>
+        <text>推荐榜单</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -452,17 +455,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGluc3RhbnQgPSBkYXRlLnRvSW5zdGFudCgpOwogICAgICAgIFpvbmVJZCB6b25lID0gWm9uZUlkLnN5c3RlbURlZmF1bHQoKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGxvY2FsRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChpbnN0YW50LCB6b25lKTsK</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIE1lZGlhTWFwcGVyIG1lZGlhTWFwcGVyOwogICAgQE5vbk51bGwKICAgIHByaXZhdGUgZmluYWwgSUFkZHJlc3NTZXJ2aWNlIGFkZHJlc3NTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>@PathVariable(&quot;companyId&quot;) String companyId,
-                                                                   @RequestBody(required = false) HmallApiInfoDto apiInfoDto</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIE1lZGlhTWFwcGVyIG1lZGlhTWFwcGVyOwogICAgQE5vbk51bGwKICAgIHByaXZhdGUgZmluYWwgSUFkZHJlc3NTZXJ2aWNlIGFkZHJlc3NTZXJ2aWNlOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -491,8 +493,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
+      <register name="4" type="4">
+        <text>@PathVariable(&quot;companyId&quot;) String companyId,
+                                                                   @RequestBody(required = false) HmallApiInfoDto apiInfoDto</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -529,10 +532,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIElEZXBhcnRtZW50U2VydmljZSBkZXBhcnRtZW50U2VydmljZTsK</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIElEZXBhcnRtZW50U2VydmljZSBkZXBhcnRtZW50U2VydmljZTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -546,14 +549,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGUgaW5zdGFuY2VvZiBNeVNRTEludGVncml0eUNvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pIHsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>e.getMessage())</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuY29weVByb3BlcnRpZXMoYWRtaW5BcHBvaW50bWVudFNldHRpbmdTYXZlUmVxRHRvLCBhcHBvaW50bWVudFNldHRpbmdETyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
