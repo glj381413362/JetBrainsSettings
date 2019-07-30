@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IRecommendService.java" timestamp="1564454311653">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564456422876">
+      <file name="/Dummy.txt" timestamp="1564466146276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -59,8 +59,8 @@
         <mark key="]" line="37" column="48" />
         <mark key="." line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1564450742679">
-        <mark key="[" line="50" column="0" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1564465675889">
+        <mark key="[" line="55" column="70" />
         <mark key="]" line="57" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/QueryLabelReqDto.java" timestamp="1564450975445" />
