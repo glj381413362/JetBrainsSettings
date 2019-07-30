@@ -33,21 +33,25 @@
       <file name="find.xml" timestamp="1564045230079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/RecommendDO.java" timestamp="1564455993232" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/RecommendDO.java" timestamp="1564471909546">
+        <mark key="[" line="28" column="29" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/mapper-base-1.1.4-sources.jar!/tk/mybatis/mapper/common/base/BaseUpdateMapper.java" timestamp="1564471541642" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IRecommendService.java" timestamp="1564454311653">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564469197468">
+      <file name="$USER_HOME$/Maven_Repository/tk/mybatis/mapper-base/1.1.4/mapper-base-1.1.4.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeySelectiveMapper.class" timestamp="1564471275658" />
+      <file name="/Dummy.txt" timestamp="1564472193066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/enums/OperationStatus.java" timestamp="1564456191944">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/enums/OperationStatus.java" timestamp="1564471611897">
         <mark key="[" line="87" column="31" />
         <mark key="]" line="53" column="29" />
         <mark key="." line="53" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564469172520" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564470789829" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564468422289">
         <mark key="[" line="134" column="70" />
         <mark key="]" line="150" column="35" />
