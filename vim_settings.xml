@@ -9,6 +9,9 @@
         <mark key="^" line="31" column="1" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DoctorStockLevelAdminController.java" timestamp="1564468377186">
+        <mark key="[" line="77" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HospitalServiceImpl.java" timestamp="1564046267807">
         <mark key="[" line="297" column="0" />
         <mark key="]" line="298" column="43" />
@@ -34,7 +37,7 @@
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IRecommendService.java" timestamp="1564454311653">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564466146276">
+      <file name="/Dummy.txt" timestamp="1564469197468">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -44,7 +47,13 @@
         <mark key="]" line="53" column="29" />
         <mark key="." line="53" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564454206463" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564469172520" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564468422289">
+        <mark key="[" line="134" column="70" />
+        <mark key="]" line="150" column="35" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="150" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" timestamp="1564454018249">
         <mark key="[" line="50" column="67" />
         <mark key="]" line="50" column="67" />
