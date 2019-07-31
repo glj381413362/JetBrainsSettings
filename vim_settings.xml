@@ -41,7 +41,7 @@
         <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/tk/mybatis/mapper-base/1.1.4/mapper-base-1.1.4.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeySelectiveMapper.class" timestamp="1564471275658" />
-      <file name="/Dummy.txt" timestamp="1564481359375">
+      <file name="/Dummy.txt" timestamp="1564543332502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -55,6 +55,11 @@
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="29" />
         <mark key="." line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/AppointmentSettingController.java" timestamp="1564543304911">
+        <mark key="[" line="57" column="91" />
+        <mark key="]" line="72" column="68" />
+        <mark key="." line="72" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564470789829" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564481349291">
