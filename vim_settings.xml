@@ -3,8 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/RecommendServiceImpl.java" timestamp="1564454262201" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/DoctorController.java" timestamp="1564562233451">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/RecommendMapper.xml" timestamp="1564623984521">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DoctorStockLevelAdminController.java" timestamp="1564468377186">
+        <mark key="[" line="77" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/RecommendQueryReqDto.java" timestamp="1564455060699">
+        <mark key="[" line="21" column="71" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/DoctorController.java" timestamp="1564623384900">
         <mark key="'" line="53" column="123" />
         <mark key="[" line="61" column="62" />
         <mark key="]" line="62" column="37" />
@@ -16,22 +29,44 @@
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/RecommendInfoRespDto.java" timestamp="1564456037083">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/RecommendInfoRespDto.java" timestamp="1564623926578">
         <mark key="[" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/RecommendDO.java" timestamp="1564471909546">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/entity/RecommendDO.java" timestamp="1564623936152">
         <mark key="[" line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IRecommendService.java" timestamp="1564454311653">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/IRecommendService.java" timestamp="1564625260034">
+        <mark key="[" line="45" column="49" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/Maven_Repository/tk/mybatis/mapper-base/1.1.4/mapper-base-1.1.4.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeySelectiveMapper.class" timestamp="1564471275658" />
+      <file name="/Dummy.txt" timestamp="1564625496277">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/enums/OperationStatus.java" timestamp="1564624925320">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminDoctorByDoctorReqDto.java" timestamp="1564481315036">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/AppointmentSettingController.java" timestamp="1564543304911">
         <mark key="[" line="57" column="91" />
         <mark key="]" line="72" column="68" />
         <mark key="." line="72" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564470789829" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/RecommendServiceImpl.java" timestamp="1564625391329">
+        <mark key="[" line="130" column="20" />
+        <mark key="]" line="130" column="20" />
+        <mark key="^" line="130" column="20" />
+        <mark key="." line="130" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" timestamp="1564560707155">
         <mark key="'" line="122" column="73" />
         <mark key="[" line="122" column="64" />
@@ -39,7 +74,9 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="122" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/mapper/RecommendMapper.java" timestamp="1564453331600">
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" timestamp="1564625471145" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/CompanyController.java" timestamp="1564625028192" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/mapper/RecommendMapper.java" timestamp="1564623567269">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="37" column="48" />
         <mark key="." line="37" column="48" />
@@ -49,60 +86,6 @@
         <mark key="]" line="77" column="56" />
         <mark key="^" line="34" column="11" />
         <mark key="." line="77" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1564465675889">
-        <mark key="[" line="55" column="70" />
-        <mark key="]" line="57" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/QueryLabelReqDto.java" timestamp="1564450975445" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/HospitalMapper.xml" timestamp="1564455370882">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="56" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/RecommendMapper.xml" timestamp="1564456031317">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="36" column="13" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DoctorStockLevelAdminController.java" timestamp="1564468377186">
-        <mark key="[" line="77" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/HospitalServiceImpl.java" timestamp="1564046267807">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="298" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/RecommendQueryReqDto.java" timestamp="1564455060699">
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorServiceImpl.java" timestamp="1564562199982" />
-      <file name="$USER_HOME$/.ideaLibSources/mapper-base-1.1.4-sources.jar!/tk/mybatis/mapper/common/base/BaseUpdateMapper.java" timestamp="1564471541642" />
-      <file name="/Dummy.txt" timestamp="1564562281079">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/enums/OperationStatus.java" timestamp="1564471611897">
-        <mark key="[" line="87" column="31" />
-        <mark key="]" line="53" column="29" />
-        <mark key="." line="53" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/dto/admin/AdminDoctorByDoctorReqDto.java" timestamp="1564481315036">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" timestamp="1564454018249">
-        <mark key="[" line="50" column="67" />
-        <mark key="]" line="50" column="67" />
-        <mark key="." line="50" column="67" />
-      </file>
-      <file name="/DoctorStockLevelServiceImpl.java" timestamp="1564559225929" />
-      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/mapper/DepartmentMapper.xml" timestamp="1564453029133">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1564475194227">
         <mark key="[" line="2" column="49" />
@@ -114,7 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="195" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="196" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="197" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
@@ -214,6 +196,7 @@
       <jump line="121" column="41" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" />
       <jump line="122" column="73" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" />
       <jump line="53" column="123" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/DoctorController.java" />
+      <jump line="57" column="30" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -242,7 +225,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>可预约时间</text>
+        <text>wqueryReqDto</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -360,7 +343,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>可预约时间</text>
+        <text>wqueryReqDto</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -468,16 +451,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpc0F2YWlsYWJsZTsK</text>
+        <text encoding="base64">ICAgIFJlc0R0byBkZWxldGUoCg==</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50IGluc3RhbnQgPSBkYXRlLnRvSW5zdGFudCgpOwogICAgICAgIFpvbmVJZCB6b25lID0gWm9uZUlkLnN5c3RlbURlZmF1bHQoKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGxvY2FsRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChpbnN0YW50LCB6b25lKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpc0F2YWlsYWJsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGluc3RhbnQgPSBkYXRlLnRvSW5zdGFudCgpOwogICAgICAgIFpvbmVJZCB6b25lID0gWm9uZUlkLnN5c3RlbURlZmF1bHQoKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGxvY2FsRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChpbnN0YW50LCB6b25lKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -507,7 +490,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIE1lZGlhTWFwcGVyIG1lZGlhTWFwcGVyOwogICAgQE5vbk51bGwKICAgIHByaXZhdGUgZmluYWwgSUFkZHJlc3NTZXJ2aWNlIGFkZHJlc3NTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -543,12 +526,12 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIE1lZGlhTWFwcGVyIG1lZGlhTWFwcGVyOwogICAgQE5vbk51bGwKICAgIHByaXZhdGUgZmluYWwgSUFkZHJlc3NTZXJ2aWNlIGFkZHJlc3NTZXJ2aWNlOwo=</text>
+      </register>
+      <register name="6" type="4">
         <text>@PathVariable(&quot;companyId&quot;) String companyId,
                                                                    @RequestBody(required = false) HmallApiInfoDto apiInfoDto</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -563,13 +546,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIElEZXBhcnRtZW50U2VydmljZSBkZXBhcnRtZW50U2VydmljZTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text />
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUgaW5zdGFuY2VvZiBNeVNRTEludGVncml0eUNvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pIHsK</text>
       </register>
       <register name="y" type="4">
         <keys>
