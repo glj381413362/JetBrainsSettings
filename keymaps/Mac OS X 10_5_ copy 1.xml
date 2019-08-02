@@ -14,6 +14,10 @@
     <keyboard-shortcut first-keystroke="shift meta f9" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="shift m" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
