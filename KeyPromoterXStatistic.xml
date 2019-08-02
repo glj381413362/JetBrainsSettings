@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PlatformApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PlatformApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
@@ -167,6 +175,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HmallSaApplication'</Description>
           <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PlatformApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PlatformApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
