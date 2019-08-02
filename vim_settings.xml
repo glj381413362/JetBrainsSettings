@@ -36,7 +36,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE.jar!/org/hzero/boot/platform/lov/annotation/ProcessLovValue.class" timestamp="1564627687830" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-dynamic-route/0.10.0.RELEASE/hzero-starter-dynamic-route-0.10.0.RELEASE-sources.jar!/org/hzero/route/feign/FeignClientAspect.java" timestamp="1564726590312" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/annotation/LovValue.java" timestamp="1564630271298" />
-      <file name="/Dummy.txt" timestamp="1564729552314">
+      <file name="/Dummy.txt" timestamp="1564731469021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -63,7 +63,7 @@
         <mark key="." line="108" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/ResponseEntity.class" timestamp="1564628395170" />
-      <file name="/fragment.java" timestamp="1564729552308">
+      <file name="/fragment.java" timestamp="1564731469016">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
