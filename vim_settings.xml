@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/filter/CollectSpanFilter.java" timestamp="1564995484352" />
-      <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1564997216581" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/filter/AddJwtFilter.java" timestamp="1564995945689" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/service/impl/PermissionServiceImpl.java" timestamp="1564992364394" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/filter/GetPermissionFilter.java" timestamp="1564993044664" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/infra/mapper/PermissionMapper.java" timestamp="1564996867821" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/filter/CommonRequestCheckFilter.java" timestamp="1564997005772" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/domain/CheckState.java" timestamp="1564995755969" />
-      <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/resources/mapper/PermissionMapper.xml" timestamp="1564996674873" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/filter/GetUserDetailsFilter.java" timestamp="1564995916760" />
-      <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/mapper/PermissionPlusMapper.xml" timestamp="1564997805289" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/AntPathMatcher.java" timestamp="1564996787106" />
-      <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/service/impl/GetUserDetailsServiceImpl.java" timestamp="1564995904128" />
+      <file name="$MAVEN_REPOSITORY$/io/choerodon/choerodon-framework-parent/0.11.0.RELEASE/choerodon-framework-parent-0.11.0.RELEASE.pom" timestamp="1564999472185" />
+      <file name="$USER_HOME$/workspace/choerodon/iam-service/src/main/java/io/choerodon/iam/api/eventhandler/ActuatorSagaHandler.java" timestamp="1564998550210" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-iam/src/main/java/io/choerodon/iam/infra/mapper/PermissionMapper.java" timestamp="1564998318609" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/config/SwaggerTags.java" timestamp="1564998187410" />
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/saga/annotation/SagaTask.java" timestamp="1564999710995" />
+      <file name="$USER_HOME$/workspace/choerodon/asgard-service/pom.xml" timestamp="1564999065180" />
+      <file name="$USER_HOME$/workspace/choerodon/asgard-service/src/main/java/io/choerodon/asgard/app/eventhandler/ActuatorSagaHandler.java" timestamp="1564999029876" />
     </filemarks>
     <jumps>
       <jump line="195" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
