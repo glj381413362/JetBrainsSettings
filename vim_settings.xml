@@ -3,13 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/AsgardAutoConfiguration.java" timestamp="1565059698579" />
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-base/src/main/java/io/choerodon/base/enums/ResourceType.java" timestamp="1565060013774" />
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/schedule/ScheduleConsumer.java" timestamp="1565059602163" />
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/common/AbstractAsgardConsumer.java" timestamp="1565060194833" />
       <file name="$MAVEN_REPOSITORY$/io/choerodon/choerodon-framework-parent/0.11.0.RELEASE/choerodon-framework-parent-0.11.0.RELEASE.pom" timestamp="1564999472185" />
-      <file name="$USER_HOME$/workspace/choerodon/iam-service/src/main/java/io/choerodon/iam/api/eventhandler/ActuatorSagaHandler.java" timestamp="1564998550210" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-iam/src/main/java/io/choerodon/iam/infra/mapper/PermissionMapper.java" timestamp="1564998318609" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/config/SwaggerTags.java" timestamp="1564998187410" />
-      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/saga/annotation/SagaTask.java" timestamp="1564999710995" />
-      <file name="$USER_HOME$/workspace/choerodon/asgard-service/pom.xml" timestamp="1564999065180" />
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/saga/annotation/SagaTask.java" timestamp="1565059728746" />
       <file name="$USER_HOME$/workspace/choerodon/asgard-service/src/main/java/io/choerodon/asgard/app/eventhandler/ActuatorSagaHandler.java" timestamp="1564999029876" />
+      <file name="$USER_HOME$/workspace/choerodon/iam-service/src/main/java/io/choerodon/iam/api/eventhandler/ActuatorSagaHandler.java" timestamp="1564998550210" />
+      <file name="$USER_HOME$/workspace/choerodon/choerodon-starters/choerodon-starter-asgard/src/main/java/io/choerodon/asgard/saga/consumer/SagaConsumer.java" timestamp="1565060137992" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/config/SwaggerTags.java" timestamp="1564998187410" />
+      <file name="$USER_HOME$/workspace/choerodon/asgard-service/pom.xml" timestamp="1564999065180" />
     </filemarks>
     <jumps>
       <jump line="195" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
