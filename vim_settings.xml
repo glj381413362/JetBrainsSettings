@@ -3,7 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565083907782" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-interface/src/main/java/com/tencent/fm/oms/inf/autoconfigure/EnableTencentInterfaceManager.java" timestamp="1565084034176" />
       <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/09af4488ac59013c076d683513a0e252/Message/MessageTemp/c8cd351a5c110883aff284075413436f/File/ConfigUtil.java" timestamp="1565082527882" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-interface/src/main/java/com/tencent/fm/oms/inf/infra/feign/DemoFeign.java" timestamp="1565084389929" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565083718537">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565084128999" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/messages/messages_zh_CN.properties" timestamp="1565083453009" />
     </filemarks>
     <jumps>
@@ -135,7 +144,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>wqueryReqDto</text>
+        <text>-</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -253,7 +262,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wqueryReqDto</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <keys>
