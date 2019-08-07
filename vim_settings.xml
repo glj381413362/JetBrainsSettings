@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565149353326">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/dto/CustomerApplyServiceRespDTO.java" timestamp="1565145430635">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="19" />
@@ -17,25 +12,37 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthTokenCilent.java" timestamp="1565160501544">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/client/OauthAuthenticator.java" timestamp="1565159605315" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/client/OauthAuthenticator.java" timestamp="1565160699032">
+        <mark key="[" line="22" column="81" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/logger/InfClientLogger.java" timestamp="1565159052083" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/InfClientProxy.java" timestamp="1565159009836" />
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/InfClientProxy.java" timestamp="1565160992183" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565148298814">
         <mark key="[" line="40" column="36" />
         <mark key="]" line="40" column="36" />
         <mark key="." line="40" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/authenticate/impl/AuthenticatorProxy.java" timestamp="1565161102907" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/ConfigUtil.java" timestamp="1565161748467">
+        <mark key="'" line="106" column="24" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565145567716">
         <mark key="[" line="9" column="75" />
         <mark key="]" line="9" column="75" />
         <mark key="." line="9" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565160447646">
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="20" column="63" />
-        <mark key="." line="20" column="63" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565161889372">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/data/InfClientRequest.java" timestamp="1565159470053" />
+      <file name="/Dummy.txt" timestamp="1565143410587">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/data/InfClientRequest.java" timestamp="1565161155031" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565149369025">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="45" column="0" />
@@ -47,10 +54,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/MDMInterceptor.java" timestamp="1565159529065">
         <mark key="[" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthAuthenticator.java" timestamp="1565160473425">
-        <mark key="[" line="44" column="23" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CustomerApplyServiceReqDTO.java" timestamp="1565161831953" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthAuthenticator.java" timestamp="1565161981844">
+        <mark key="[" line="16" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/resolver/InfClientClassResolver.java" timestamp="1565158991861" />
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/resolver/InfClientClassResolver.java" timestamp="1565161306340" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/CustomerInterfaceClient.java" timestamp="1565145754601">
         <mark key="[" line="18" column="88" />
         <mark key="]" line="18" column="88" />
@@ -65,11 +73,13 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565159230659" />
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565161075350" />
+      <file name="/fragment.java" timestamp="1565160730657">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-base-util/pom.xml" timestamp="1565147503899" />
     </filemarks>
     <jumps>
-      <jump line="195" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="196" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="197" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
       <jump line="198" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
@@ -169,6 +179,7 @@
       <jump line="122" column="73" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/service/impl/DoctorStockLevelServiceImpl.java" />
       <jump line="53" column="123" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/DoctorController.java" />
       <jump line="57" column="30" filename="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/RecommendAdminController.java" />
+      <jump line="106" column="24" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/ConfigUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -197,7 +208,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">T2F1dGhBdXRoZW50aWNhdG9yPE9hdXRoVG9rZW5DaWxlbnQ+</text>
+        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMemhhbmdfd3TjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgYnktc2HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvdTAxMjY2MDQ2NC9hcnRpY2xlL2RldGFpbHMvNzg3NTkyOQ==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -315,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2F1dGhBdXRoZW50aWNhdG9yPE9hdXRoVG9rZW5DaWxlbnQ+</text>
+        <text>DatasyncException</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -422,17 +433,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMemhhbmdfd3TjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgYnktc2HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvdTAxMjY2MDQ2NC9hcnRpY2xlL2RldGFpbHMvNzg3NTkyOQ==</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIG5ldyAobmFtZSArIiB2YWx1ZVsiICsgdmFsdWUgKyAiXSBJbGxlZ2FsLCBzaG91bGQgYmVlbiBJbnRlZ2VyIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnJlcGFja2FnZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -462,7 +473,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -499,10 +510,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+bnVsbDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm51bGw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnJlcGFja2FnZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlc0R0byBkZWxldGUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -517,13 +528,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpc0F2YWlsYWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+bnVsbDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm51bGw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50IGluc3RhbnQgPSBkYXRlLnRvSW5zdGFudCgpOwogICAgICAgIFpvbmVJZCB6b25lID0gWm9uZUlkLnN5c3RlbURlZmF1bHQoKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGxvY2FsRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChpbnN0YW50LCB6b25lKTsK</text>
+        <text encoding="base64">ICAgIFJlc0R0byBkZWxldGUoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpc0F2YWlsYWJsZTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
