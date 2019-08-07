@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565146274817">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565149353326">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/dto/CustomerApplyServiceRespDTO.java" timestamp="1565145430635">
         <mark key="[" line="23" column="19" />
@@ -14,8 +14,11 @@
         <mark key="." line="23" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/annotation/Call.java" timestamp="1565145764458" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565146521235">
-        <mark key="[" line="126" column="21" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/client/OauthAuthenticator.java" timestamp="1565148927337" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565148298814">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565145567716">
         <mark key="[" line="9" column="75" />
@@ -25,8 +28,10 @@
       <file name="/Dummy.txt" timestamp="1565143410587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565147446790">
-        <mark key="[" line="5" column="13" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565149369025">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-order-service/pom.xml" timestamp="1565146965688" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-parent/0.10.0.RELEASE/hzero-parent-0.10.0.RELEASE.pom" timestamp="1565147376280" />
@@ -167,8 +172,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>APPLICATION_JSON</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -286,7 +291,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_JSON</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -394,16 +399,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlc0R0byBkZWxldGUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpc0F2YWlsYWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuY2VudC1vbXMtY29yZS9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50IGluc3RhbnQgPSBkYXRlLnRvSW5zdGFudCgpOwogICAgICAgIFpvbmVJZCB6b25lID0gWm9uZUlkLnN5c3RlbURlZmF1bHQoKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGxvY2FsRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChpbnN0YW50LCB6b25lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnJlcGFja2FnZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -433,7 +438,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -470,11 +475,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIE1lZGlhTWFwcGVyIG1lZGlhTWFwcGVyOwogICAgQE5vbk51bGwKICAgIHByaXZhdGUgZmluYWwgSUFkZHJlc3NTZXJ2aWNlIGFkZHJlc3NTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+bnVsbDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm51bGw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZT4K</text>
       </register>
-      <register name="6" type="4">
-        <text>@PathVariable(&quot;companyId&quot;) String companyId,
-                                                                   @RequestBody(required = false) HmallApiInfoDto apiInfoDto</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFJlc0R0byBkZWxldGUoCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -489,13 +493,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlPSLmk43kvZznsbvlnosiLG5hbWU9Il9zdGF0dXMiLGV4YW1wbGU9IklOU0VSVCIpCglATm90RW1wdHkKCXByaXZhdGUgU3RyaW5nIF9zdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpc0F2YWlsYWJsZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwcml2YXRlIGZpbmFsIElEZXBhcnRtZW50U2VydmljZSBkZXBhcnRtZW50U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGluc3RhbnQgPSBkYXRlLnRvSW5zdGFudCgpOwogICAgICAgIFpvbmVJZCB6b25lID0gWm9uZUlkLnN5c3RlbURlZmF1bHQoKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGxvY2FsRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChpbnN0YW50LCB6b25lKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
