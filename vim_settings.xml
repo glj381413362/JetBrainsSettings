@@ -25,6 +25,7 @@
         <mark key="]" line="9" column="75" />
         <mark key="." line="9" column="75" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565158249358" />
       <file name="/Dummy.txt" timestamp="1565143410587">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,10 +37,16 @@
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-order-service/pom.xml" timestamp="1565146965688" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-parent/0.10.0.RELEASE/hzero-parent-0.10.0.RELEASE.pom" timestamp="1565147376280" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1565145748438" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/MDMInterceptor.java" timestamp="1565158371500">
+        <mark key="[" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/CustomerInterfaceClient.java" timestamp="1565145754601">
         <mark key="[" line="18" column="88" />
         <mark key="]" line="18" column="88" />
         <mark key="." line="18" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/dto/CustomerApplyServiceReqDTO.java" timestamp="1565158333973">
+        <mark key="[" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/pom.xml" timestamp="1565147520301" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-base-util/pom.xml" timestamp="1565147503899" />

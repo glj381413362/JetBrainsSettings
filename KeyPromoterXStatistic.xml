@@ -97,6 +97,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild '...oms.core.client.dto'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9' or 'F10'</ShortCut>
+          <Description>Rebuild '...oms.core.client.dto'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'tencent-oms-core [clean,compile,package]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
