@@ -6,30 +6,26 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565144001309">
         <mark key="[" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/client/OauthTokenCilent.java" timestamp="1565141700527" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/spring/registry/InfClientBeanPostProcessor.java" timestamp="1565143055052" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/client/OauthAuthenticator.java" timestamp="1565141783248" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-interface/src/main/java/com/tencent/fm/oms/inf/autoconfigure/EnableTencentInterfaceManager.java" timestamp="1565084034176" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1565143846525" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/InfClientProxy.java" timestamp="1565143217981" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565084128999" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/client/InterfaceClient.java" timestamp="1565143642696" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/spring/registry/EnableInfClientBeanRegistrar.java" timestamp="1565143137365" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/dto/CustomerApplyServiceRespDTO.java" timestamp="1565145430635">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1565143410587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE.pom" timestamp="1565143968353" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/spring/scanner/InfClientBeanScanner.java" timestamp="1565142583436" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/resolver/InfClientClassResolver.java" timestamp="1565142965953" />
-      <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/09af4488ac59013c076d683513a0e252/Message/MessageTemp/c8cd351a5c110883aff284075413436f/File/ConfigUtil.java" timestamp="1565082527882" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-interface/src/main/java/com/tencent/fm/oms/inf/infra/feign/DemoFeign.java" timestamp="1565084389929" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/CustomerInterfaceClient.java" timestamp="1565143794657">
-        <mark key="[" line="10" column="3" />
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/annotation/Call.java" timestamp="1565145764458" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1565145748438" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/CustomerInterfaceClient.java" timestamp="1565145754601">
+        <mark key="[" line="18" column="88" />
+        <mark key="]" line="18" column="88" />
+        <mark key="." line="18" column="88" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/messages/messages_zh_CN.properties" timestamp="1565083453009" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/util/ConfigUtil.java" timestamp="1565144196951" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565141989656" />
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/manager/RestTemplateManager.java" timestamp="1565141967826" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565145567716">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="75" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="195" column="14" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/java/com/hap/xycp/job/SaveDateJob.java" />
@@ -160,7 +156,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>APPLICATION_JSON</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -278,7 +274,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>APPLICATION_JSON</text>
       </register>
       <register name="m" type="4">
         <keys>
