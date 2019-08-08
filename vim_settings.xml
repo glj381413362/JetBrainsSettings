@@ -71,6 +71,7 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController1.java" timestamp="1565254796383" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/HttpEntity.class" timestamp="1565246145717" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-base-util/pom.xml" timestamp="1565147503899" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/dto/CustomerApplyServiceRespDTO.java" timestamp="1565145430635">
