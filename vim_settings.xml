@@ -54,6 +54,7 @@
         <mark key="." line="23" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/resolver/InfClientClassResolver.java" timestamp="1565245728525" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1565257202339" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentCustomAutoConfiguration.java" timestamp="1565244605912">
         <mark key="[" line="10" column="3" />
       </file>
@@ -71,7 +72,7 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController1.java" timestamp="1565254796383" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController1.java" timestamp="1565256997845" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/HttpEntity.class" timestamp="1565246145717" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-base-util/pom.xml" timestamp="1565147503899" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/dto/CustomerApplyServiceRespDTO.java" timestamp="1565145430635">
@@ -118,7 +119,7 @@
         <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1565234599616" />
-      <file name="/Dummy.txt" timestamp="1565250288240">
+      <file name="/Dummy.txt" timestamp="1565257015700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,6 +146,7 @@
         <mark key="." line="19" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/annotation/QueryParam.java" timestamp="1565247484839" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/util/GenByDDDUtils.java" timestamp="1565257446094" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/UpdateCustomerReqDTO.java" timestamp="1565249164592" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/CustomerInterfaceClient.java" timestamp="1565145754601">
         <mark key="[" line="18" column="88" />
