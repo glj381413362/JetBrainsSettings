@@ -62,7 +62,7 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565318303650">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565330610068">
         <mark key="[" line="58" column="18" />
         <mark key="]" line="40" column="36" />
         <mark key="." line="40" column="36" />
@@ -81,7 +81,7 @@
         <mark key="." line="81" column="8" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565315840917">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565331148015">
         <mark key="'" line="76" column="83" />
         <mark key="[" line="74" column="5" />
         <mark key="]" line="63" column="80" />
@@ -114,8 +114,8 @@
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565326046598">
-        <mark key="[" line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565330637306">
+        <mark key="[" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentInterfaceManagerAutoConfiguration.java" timestamp="1565244310882">
         <mark key="[" line="7" column="3" />
