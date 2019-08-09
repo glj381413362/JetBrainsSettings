@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565319787816">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565328731665">
         <mark key="[" line="142" column="21" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -20,6 +20,7 @@
         <mark key="[" line="22" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-interface/src/main/java/com/tencent/fm/oms/inf/autoconfigure/EnableTencentInterfaceManager.java" timestamp="1565172435161" />
+      <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/application.yml" timestamp="1565325228461" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/EnableTencentInterfaceManager.java" timestamp="1565244551192" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CustomerCommonRespDTO.java" timestamp="1565163902896" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CustomerApplyServiceRespDTO.java" timestamp="1565163866174" />
@@ -44,7 +45,7 @@
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE-sources.jar!/org/springframework/boot/SpringBootExceptionHandler.java" timestamp="1565321590395" />
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE-sources.jar!/org/springframework/boot/SpringBootExceptionHandler.java" timestamp="1565327544570" />
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/config/resolver/InfClientClassResolver.java" timestamp="1565245728525" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1565257202339" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentCustomAutoConfiguration.java" timestamp="1565244605912">
@@ -81,7 +82,9 @@
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/logger/InfClientLogger.java" timestamp="1565159052083" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/InventoryApplication.java" timestamp="1565171654707" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/bootstrap.yml" timestamp="1565169361751" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application.yml" timestamp="1565171214732" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application.yml" timestamp="1565324887165">
+        <mark key="[" line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/aspect/Test.java" timestamp="1565321602077">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="18" />
@@ -116,13 +119,13 @@
         <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1565234599616" />
-      <file name="/Dummy.txt" timestamp="1565321798735">
+      <file name="/Dummy.txt" timestamp="1565328779204">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565319346317">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565326797476">
         <mark key="[" line="46" column="19" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -152,8 +155,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE.jar!/io/choerodon/swagger/annotation/Permission.class" timestamp="1565167039332" />
       <file name="$USER_HOME$/workspace/hmall-backend/pom.xml" timestamp="1565147520301" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565315381654">
-        <mark key="[" line="0" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565326046598">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentInterfaceManagerAutoConfiguration.java" timestamp="1565244310882">
         <mark key="[" line="7" column="3" />
@@ -161,7 +164,7 @@
         <mark key="." line="7" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565245997095" />
-      <file name="/fragment.java" timestamp="1565250288234">
+      <file name="/fragment.java" timestamp="1565327592642">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -294,7 +297,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>extends</text>
+        <text>maven私有仓库</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -412,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>extends</text>
+        <text>maven私有仓库</text>
       </register>
       <register name="m" type="4">
         <keys>
