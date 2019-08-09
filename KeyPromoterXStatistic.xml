@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>374</Count>
+          <Count>388</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Configuration...">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -351,6 +351,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'⌘7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
