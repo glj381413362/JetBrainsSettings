@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565344309070">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/LoginAccessRequestFilter.java" timestamp="1565336501994" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetPermissionFilter.class" timestamp="1565339494108" />
       <file name="$USER_HOME$/workspace/choerodon/gateway-helper/src/main/java/io/choerodon/gateway/helper/api/filter/GetRequestRouteFilter.java" timestamp="1565335953638" />
@@ -11,10 +16,10 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/util/SecurityTokenUtils.java" timestamp="1565332721436" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CollectSpanFilter.class" timestamp="1565339760420" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/infra/mapper/PermissionPlusMapper.class" timestamp="1565338762082" />
-      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565342311465" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AddJwtFilter.java" timestamp="1565340747193" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/GetUserDetailsFilter.java" timestamp="1565340570998" />
-      <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/CommonRequestCheckFilter.java" timestamp="1565342263282" />
+      <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/CommonRequestCheckFilter.java" timestamp="1565342676293" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Mapper.xml.vm" timestamp="1565334804088" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/domain/CheckState.java" timestamp="1565341830556" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/config/GatewayProperties.java" timestamp="1565340469146" />
@@ -22,6 +27,11 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/service/impl/PermissionServiceImpl.class" timestamp="1565339483917" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/PublicRequestFilter.java" timestamp="1565339992397" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/resources/mapper/PermissionMapper.xml" timestamp="1565336459749" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565330610068">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/service/impl/PermissionServiceImpl.java" timestamp="1565336003556" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565340051327">
         <mark key="'" line="76" column="83" />
@@ -31,6 +41,17 @@
         <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetUserDetailsFilter.class" timestamp="1565340191636" />
+      <file name="/Dummy.txt" timestamp="1565344312315">
+        <mark key="a" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565329941775">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/GetPermissionFilter.java" timestamp="1565336528328" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/util/SourceUtil.java" timestamp="1565342144056" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-api/0.10.0.RELEASE/hzero-gateway-helper-api-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/entity/CheckState.class" timestamp="1565340142674" />
