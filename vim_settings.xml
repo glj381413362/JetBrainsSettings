@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/infra/mapper/PermissionPlusMapper.class" timestamp="1565338762082" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AddJwtFilter.java" timestamp="1565340747193" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/GetUserDetailsFilter.java" timestamp="1565340570998" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/CommonRequestCheckFilter.java" timestamp="1565342676293" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Mapper.xml.vm" timestamp="1565334804088" />
@@ -33,9 +34,10 @@
         <mark key="." line="40" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/service/impl/PermissionServiceImpl.java" timestamp="1565336003556" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565340051327">
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/aspect/LovValueAspect.java" timestamp="1565575413840" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565574198948">
         <mark key="'" line="76" column="83" />
-        <mark key="[" line="74" column="5" />
+        <mark key="[" line="49" column="99" />
         <mark key="]" line="63" column="80" />
         <mark key="." line="63" column="80" />
         <mark key="^" line="50" column="76" />
