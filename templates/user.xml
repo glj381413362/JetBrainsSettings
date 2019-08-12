@@ -180,7 +180,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="rac" value="@RequiredArgsConstructor(onConstructor = @__(@Autowired))&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="rac" value="&#10;@RequiredArgsConstructor(onConstructor = @__(@Autowired))" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
