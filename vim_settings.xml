@@ -103,8 +103,8 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Service.java.vm" timestamp="1565579951491">
-        <mark key="[" line="7" column="38" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Service.java.vm" timestamp="1565584256271">
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-api/0.10.0.RELEASE/hzero-gateway-helper-api-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/entity/PermissionDO.class" timestamp="1565337573963" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CreateCustomeReqDTO.java" timestamp="1565578003890" />
@@ -129,7 +129,7 @@
         <mark key="]" line="72" column="4" />
         <mark key="." line="72" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/CustomerService.java" timestamp="1565581547468">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/CustomerService.java" timestamp="1565584120744">
         <mark key="[" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/client/dto/CustomerApplyServiceRespDTO.java" timestamp="1565145430635">
