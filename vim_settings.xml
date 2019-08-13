@@ -15,8 +15,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthTokenCilent.java" timestamp="1565166236733">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1565674602948">
+      <file name="/a.dummy" timestamp="1565698764183">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/MDMClientUtil.java" timestamp="1565687056320">
         <mark key="[" line="55" column="15" />
@@ -142,8 +144,10 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="59" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/MDMAccessToInformationQueryResultsTask.java" timestamp="1565697921967">
-        <mark key="[" line="20" column="3" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/MDMAccessToInformationQueryResultsTask.java" timestamp="1565698750684">
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="45" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetUserDetailsFilter.class" timestamp="1565340191636" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetRequestRouteFilter.class" timestamp="1565661380837" />
@@ -222,6 +226,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/EnableTencentCustomAutoImportClass.java" timestamp="1565244620105">
         <mark key="[" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565699664277">
+        <mark key="[" line="47" column="55" />
+        <mark key="]" line="47" column="55" />
+        <mark key="." line="47" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565597736710">
         <mark key="[" line="47" column="0" />
@@ -254,10 +263,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addRespDTO.java.vm" timestamp="1565597728490">
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565697813478">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565698923753">
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="37" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/AsyncExceptionHandler.java" timestamp="1565696471129">
         <mark key="[" line="15" column="35" />
@@ -442,7 +451,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>customerResultRespDTO</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -560,7 +569,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>customerResultRespDTO</text>
       </register>
       <register name="m" type="4">
         <keys>
