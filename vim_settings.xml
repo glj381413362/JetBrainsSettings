@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1565344309070">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/TransactionConfServiceImpl.java" timestamp="1565585670352" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/updateRespDTO.java.vm" timestamp="1565597452286">
         <mark key="[" line="48" column="0" />
@@ -13,11 +18,11 @@
       <file name="/a.dummy" timestamp="1565659858684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Controller.java.vm" timestamp="1565603999730">
-        <mark key="'" line="112" column="76" />
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="21" />
-        <mark key="." line="36" column="21" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Controller.java.vm" timestamp="1565667814766">
+        <mark key="'" line="115" column="76" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
         <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceInsertReqDTO.java" timestamp="1565608650961">
@@ -45,16 +50,21 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthAuthenticator.java" timestamp="1565229152354">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/config/SwaggerTags.java" timestamp="1565248494839">
-        <mark key="[" line="23" column="35" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/config/SwaggerTags.java" timestamp="1565667712682">
+        <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1565581421565">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1565667801986">
         <mark key="[" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentCustomAutoConfiguration.java" timestamp="1565244605912">
         <mark key="[" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/dto/TableEntity.java" timestamp="1565587440811">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/InfoRespDTO.java.vm" timestamp="1565587292288">
         <mark key="[" line="24" column="24" />
@@ -80,6 +90,11 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1565587650843" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/HospitalController.java" timestamp="1565605935004" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/detailRespDTO.java.vm" timestamp="1565597656397">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/service/impl/PermissionServiceImpl.class" timestamp="1565339483917" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application.yml" timestamp="1565324887165">
         <mark key="[" line="16" column="20" />
@@ -89,15 +104,25 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1565662490330">
         <mark key="[" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565662973159">
-        <mark key="'" line="138" column="71" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="140" column="24" />
-        <mark key="." line="140" column="24" />
-        <mark key="^" line="59" column="76" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565667620239">
+        <mark key="'" line="141" column="71" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="143" column="24" />
+        <mark key="." line="143" column="24" />
+        <mark key="^" line="62" column="76" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetUserDetailsFilter.class" timestamp="1565340191636" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetRequestRouteFilter.class" timestamp="1565661380837" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565329941775">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/interfaces/BuildResponse.java" timestamp="1565589362231">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/MDMInterceptor.java" timestamp="1565659758739" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/MDMOauthAuthenticator.java" timestamp="1565229865143">
         <mark key="[" line="19" column="34" />
@@ -146,6 +171,7 @@
         <mark key="[" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/infra/mapper/PermissionPlusMapper.class" timestamp="1565338762082" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/dto/ColumnEntity.java" timestamp="1565667860070" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/EnableTencentCustomAutoImportClass.java" timestamp="1565244620105">
         <mark key="[" line="12" column="3" />
@@ -191,8 +217,16 @@
         <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/RegistApplyService.java" timestamp="1565602976546" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565330610068">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/service/impl/PermissionServiceImpl.java" timestamp="1565336003556" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/helper/EntityHelper.java" timestamp="1565588552820" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
+        <mark key="[" line="15" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1565665217685">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
@@ -365,7 +399,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>客户所属国家地区</text>
+        <text>CUSTOMER</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -483,7 +517,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>客户所属国家地区</text>
+        <text>CUSTOMER</text>
       </register>
       <register name="m" type="4">
         <keys>
