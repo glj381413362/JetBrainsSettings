@@ -105,19 +105,13 @@
         <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/util/SourceUtil.java" timestamp="1565342144056" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/util/GenByDDDUtils.java" timestamp="1565609479507">
-        <mark key="'" line="137" column="52" />
-        <mark key="[" line="38" column="60" />
-        <mark key="]" line="73" column="20" />
-        <mark key="." line="73" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/aspect/SpringBootExceptionHandlerAspect.java" timestamp="1565321678464">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-core/0.10.0.RELEASE/choerodon-starter-core-0.10.0.RELEASE.jar!/io/choerodon/core/domain/Page.class" timestamp="1565585566852" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565330637306">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565665072914">
         <mark key="[" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentInterfaceManagerAutoConfiguration.java" timestamp="1565244310882">
@@ -160,6 +154,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565597736710">
         <mark key="[" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE-sources.jar!/org/springframework/boot/SpringBootExceptionHandler.java" timestamp="1565665130486" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/base/BaseRepository.java" timestamp="1565576323133" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1565603546964">
         <mark key="[" line="83" column="94" />
@@ -198,7 +193,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/RegistApplyService.java" timestamp="1565602976546" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/service/impl/PermissionServiceImpl.java" timestamp="1565336003556" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/helper/EntityHelper.java" timestamp="1565588552820" />
-      <file name="/Dummy.txt" timestamp="1565661451851">
+      <file name="/Dummy.txt" timestamp="1565665217685">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
