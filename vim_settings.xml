@@ -20,10 +20,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/MDMClientUtil.java" timestamp="1565687056320">
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="15" />
-        <mark key="." line="55" column="15" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/MDMClientUtil.java" timestamp="1565750885168">
+        <mark key="[" line="70" column="61" />
+        <mark key="]" line="70" column="59" />
+        <mark key="." line="70" column="59" />
+        <mark key="^" line="70" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Controller.java.vm" timestamp="1565671618157">
         <mark key="'" line="115" column="76" />
@@ -166,10 +167,10 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/MDMInterceptor.java" timestamp="1565688059397">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/MDMInterceptor.java" timestamp="1565751103878">
+        <mark key="[" line="64" column="81" />
+        <mark key="]" line="64" column="81" />
+        <mark key="." line="64" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/util/SourceUtil.java" timestamp="1565342144056" />
       <file name="/application.yml" timestamp="1565693579080" />
@@ -304,7 +305,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565700413893">
+      <file name="/Dummy.txt" timestamp="1565751278766">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -465,7 +466,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getName</text>
+        <text>businessParameters</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -583,7 +584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getName</text>
+        <text>businessParameters</text>
       </register>
       <register name="m" type="4">
         <keys>
