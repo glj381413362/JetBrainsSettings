@@ -118,6 +118,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application.yml" timestamp="1565695177111">
         <mark key="[" line="105" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1565749597465">
+        <mark key="[" line="83" column="58" />
+        <mark key="]" line="83" column="58" />
+        <mark key="." line="83" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/PublicRequestFilter.java" timestamp="1565339992397" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/GlobalExceptionHandler.java" timestamp="1565684227348">
         <mark key="[" line="51" column="54" />
@@ -195,11 +200,20 @@
         <mark key="^" line="50" column="30" />
         <mark key="." line="50" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/AttachmentService.java" timestamp="1565749173226">
+        <mark key="[" line="45" column="85" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CreateCustomeReqDTO.java" timestamp="1565689566519">
         <mark key="[" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/LoginAccessRequestFilter.java" timestamp="1565336501994" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetPermissionFilter.class" timestamp="1565339494108" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AttachmentController.java" timestamp="1565749757868">
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="67" column="58" />
+        <mark key="^" line="64" column="15" />
+        <mark key="." line="67" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TaskExecutePool.java" timestamp="1565697549403">
         <mark key="'" line="41" column="55" />
         <mark key="[" line="51" column="15" />
@@ -240,15 +254,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1565690081837">
         <mark key="[" line="83" column="94" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/io/choerodon/swagger/annotation/Permission.java" timestamp="1565748619960" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1565589850951" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/aware/BeanSelfAware.java" timestamp="1565592581275" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/CustomerService.java" timestamp="1565690319188">
-        <mark key="c" line="53" column="86" />
-        <mark key="[" line="90" column="7" />
-        <mark key="]" line="90" column="7" />
-        <mark key="^" line="71" column="43" />
-        <mark key="." line="90" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aware/BeanSelfAware.java" timestamp="1565592884107" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-swagger/src/main/resources/application.yml" timestamp="1565661158885" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReverseSalesGenerateReturnJob.java" timestamp="1565692544759" />
@@ -305,7 +313,7 @@
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/GetPermissionFilter.java" timestamp="1565336528328" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/RejectReturnGoodEntryHanderJob.java" timestamp="1565692169968" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.class" timestamp="1565659634361" />
-      <file name="/Controller.java.vm" timestamp="1565599561733" />
+      <file name="/Controller.java.vm" timestamp="1565749680115" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1565697892199">
         <mark key="[" line="170" column="17" />
         <mark key="]" line="170" column="17" />
@@ -324,7 +332,7 @@
         <mark key="^" line="81" column="36" />
         <mark key="." line="81" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1565691926121">
+      <file name="/fragment.java" timestamp="1565749471483">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -457,7 +465,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>getName</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -575,7 +583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>getName</text>
       </register>
       <register name="m" type="4">
         <keys>
