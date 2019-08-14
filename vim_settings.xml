@@ -79,10 +79,10 @@
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AdminUserPermissionFilter.java" timestamp="1565341808240" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565759912087">
-        <mark key="[" line="49" column="80" />
-        <mark key="]" line="49" column="80" />
-        <mark key="." line="49" column="80" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565761295313">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1565589850951" />
@@ -391,7 +391,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>map</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -509,7 +509,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>map</text>
       </register>
       <register name="m" type="4">
         <keys>
