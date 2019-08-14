@@ -184,6 +184,12 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/helper/EntityHelper.java" timestamp="1565588552820" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/RedLockServiceImpl.java" timestamp="1565753646749" />
+      <file name="/Dummy.txt" timestamp="1565785827062">
+        <mark key="a" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/GetPermissionFilter.java" timestamp="1565336528328" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1565783105350" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.class" timestamp="1565659634361" />
