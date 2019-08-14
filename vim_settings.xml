@@ -226,10 +226,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/EnableTencentCustomAutoImportClass.java" timestamp="1565244620105">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565699664277">
-        <mark key="[" line="47" column="55" />
-        <mark key="]" line="47" column="55" />
-        <mark key="." line="47" column="55" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565746839774">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565597736710">
@@ -263,10 +263,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addRespDTO.java.vm" timestamp="1565597728490">
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565698923753">
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="37" column="54" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565746816941">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/AsyncExceptionHandler.java" timestamp="1565696471129">
         <mark key="[" line="15" column="35" />
@@ -295,6 +295,12 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
         <mark key="[" line="15" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1565700413893">
+        <mark key="a" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/GetPermissionFilter.java" timestamp="1565336528328" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/RejectReturnGoodEntryHanderJob.java" timestamp="1565692169968" />
@@ -451,7 +457,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>customerResultRespDTO</text>
+        <text>return</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -569,7 +575,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>customerResultRespDTO</text>
+        <text>return</text>
       </register>
       <register name="m" type="4">
         <keys>
