@@ -8,6 +8,7 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/LockService.java" timestamp="1565752853887" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/TransactionConfServiceImpl.java" timestamp="1565585670352" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthTokenCilent.java" timestamp="1565166236733">
         <mark key="[" line="15" column="34" />
@@ -22,13 +23,6 @@
         <mark key="]" line="70" column="59" />
         <mark key="." line="70" column="59" />
         <mark key="^" line="70" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Controller.java.vm" timestamp="1565671618157">
-        <mark key="'" line="115" column="76" />
-        <mark key="[" line="122" column="51" />
-        <mark key="]" line="122" column="51" />
-        <mark key="." line="122" column="51" />
-        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceInsertReqDTO.java" timestamp="1565608650961">
         <mark key="[" line="16" column="11" />
@@ -118,20 +112,6 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/aspect/LovValueAspect.java" timestamp="1565575413840" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/handler/BaseGlobalExceptionHandler.java" timestamp="1565675964789" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/ExampleController.java" timestamp="1565687983451">
-        <mark key="'" line="79" column="108" />
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="81" column="8" />
-        <mark key="." line="81" column="8" />
-        <mark key="^" line="69" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1565690946924">
-        <mark key="'" line="135" column="71" />
-        <mark key="[" line="59" column="12" />
-        <mark key="]" line="59" column="12" />
-        <mark key="^" line="57" column="18" />
-        <mark key="." line="59" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/MDMAccessToInformationQueryResultsTask.java" timestamp="1565698750684">
         <mark key="[" line="41" column="45" />
         <mark key="]" line="41" column="45" />
@@ -155,6 +135,7 @@
         <mark key="." line="64" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/util/SourceUtil.java" timestamp="1565342144056" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/ReadLockServiceImpl.java" timestamp="1565752876551" />
       <file name="/application.yml" timestamp="1565693579080" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-core/0.10.0.RELEASE/choerodon-starter-core-0.10.0.RELEASE.jar!/io/choerodon/core/domain/Page.class" timestamp="1565585566852" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/BaseGlobalExceptionHandler.java" timestamp="1565680019095">
@@ -162,13 +143,6 @@
         <mark key="]" line="37" column="44" />
         <mark key="." line="37" column="44" />
         <mark key="^" line="38" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/ServiceImpl.java.vm" timestamp="1565603897182">
-        <mark key="'" line="74" column="92" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="74" column="91" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-api/0.10.0.RELEASE/hzero-gateway-helper-api-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/entity/PermissionDO.class" timestamp="1565337573963" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/线程池" timestamp="1565695449021">
@@ -190,13 +164,6 @@
         <mark key="]" line="67" column="58" />
         <mark key="^" line="64" column="15" />
         <mark key="." line="67" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TaskExecutePool.java" timestamp="1565697549403">
-        <mark key="'" line="41" column="55" />
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="15" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="51" column="15" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE.jar!/org/hzero/core/util/Results.class" timestamp="1565682269719" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/ResponseEntity.class" timestamp="1565682303266" />
@@ -227,6 +194,7 @@
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/aware/BeanSelfAware.java" timestamp="1565592581275" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aware/BeanSelfAware.java" timestamp="1565592884107" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-swagger/src/main/resources/application.yml" timestamp="1565661158885" />
+      <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565756500286" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReverseSalesGenerateReturnJob.java" timestamp="1565692544759" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/config/TaskThreadPoolConfig.java" timestamp="1565695028244">
         <mark key="[" line="11" column="3" />
@@ -256,13 +224,7 @@
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/service/impl/PermissionServiceImpl.java" timestamp="1565336003556" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/helper/EntityHelper.java" timestamp="1565588552820" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565677912965">
-        <mark key="'" line="35" column="72" />
-        <mark key="[" line="35" column="72" />
-        <mark key="]" line="24" column="58" />
-        <mark key="." line="24" column="58" />
-        <mark key="^" line="24" column="58" />
-      </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/RedLockServiceImpl.java" timestamp="1565753646749" />
       <file name="/Dummy.txt" timestamp="1565751803625">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
