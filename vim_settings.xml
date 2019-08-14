@@ -43,10 +43,6 @@
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/domain/CheckState.java" timestamp="1565341830556" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1565587650843" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/service/impl/PermissionServiceImpl.class" timestamp="1565339483917" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Repository.java.vm" timestamp="1565774409028">
-        <mark key="'" line="21" column="52" />
-        <mark key="[" line="13" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/dto/FailureResponse.java" timestamp="1565688548987">
         <mark key="[" line="44" column="26" />
         <mark key="]" line="44" column="26" />
@@ -310,10 +306,10 @@
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1565782058166">
-        <mark key="[" line="115" column="44" />
-        <mark key="]" line="115" column="44" />
-        <mark key="." line="115" column="44" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1565788408406">
+        <mark key="[" line="73" column="51" />
+        <mark key="]" line="73" column="51" />
+        <mark key="." line="73" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/BaseGlobalExceptionHandler.java" timestamp="1565680019095">
         <mark key="[" line="37" column="44" />
@@ -350,6 +346,7 @@
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/InfClientProxy.java" timestamp="1565678415630" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/infra/mapper/PermissionPlusMapper.class" timestamp="1565338762082" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/dto/ColumnEntity.java" timestamp="1565667860070" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/GetUpdateCustomerResultRespDTO.java" timestamp="1565788187185" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE-sources.jar!/org/springframework/boot/SpringBootExceptionHandler.java" timestamp="1565778641685" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/base/BaseRepository.java" timestamp="1565576323133" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/io/choerodon/swagger/annotation/Permission.java" timestamp="1565748619960" />
@@ -367,7 +364,7 @@
         <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/service/impl/PermissionServiceImpl.java" timestamp="1565336003556" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565677912965">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565788077209">
         <mark key="'" line="35" column="72" />
         <mark key="[" line="35" column="72" />
         <mark key="]" line="24" column="58" />
@@ -514,7 +511,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>resultRespDTO.getCustomerId()</text>
+        <text>getCreateCustomerResult</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -632,7 +629,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resultRespDTO.getCustomerId()</text>
+        <text>getCreateCustomerResult</text>
       </register>
       <register name="m" type="4">
         <keys>
