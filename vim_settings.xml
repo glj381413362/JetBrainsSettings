@@ -79,16 +79,11 @@
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AdminUserPermissionFilter.java" timestamp="1565341808240" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565761295313">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="17" />
-        <mark key="." line="36" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1565589850951" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/factory/LockServiceFactory.java" timestamp="1565757738678" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-swagger/src/main/resources/application.yml" timestamp="1565661158885" />
-      <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565756500286" />
+      <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565763344113" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReverseSalesGenerateReturnJob.java" timestamp="1565692544759" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/config/GatewayProperties.java" timestamp="1565340469146" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565759246931">
@@ -391,7 +386,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>handle(registApplies1.g)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -509,7 +504,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>handle(registApplies1.g)</text>
       </register>
       <register name="m" type="4">
         <keys>
