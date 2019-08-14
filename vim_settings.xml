@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/oauth/OauthTokenCilent.java" timestamp="1565166236733">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1565698764183">
+      <file name="/a.dummy" timestamp="1565768782396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,20 +85,23 @@
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AdminUserPermissionFilter.java" timestamp="1565341808240" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565765518138">
-        <mark key="'" line="49" column="12" />
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="12" />
-        <mark key="." line="49" column="12" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565768602054">
+        <mark key="'" line="53" column="12" />
+        <mark key="[" line="55" column="30" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/RegistApplyMapper.xml" timestamp="1565769088817">
+        <mark key="[" line="31" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1565589850951" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/factory/LockServiceFactory.java" timestamp="1565764490592" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-swagger/src/main/resources/application.yml" timestamp="1565661158885" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565763344113" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReverseSalesGenerateReturnJob.java" timestamp="1565692544759" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/config/GatewayProperties.java" timestamp="1565340469146" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565765622563">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565768413309">
         <mark key="[" line="46" column="58" />
         <mark key="]" line="46" column="58" />
         <mark key="." line="46" column="58" />
@@ -158,6 +161,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565696640085" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/handler/GlobalExceptionHandler.java" timestamp="1565675945761" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/CommonUtils.java" timestamp="1565691836206" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1565769071633" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/assembler/CustomerListAssembler.java" timestamp="1565674585801">
         <mark key="[" line="32" column="22" />
         <mark key="]" line="32" column="22" />
@@ -214,7 +218,7 @@
         <mark key="." line="64" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/util/SourceUtil.java" timestamp="1565342144056" />
-      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/ReadLockServiceImpl.java" timestamp="1565752876551" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/ReadLockServiceImpl.java" timestamp="1565768425100" />
       <file name="/application.yml" timestamp="1565693579080" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/BaseGlobalExceptionHandler.java" timestamp="1565680019095">
         <mark key="[" line="37" column="44" />
@@ -397,8 +401,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TURNQWNjZXNzVG9JbmZvcm1hdGlvblF1ZXJ5UmVzdWx0c0pvYgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -516,7 +520,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>customerRepository</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -624,16 +628,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgR2V0Q3JlYXRlQ3VzdG9tZXJSZXN1bHRSZXNwRFRPIGhhbmRsZShHZXRDcmVhdGVDdXN0b21lclJlc3VsdFJlc3BEVE8gcmVzdWx0UmVzcERUTywgVGhyb3dhYmxlIGUpIHsK</text>
+        <text encoding="base64">TURNQWNjZXNzVG9JbmZvcm1hdGlvblF1ZXJ5UmVzdWx0c0pvYgo=</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLSAK54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjFN1Z2FyX21hcHPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgYnktc2HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIK5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1N1Z2FyX21hcC9hcnRpY2xlL2RldGFpbHMvODg1OTcyMTU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgR2V0Q3JlYXRlQ3VzdG9tZXJSZXN1bHRSZXNwRFRPIGhhbmRsZShHZXRDcmVhdGVDdXN0b21lclJlc3VsdFJlc3BEVE8gcmVzdWx0UmVzcERUTywgVGhyb3dhYmxlIGUpIHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLSAK54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjFN1Z2FyX21hcHPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgYnktc2HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIK5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1N1Z2FyX21hcC9hcnRpY2xlL2RldGFpbHMvODg1OTcyMTU=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -663,7 +667,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -699,19 +703,15 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Lwo=</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
  * @author huangbin
  * @desc 统一异常处理器
  * @since 28/02/20179 3:00 PM
  *</text>
-      </register>
-      <register name="6" type="4">
-        <text>/**
- * description
- *
- * @author roman 2019/05/29 5:22 PM
- */</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -725,14 +725,18 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzLnN1Y2Nlc3NCb2R5KHJlc3BEVE8pOzsK</text>
+      <register name="7" type="4">
+        <text>/**
+ * description
+ *
+ * @author roman 2019/05/29 5:22 PM
+ */</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzLnN1Y2Nlc3NCb2R5KHJlc3BEVE8pOzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBSZXNwb25zZUVudGl0eSBidWlsZFJlc3BvbnNlKEhtYWxsQXBpSW5mb0R0byBhcGlJbmZvRHRvKSB7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="y" type="4">
         <keys>
