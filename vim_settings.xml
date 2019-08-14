@@ -62,6 +62,12 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/util/GenByDDDUtils.java" timestamp="1565670639047">
+        <mark key="'" line="137" column="52" />
+        <mark key="[" line="67" column="44" />
+        <mark key="]" line="73" column="20" />
+        <mark key="." line="73" column="20" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/LockAspectHandler.java" timestamp="1565757641305" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-core/0.10.0.RELEASE/choerodon-starter-core-0.10.0.RELEASE.jar!/io/choerodon/core/domain/Page.class" timestamp="1565585566852" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/线程池" timestamp="1565695449021">
@@ -79,14 +85,20 @@
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AdminUserPermissionFilter.java" timestamp="1565341808240" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565765518138">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1565589850951" />
-      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/factory/LockServiceFactory.java" timestamp="1565757738678" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/factory/LockServiceFactory.java" timestamp="1565764490592" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-swagger/src/main/resources/application.yml" timestamp="1565661158885" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565763344113" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReverseSalesGenerateReturnJob.java" timestamp="1565692544759" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/config/GatewayProperties.java" timestamp="1565340469146" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565759246931">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565765622563">
         <mark key="[" line="46" column="58" />
         <mark key="]" line="46" column="58" />
         <mark key="." line="46" column="58" />
@@ -258,7 +270,6 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/app/aware/impl/InjectBeanSelfProcessor.java" timestamp="1565592785733" />
     </filemarks>
     <jumps>
-      <jump line="26" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="27" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="28" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="29" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
@@ -358,6 +369,7 @@
       <jump line="138" column="71" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" />
       <jump line="100" column="76" filename="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/Controller.java.vm" />
       <jump line="40" column="55" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TaskExecutePool.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -386,7 +398,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>handle(registApplies1.g)</text>
+        <text>int</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -504,7 +516,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>handle(registApplies1.g)</text>
+        <text>int</text>
       </register>
       <register name="m" type="4">
         <keys>
