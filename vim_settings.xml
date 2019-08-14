@@ -24,7 +24,7 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/StringUtils.class" timestamp="1565579505768" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/util/SecurityTokenUtils.java" timestamp="1565588634141" />
-      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/autoconfigurer/LockAutoConfiguration.java" timestamp="1565757610082" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/autoconfigurer/LockAutoConfiguration.java" timestamp="1565758842578" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aware/impl/InjectBeanSelfProcessor.java" timestamp="1565592911004" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AddJwtFilter.java" timestamp="1565340747193" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/AssemblerException.java" timestamp="1565676015332">
@@ -79,10 +79,10 @@
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/filter/authentication/AdminUserPermissionFilter.java" timestamp="1565341808240" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/CommonRequestCheckFilter.class" timestamp="1565344070517" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565746839774">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/AccessToInformationQueryResultsTask.java" timestamp="1565759912087">
+        <mark key="[" line="49" column="80" />
+        <mark key="]" line="49" column="80" />
+        <mark key="." line="49" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/TransactionConfController.java" timestamp="1565574715348" />
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/controller/v1/admin/DepartmentController.java" timestamp="1565589850951" />
@@ -91,10 +91,11 @@
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.1.RELEASE/o2-boot-interface-0.4.1.RELEASE-sources.jar!/org/o2/boot/inf/proxy/executor/InfClientExecutor.java" timestamp="1565756500286" />
       <file name="$USER_HOME$/workspace/zhimi/oms-refund-manager/src/main/java/org/smartmi/oms/refund/manager/jobs/ReverseSalesGenerateReturnJob.java" timestamp="1565692544759" />
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/java/io/choerodon/gateway/config/GatewayProperties.java" timestamp="1565340469146" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565757677844">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="37" column="5" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMAccessToInformationQueryResultsJob.java" timestamp="1565759246931">
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="46" column="58" />
+        <mark key="." line="46" column="58" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/choerodon/api-gateway/src/main/resources/mapper/PermissionMapper.xml" timestamp="1565336459749" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/RegistApplyService.java" timestamp="1565690137938" />
@@ -214,6 +215,7 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="38" column="21" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/LockInfo.java" timestamp="1565758981558" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-api/0.10.0.RELEASE/hzero-gateway-helper-api-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/entity/PermissionDO.class" timestamp="1565337573963" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertReqDTO.java" timestamp="1565662864201">
         <mark key="[" line="50" column="31" />
@@ -389,7 +391,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Autowired</text>
+        <text />
       </register>
       <register name="c" type="4">
         <keys>
@@ -507,7 +509,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Autowired</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -614,17 +616,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLSAK54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjFN1Z2FyX21hcHPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgYnktc2HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIK5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1N1Z2FyX21hcC9hcnRpY2xlL2RldGFpbHMvODg1OTcyMTU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXByaXZhdGUgR2V0Q3JlYXRlQ3VzdG9tZXJSZXN1bHRSZXNwRFRPIGhhbmRsZShHZXRDcmVhdGVDdXN0b21lclJlc3VsdFJlc3BEVE8gcmVzdWx0UmVzcERUTywgVGhyb3dhYmxlIGUpIHsK</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLSAK54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjFN1Z2FyX21hcHPjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgYnktc2HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIK5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1N1Z2FyX21hcC9hcnRpY2xlL2RldGFpbHMvODg1OTcyMTU=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -653,12 +655,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text>/**
- * @author huangbin
- * @desc 统一异常处理器
- * @since 28/02/20179 3:00 PM
- *</text>
+      <register name="4" type="2">
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -696,13 +694,17 @@
       </register>
       <register name="5" type="4">
         <text>/**
+ * @author huangbin
+ * @desc 统一异常处理器
+ * @since 28/02/20179 3:00 PM
+ *</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
  * description
  *
  * @author roman 2019/05/29 5:22 PM
  */</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzLnN1Y2Nlc3NCb2R5KHJlc3BEVE8pOzsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -717,13 +719,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzLnN1Y2Nlc3NCb2R5KHJlc3BEVE8pOzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBSZXNwb25zZUVudGl0eSBidWlsZFJlc3BvbnNlKEhtYWxsQXBpSW5mb0R0byBhcGlJbmZvRHRvKSB7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFwaSh0YWdzID0gU3dhZ2dlclRhZ3MuKQo=</text>
+        <text encoding="base64">CXB1YmxpYyBSZXNwb25zZUVudGl0eSBidWlsZFJlc3BvbnNlKEhtYWxsQXBpSW5mb0R0byBhcGlJbmZvRHRvKSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
