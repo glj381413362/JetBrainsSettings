@@ -11,12 +11,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/updateRespDTO.java.vm" timestamp="1565774433037">
         <mark key="[" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/MDMClientUtil.java" timestamp="1565840105394">
-        <mark key="[" line="76" column="36" />
-        <mark key="]" line="76" column="36" />
-        <mark key="." line="76" column="36" />
-        <mark key="^" line="70" column="59" />
-      </file>
+      <file name="$USER_HOME$/Maven_Repository/org/o2/o2-parent/0.4.1.RELEASE/o2-parent-0.4.1.RELEASE.pom" timestamp="1565849961846" />
       <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/09af4488ac59013c076d683513a0e252/Message/MessageTemp/0ebf3b34cded1751c6497108f8f37688/File/HttpClientUtils(3).java" timestamp="1565836196770" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1565837233310">
         <mark key="[" line="0" column="39" />
@@ -118,10 +113,10 @@
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565843482283">
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565849742283">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1565843410542">
         <mark key="'" line="35" column="72" />
