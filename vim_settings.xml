@@ -55,7 +55,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1565677459901">
         <mark key="[" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565845078224">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1565847765587">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -92,7 +92,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565774725124">
         <mark key="[" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/pom.xml" timestamp="1565846686207" />
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/pom.xml" timestamp="1565847812602">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/pom.xml" timestamp="1565845096571">
         <mark key="[" line="12" column="23" />
       </file>
@@ -109,7 +113,7 @@
         <mark key="[" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/src/main/java/com/tencent/fm/oms/pcm/business/generate/context/SpuGenerateContext.java" timestamp="1565837717904" />
-      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/tencent-pcm-starter-core/pom.xml" timestamp="1565846407340">
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/tencent-pcm-starter-core/pom.xml" timestamp="1565847850943">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
@@ -280,7 +284,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>parent</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -398,7 +402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parent</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
