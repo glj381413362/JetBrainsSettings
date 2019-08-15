@@ -51,6 +51,7 @@
         <mark key="." line="122" column="51" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/09af4488ac59013c076d683513a0e252/Message/MessageTemp/0ebf3b34cded1751c6497108f8f37688/File/HttpClientUtils(3).java" timestamp="1565836196770" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressInsertReqDTO.java" timestamp="1565608487493">
         <mark key="[" line="16" column="11" />
       </file>
@@ -217,7 +218,7 @@
         <mark key="]" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565785827062">
+      <file name="/Dummy.txt" timestamp="1565835207184">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -249,12 +250,6 @@
         <mark key="]" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/java/org/hzero/generator/util/GenByDDDUtils.java" timestamp="1565773048090">
-        <mark key="'" line="137" column="52" />
-        <mark key="[" line="46" column="59" />
-        <mark key="]" line="73" column="20" />
-        <mark key="." line="73" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/aspect/SpringBootExceptionHandlerAspect.java" timestamp="1565321678464">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="25" />
@@ -268,7 +263,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/queryReqDTO.java.vm" timestamp="1565774584792">
         <mark key="[" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1565788408406">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1565835003903">
         <mark key="[" line="73" column="51" />
         <mark key="]" line="73" column="51" />
         <mark key="." line="73" column="51" />
@@ -302,6 +297,9 @@
         <mark key="]" line="81" column="31" />
         <mark key="^" line="81" column="36" />
         <mark key="." line="81" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1565835207177">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
