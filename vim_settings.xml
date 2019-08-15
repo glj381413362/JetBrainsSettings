@@ -92,6 +92,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565774725124">
         <mark key="[" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/pom.xml" timestamp="1565846686207" />
       <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/pom.xml" timestamp="1565845096571">
         <mark key="[" line="12" column="23" />
       </file>
@@ -108,6 +109,11 @@
         <mark key="[" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/src/main/java/com/tencent/fm/oms/pcm/business/generate/context/SpuGenerateContext.java" timestamp="1565837717904" />
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/tencent-pcm-starter-core/pom.xml" timestamp="1565846407340">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1565843482283">
         <mark key="[" line="58" column="18" />
         <mark key="]" line="40" column="36" />
@@ -119,6 +125,11 @@
         <mark key="]" line="35" column="73" />
         <mark key="." line="35" column="61" />
         <mark key="^" line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/tencent-pcm-starter-business/pom.xml" timestamp="1565846870695">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
         <mark key="[" line="15" column="23" />
@@ -269,7 +280,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SYMBOL</text>
+        <text>parent</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -387,7 +398,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SYMBOL</text>
+        <text>parent</text>
       </register>
       <register name="m" type="4">
         <keys>
