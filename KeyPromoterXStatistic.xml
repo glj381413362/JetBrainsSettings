@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>615</Count>
+          <Count>616</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -174,7 +174,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -214,7 +214,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CustomerApplication'">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -486,7 +486,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -526,7 +526,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
@@ -535,6 +535,14 @@
           <ShortCut>'⌥⇧⌘J'</ShortCut>
           <Description>编码规约扫描</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Reimport All Maven Projects">
+        <Item>
+          <IdeaActionID>Maven.Reimport</IdeaActionID>
+          <Description>Reimport All Maven Projects</Description>
         </Item>
       </Statistic>
     </option>
