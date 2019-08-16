@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="bm" type="HTML" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="重要job" type="PLAIN_TEXT" />
       <mapping pattern="s.xml" type="PLAIN_TEXT" />
+      <mapping pattern="k" type="PLAIN_TEXT" />
+      <mapping pattern="重要job" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml.bak" type="PLAIN_TEXT" />
       <mapping ext="tplt" type="PLAIN_TEXT" />
       <mapping pattern="s" type="XML" />
