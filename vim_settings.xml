@@ -65,13 +65,13 @@
         <mark key="]" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565665072914">
-        <mark key="[" line="17" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565926405175">
+        <mark key="[" line="3" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/RepositoryImpl.java.vm" timestamp="1565774137783">
         <mark key="[" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/infra/feign/DemoFeign.java" timestamp="1565925636840" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/infra/feign/DemoFeign.java" timestamp="1565926752028" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CreateCustomeReqDTO.java" timestamp="1565689566519">
         <mark key="[" line="17" column="8" />
       </file>
