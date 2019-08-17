@@ -33,11 +33,6 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateReqDTO.java" timestamp="1565608222688">
         <mark key="[" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/autoconfigure/ProductAutoConfiguration.java" timestamp="1565951198204">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/pom.xml" timestamp="1565843327431">
         <mark key="[" line="7" column="46" />
       </file>
@@ -62,6 +57,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565774725124">
         <mark key="[" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/helper/MapperTemplate.java" timestamp="1566046678447" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/banner.txt" timestamp="1565943171649">
         <mark key="[" line="5" column="72" />
       </file>
@@ -70,10 +66,6 @@
       </file>
       <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/pom.xml" timestamp="1565845096571">
         <mark key="[" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/ProductApplication.java" timestamp="1566021417802">
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1565690081837">
         <mark key="[" line="83" column="94" />
@@ -85,10 +77,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformProductServiceImpl.java" timestamp="1565866841110">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/mapper/BrandMapper.java" timestamp="1566046362274" />
       <file name="$USER_HOME$/workspace/temp/o2-pcm-0.4.1/pom.xml" timestamp="1566040194400" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/pom.xml" timestamp="1566041292081">
-        <mark key="[" line="28" column="50" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/queryRespDTO.java.vm" timestamp="1565774538096">
         <mark key="[" line="22" column="4" />
       </file>
@@ -144,7 +134,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566015075769">
+      <file name="/Dummy.txt" timestamp="1566047251760">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -183,7 +173,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1565947062098">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1565952059477">
+      <file name="/fragment.java" timestamp="1566046045869">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
