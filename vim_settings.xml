@@ -15,8 +15,6 @@
       <file name="/a.dummy" timestamp="1565944731339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Maven_Repository/org/o2/o2-parent/0.4.1.RELEASE/o2-parent-0.4.1.RELEASE.pom" timestamp="1566038908651" />
-      <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-mybatis-mapper/0.10.0.RELEASE/choerodon-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/domain/Config.java" timestamp="1566021838130" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/tencent-oms-pcm/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/MasterSkuQueryDTO.java" timestamp="1565935919081">
         <mark key="[" line="31" column="33" />
       </file>
@@ -64,11 +62,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565774725124">
         <mark key="[" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/tencent-pcm-starter-core/src/main/java/com/tencent/fm/oms/pcm/core/config/PcmCoreConfiguration.java" timestamp="1566019602717" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/banner.txt" timestamp="1565943171649">
         <mark key="[" line="5" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/temp-pcm/tencent-oms-pcm/src/main/java/com/tencent/fm/oms/pcm/autoconfigure/PcmManagerAutoConfiguration.java" timestamp="1566037880970" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1565774629680">
         <mark key="[" line="23" column="27" />
       </file>
@@ -89,6 +85,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformProductServiceImpl.java" timestamp="1565866841110">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/temp/o2-pcm-0.4.1/pom.xml" timestamp="1566040194400" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/pom.xml" timestamp="1566038914329">
         <mark key="[" line="28" column="50" />
       </file>
