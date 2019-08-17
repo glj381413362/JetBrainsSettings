@@ -95,9 +95,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformProductServiceImpl.java" timestamp="1565866841110">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/pom.xml" timestamp="1566013526755">
-        <mark key="[" line="8" column="13" />
-      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/pom.xml" timestamp="1566016029110" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-parent/0.10.0.RELEASE/hzero-parent-0.10.0.RELEASE.pom" timestamp="1565949788187" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/queryRespDTO.java.vm" timestamp="1565774538096">
         <mark key="[" line="22" column="4" />
@@ -137,7 +135,7 @@
         <mark key="]" line="130" column="26" />
         <mark key="." line="130" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1566014473409">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1566016869075">
         <mark key="[" line="161" column="26" />
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
