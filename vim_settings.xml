@@ -72,9 +72,8 @@
         <mark key="[" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/ProductApplication.java" timestamp="1566021417802">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1565690081837">
         <mark key="[" line="83" column="94" />
@@ -82,11 +81,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter-business/pom.xml" timestamp="1565850973095">
         <mark key="[" line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/pom.xml" timestamp="1566040471148" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformProductServiceImpl.java" timestamp="1565866841110">
         <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/temp/o2-pcm-0.4.1/pom.xml" timestamp="1566040194400" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/pom.xml" timestamp="1566038914329">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/pom.xml" timestamp="1566041292081">
         <mark key="[" line="28" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/queryRespDTO.java.vm" timestamp="1565774538096">
@@ -104,11 +104,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/autoconfigure/ProductAutoConfiguration.java" timestamp="1566037938469">
         <mark key="[" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1566038674392">
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="65" column="6" />
-        <mark key="^" line="65" column="6" />
-        <mark key="." line="65" column="6" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1566042030983">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="78" column="6" />
+        <mark key="^" line="78" column="6" />
+        <mark key="." line="78" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterProductDynamicMapper.xml" timestamp="1565945771621">
         <mark key="[" line="15" column="63" />
@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformSyncRuleDetailServiceImpl.java" timestamp="1565866689644">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/tencent-pcm-starter-core/pom.xml" timestamp="1566038752786">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/tencent-pcm-starter-core/pom.xml" timestamp="1566041835073">
         <mark key="[" line="125" column="26" />
         <mark key="]" line="125" column="26" />
         <mark key="." line="125" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1566016869075">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1566041625559">
         <mark key="[" line="161" column="26" />
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
