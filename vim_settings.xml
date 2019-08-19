@@ -69,10 +69,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1565690081837">
         <mark key="[" line="83" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1566181821596">
-        <mark key="[" line="62" column="70" />
-        <mark key="]" line="62" column="70" />
-        <mark key="." line="62" column="70" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1566183946280">
+        <mark key="[" line="67" column="70" />
+        <mark key="]" line="67" column="70" />
+        <mark key="." line="67" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter-business/pom.xml" timestamp="1565850973095">
         <mark key="[" line="11" column="24" />
@@ -93,7 +93,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1565834379634">
         <mark key="[" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1566181494382">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1566183889839">
         <mark key="'" line="108" column="39" />
         <mark key="[" line="108" column="38" />
         <mark key="]" line="108" column="38" />
@@ -143,7 +143,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566047251760">
+      <file name="/Dummy.txt" timestamp="1566184436363">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -155,12 +155,12 @@
       <file name="$USER_HOME$/workspace/temp-pcm/tencent-oms-pcm/pom.xml" timestamp="1566038356561">
         <mark key="[" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/MasterSkuDTO.java" timestamp="1566181733415">
-        <mark key="[" line="65" column="47" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/MasterSkuDTO.java" timestamp="1566183933583">
+        <mark key="[" line="100" column="19" />
         <mark key="m" line="44" column="47" />
-        <mark key="]" line="65" column="47" />
+        <mark key="]" line="100" column="19" />
         <mark key="^" line="44" column="46" />
-        <mark key="." line="65" column="47" />
+        <mark key="." line="100" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/o2-pcm-starter-business/pom.xml" timestamp="1565845269975">
         <mark key="[" line="11" column="18" />
@@ -187,10 +187,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/RepositoryImpl.java.vm" timestamp="1565774137783">
         <mark key="[" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1565947062098">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1566184706367">
+        <mark key="[" line="1" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1566046045869">
+      <file name="/fragment.java" timestamp="1566184436358">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -323,7 +323,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>COA_DEPARTMENT</text>
+        <text />
       </register>
       <register name="c" type="4">
         <keys>
@@ -441,7 +441,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>COA_DEPARTMENT</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
