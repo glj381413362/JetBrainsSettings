@@ -93,7 +93,9 @@
       <file name="$USER_HOME$/workspace/demo/dddsample-core/src/main/java/se/citerus/dddsample/domain/shared/AndSpecification.java" timestamp="1566358230877" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/infra/mapper/MasterSkuDynamicMapper.java" timestamp="1566179642345" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-mybatis-mapper/0.10.0.RELEASE/choerodon-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/common/base/select/SelectByPrimaryKeyMapper.java" timestamp="1566277208731" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuMapper.xml" timestamp="1566377891630" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuMapper.xml" timestamp="1566379176440">
+        <mark key="[" line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/business/generate/context/ProductGenerateContext.java" timestamp="1566289535047" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/multimedia/config/MultimediaPipelineConfiguration.java" timestamp="1566301420642" />
       <file name="$USER_HOME$/workspace/demo/dddsample-core-master/src/main/java/se/citerus/dddsample/infrastructure/routing/ExternalRoutingService.java" timestamp="1566361698984" />
