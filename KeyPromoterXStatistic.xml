@@ -14,7 +14,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>836</Count>
+          <Count>843</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -103,6 +103,14 @@
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Configuration...">
@@ -185,12 +193,20 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⌘I'</ShortCut>
+          <Description>Properties</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -206,6 +222,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9' or 'F10'</ShortCut>
           <Description>Rebuild '...oms.core.client.dto'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -550,7 +574,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>67</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -598,7 +622,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
