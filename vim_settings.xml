@@ -217,7 +217,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1565667315769">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566440748846">
+      <file name="/Dummy.txt" timestamp="1566448259836">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -229,8 +229,8 @@
       <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/src/main/java/com/tencent/fm/oms/pcm/business/domain/bo/SkuConvertBO.java" timestamp="1565837894901">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1566443167075">
-        <mark key="[" line="79" column="37" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1566448155402">
+        <mark key="[" line="70" column="9" />
         <mark key="]" line="79" column="37" />
         <mark key="." line="79" column="37" />
         <mark key="^" line="79" column="37" />
