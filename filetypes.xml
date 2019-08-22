@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bm" type="HTML" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="s.xml" type="PLAIN_TEXT" />
       <mapping pattern="k" type="PLAIN_TEXT" />
       <mapping pattern="重要job" type="PLAIN_TEXT" />

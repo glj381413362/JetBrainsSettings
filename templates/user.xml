@@ -191,7 +191,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="=wb" value="Condition.builder($end$.class)&#10;&#9;&#9;&#9;&#9;.andWhere(Sqls.custom()&#10;&#9;&#9;&#9;&#9;&#9;&#9;.andEqualTo($end$., $end$.)&#10;&#9;&#9;&#9;&#9;).build())" toReformat="false" toShortenFQNames="true">
+  <template name="=wb" value="Condition.builder($end$.class)&#10;&#9;&#9;&#9;&#9;.andWhere(Sqls.custom()&#10;&#9;&#9;&#9;&#9;&#9;&#9;.andEqualTo($end$., $end$.)&#10;&#9;&#9;&#9;&#9;).build())" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
