@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>937</Count>
+          <Count>944</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -262,7 +262,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tencent-oms-core [clean,compile,install...]'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>285</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
