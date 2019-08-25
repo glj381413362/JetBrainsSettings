@@ -6,15 +6,39 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1566630311717">
         <mark key="[" line="170" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1566707499460">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/updateRespDTO.java.vm" timestamp="1565774433037">
+        <mark key="[" line="21" column="3" />
+      </file>
+      <file name="/a.dummy" timestamp="1566543881199">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1566724620230">
         <mark key="[" line="109" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentInsertRespDTO.java" timestamp="1566625654571">
+        <mark key="[" line="37" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/mapper/MasterCategoryMapper.java" timestamp="1566663859209" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateReqDTO.java" timestamp="1566634897115">
+        <mark key="[" line="92" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/feign/platform/fallback/LovsFeignClientImpl.java" timestamp="1566453802153" />
+      <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/pom.xml" timestamp="1565843327431">
+        <mark key="[" line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/specification/SpuCodeCatalogUniqueSpecification.java" timestamp="1566480851021" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/util/LovValueHelper.java" timestamp="1566657926326" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/specification/Specification.java" timestamp="1566356246563">
+        <mark key="[" line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/java/com/hand/hmall/sa/constants/LogConst.java" timestamp="1566552162665" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-sit.yml" timestamp="1566544063664">
+        <mark key="[" line="121" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1566548776666" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/banner.txt" timestamp="1565943171649">
+        <mark key="[" line="5" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/bo/SpuAndSkuCreateBO.java" timestamp="1566540844936" />
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1566633888432" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/api/dto/LovValueDTO.class" timestamp="1566451505368" />
@@ -23,11 +47,23 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/app/service/impl/LovValueServiceImpl.class" timestamp="1566453760677" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/feign/fallback/LovFeignClientFallbackFactory.java" timestamp="1566451670207" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/dto/FailureResponse.java" timestamp="1566437512092">
+        <mark key="[" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application.yml" timestamp="1566390270332">
+        <mark key="[" line="106" column="27" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/api/controller/v1/LovController.class" timestamp="1566452011876" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1566701697207">
         <mark key="[" line="126" column="18" />
         <mark key="]" line="99" column="16" />
         <mark key="." line="99" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/ExampleController.java" timestamp="1566555761817">
+        <mark key="[" line="52" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1566386515512">
+        <mark key="[" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/config/PcmExceptionHandler.java" timestamp="1566537006036">
         <mark key="[" line="42" column="12" />
@@ -48,14 +84,29 @@
         <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/base/impl/BaseRepositoryImpl.java" timestamp="1566639319189" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/tencent-pcm-starter-core/src/main/java/com/tencent/fm/oms/pcm/core/infra/repository/impl/BrandRepositoryImpl.java" timestamp="1565944535635">
+        <mark key="[" line="18" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/TransactionsMapper.xml" timestamp="1566703872965" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-core/0.10.0.RELEASE/choerodon-starter-core-0.10.0.RELEASE.jar!/io/choerodon/core/domain/Page.class" timestamp="1566441663458" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/OrderApplication.java" timestamp="1565946622988">
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/AbstractSynchronizeHandler.java" timestamp="1566439904716" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/java" timestamp="1565926405175">
+        <mark key="[" line="3" column="97" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/RepositoryImpl.java.vm" timestamp="1565774137783">
+        <mark key="[" line="23" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/ProductApplication.java" timestamp="1566541432982">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="24" column="37" />
         <mark key="^" line="24" column="65" />
         <mark key="." line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CreateCustomeReqDTO.java" timestamp="1565689566519">
+        <mark key="[" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/message/Message.java" timestamp="1566484573375" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AttachmentController.java" timestamp="1566467973107">
@@ -63,13 +114,25 @@
         <mark key="]" line="38" column="24" />
         <mark key="." line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter/tencent-oms-pcm/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/MasterSkuQueryDTO.java" timestamp="1565935919081">
+        <mark key="[" line="31" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressInsertReqDTO.java" timestamp="1566469588370">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/autoconfigure/product/TencentPcmManagerAutoConfiguration.java" timestamp="1565939983475">
+        <mark key="[" line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/CuxMaterialSynchronizationDTO.java" timestamp="1566541688281">
         <mark key="[" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-oauth/src/main/docker/Dockerfile" timestamp="1566382157094">
+        <mark key="[" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformCategory.java" timestamp="1566721812474">
+        <mark key="[" line="27" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformSkuServiceImpl.java" timestamp="1566479586658">
         <mark key="[" line="3" column="21" />
@@ -80,14 +143,30 @@
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e32f764a-fb31-4814-9d35-579d3eea768f/console.sql" timestamp="1566378569469">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1565774725124">
+        <mark key="[" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/pom.xml" timestamp="1565845096571">
+        <mark key="[" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/VariableAttrValue.java" timestamp="1566656399212" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1566702532799">
-        <mark key="[" line="127" column="20" />
-        <mark key="]" line="122" column="12" />
-        <mark key="." line="122" column="12" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1565690081837">
+        <mark key="[" line="83" column="94" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1566723561984">
+        <mark key="[" line="130" column="10" />
+        <mark key="]" line="129" column="19" />
+        <mark key="." line="129" column="19" />
+        <mark key="^" line="129" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/repository/impl/MasterCategoryRepositoryImpl.java" timestamp="1566665490482">
         <mark key="[" line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-pcm-starter-business/pom.xml" timestamp="1565850973095">
+        <mark key="[" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformProductServiceImpl.java" timestamp="1566442677422">
         <mark key="[" line="2" column="20" />
@@ -99,7 +178,19 @@
         <mark key="." line="100" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-platform/src/main/resources/application.yml" timestamp="1566451771499" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/queryRespDTO.java.vm" timestamp="1565774538096">
+        <mark key="[" line="22" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/o2/pcm/o2-pcm-parent/0.4.1.RELEASE/o2-pcm-parent-0.4.1.RELEASE.pom" timestamp="1565845349503">
+        <mark key="[" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/addRespDTO.java.vm" timestamp="1565774696441">
+        <mark key="[" line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/feign/LovFeignClient.java" timestamp="1566456786716" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterProductDynamicMapper.xml" timestamp="1566270309862">
+        <mark key="[" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformSku.java" timestamp="1566625507761">
         <mark key="[" line="191" column="47" />
         <mark key="]" line="191" column="47" />
@@ -110,10 +201,16 @@
         <mark key="]" line="39" column="22" />
         <mark key="." line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/bootstrap.yml" timestamp="1566383283367">
+        <mark key="[" line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1566610891359">
         <mark key="[" line="462" column="27" />
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/specification/OrSpecification.java" timestamp="1566358402178">
+        <mark key="[" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/AddressService.java" timestamp="1566454654899">
         <mark key="[" line="53" column="8" />
@@ -125,7 +222,7 @@
         <mark key="[" line="138" column="27" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/exception/BaseExceptionHandler.java" timestamp="1566536612237" />
-      <file name="/Dummy.txt" timestamp="1566716044469">
+      <file name="/Dummy.txt" timestamp="1566725515107">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -137,6 +234,9 @@
         <mark key="]" line="69" column="23" />
         <mark key="." line="69" column="23" />
         <mark key="^" line="129" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/src/main/java/com/tencent/fm/oms/pcm/business/domain/bo/SkuConvertBO.java" timestamp="1565837894901">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/LovFeignClient.java" timestamp="1566454888593">
         <mark key="'" line="26" column="156" />
@@ -150,11 +250,23 @@
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentDetailRespDTO.java" timestamp="1566625579055">
+        <mark key="[" line="37" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterSkuController.java" timestamp="1566704378305" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/CommonRes.java" timestamp="1566484605442">
         <mark key="[" line="51" column="56" />
         <mark key="]" line="34" column="37" />
         <mark key="." line="34" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/product/ProductApplication.java" timestamp="1565940626323">
+        <mark key="[" line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application.yml" timestamp="1566524815211">
+        <mark key="[" line="105" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformProductDynamicMapper.xml" timestamp="1566297060466">
+        <mark key="[" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1566557109212">
         <mark key="[" line="185" column="45" />
@@ -164,6 +276,12 @@
         <mark key="]" line="156" column="36" />
         <mark key="." line="156" column="36" />
         <mark key="^" line="156" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1566699788165">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/specification/ValueObject.java" timestamp="1566362072755">
+        <mark key="[" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/fallback/CustomerFeignImpl.java" timestamp="1566451399254" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1566711962407">
@@ -187,6 +305,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1566442642528">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/specification/AbstractSpecification.java" timestamp="1566362301047">
+        <mark key="[" line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AddressController.java" timestamp="1566468015531">
         <mark key="[" line="37" column="24" />
         <mark key="]" line="37" column="24" />
@@ -195,9 +316,18 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertRespDTO.java" timestamp="1566628237801">
         <mark key="[" line="95" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/tencent-pcm-starter-core/pom.xml" timestamp="1565845375538">
+        <mark key="[" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/updateReqDTO.java.vm" timestamp="1565774453318">
+        <mark key="[" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/util/MessageHelper.java" timestamp="1566536863068" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformProductRelCategoryController.java" timestamp="1566710214977" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-mybatis-mapper/0.10.0.RELEASE/choerodon-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/pagehelper/domain/PageRequest.java" timestamp="1566441412594" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565778652461">
+        <mark key="[" line="27" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1566716589000">
         <mark key="i" line="490" column="0" />
       </file>
@@ -205,27 +335,48 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/CommonUtils.java" timestamp="1566462000157" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1566540318894" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Attachment.java" timestamp="1566468959551" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterCategoryMapper.xml" timestamp="1566665961279" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterCategoryMapper.xml" timestamp="1566721565078" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/config/SwaggerTags.java" timestamp="1566466423310">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1565774629680">
+        <mark key="[" line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TencentCustomAutoConfiguration.java" timestamp="1566555696762">
         <mark key="[" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/fallback/LovFeignClientImpl.java" timestamp="1566452366941" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuMapper.xml" timestamp="1566379176440">
+        <mark key="[" line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/specification/SkuCodeCatalogUniqueSpecification.java" timestamp="1566480810201">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1565834379634">
+        <mark key="[" line="16" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/autoconfigure/ProductAutoConfiguration.java" timestamp="1566541463419">
+        <mark key="[" line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1566630329084">
+        <mark key="[" line="238" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1566625608397">
         <mark key="[" line="60" column="19" />
         <mark key="]" line="60" column="19" />
         <mark key="." line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformCategoryServiceImpl.java" timestamp="1566710518127" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformSyncRuleDetailServiceImpl.java" timestamp="1565866689644">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformCategoryServiceImpl.java" timestamp="1566721723010" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/repository/CustomerRepository.java" timestamp="1566703059787">
+        <mark key="[" line="10" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/bo/SpuSyncBO.java" timestamp="1566440734006">
         <mark key="[" line="24" column="47" />
       </file>
@@ -240,6 +391,9 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-oms-pcm/pom.xml" timestamp="1566038356561">
+        <mark key="[" line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformProduct.java" timestamp="1566712274443">
         <mark key="[" line="45" column="3" />
       </file>
@@ -249,13 +403,19 @@
         <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterCategoryController.java" timestamp="1566664677780" />
+      <file name="$USER_HOME$/workspace/temp-pcm/o2-pcm-parent-0.4.1/o2-pcm-starter-business/pom.xml" timestamp="1565845269975">
+        <mark key="[" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/inventory/JarvisInterfaceClient.java" timestamp="1566540906010" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-gateway/src/main/resources/application-dev.yml" timestamp="1566612771674" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/log4j2.xml" timestamp="1566290312409">
+        <mark key="[" line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/BaseSynchronizeProcessor.java" timestamp="1566535637987" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1566715434582">
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="268" column="74" />
-        <mark key="." line="268" column="74" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1566725485847">
+        <mark key="[" line="154" column="43" />
+        <mark key="]" line="154" column="43" />
+        <mark key="." line="154" column="43" />
         <mark key="^" line="233" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/annotations/Log.java" timestamp="1566552114280">
@@ -263,11 +423,20 @@
         <mark key="]" line="36" column="38" />
         <mark key="." line="36" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1566290416631">
+        <mark key="[" line="75" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertReqDTO.java" timestamp="1566633573552">
         <mark key="[" line="92" column="41" />
         <mark key="]" line="83" column="30" />
         <mark key="." line="83" column="30" />
         <mark key="^" line="83" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-core/pom.xml" timestamp="1565844341146">
+        <mark key="[" line="61" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/bo/MultimediaUploadBO.java" timestamp="1565866079710">
+        <mark key="[" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/domain/AuditDomain.java" timestamp="1566715203548" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/SpuSynchronizeProcessor.java" timestamp="1566535658859">
@@ -276,22 +445,40 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/InvoiceController.java" timestamp="1566470159962" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/repository/impl/PlatformProductRepositoryImpl.java" timestamp="1566535836684" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/base/BaseRepository.java" timestamp="1566715008039" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/specification/AndSpecification.java" timestamp="1566358210049">
+        <mark key="[" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformProductMapper.xml" timestamp="1566297817979">
+        <mark key="[" line="43" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/CustomerService.java" timestamp="1566550662420">
+        <mark key="[" line="53" column="85" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PlatformSkuDTO.java" timestamp="1566480432321" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/platformCategoryMapper.xml" timestamp="1566716338072" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/impl/ProductFeignClientImpl.java" timestamp="1566363850094">
+        <mark key="[" line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/platformCategoryMapper.xml" timestamp="1566721498468" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PlatformSkuQueryDTO.java" timestamp="1566291251365">
+        <mark key="[" line="31" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1566610122853">
         <mark key="[" line="58" column="19" />
         <mark key="]" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1566654824175">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1566725513834">
         <mark key="'" line="108" column="39" />
-        <mark key="[" line="110" column="39" />
+        <mark key="[" line="110" column="29" />
         <mark key="]" line="110" column="39" />
         <mark key="^" line="110" column="39" />
         <mark key="." line="110" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SkuSynchronizeHandler.java" timestamp="1566715933351">
-        <mark key="[" line="47" column="49" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SkuSynchronizeHandler.java" timestamp="1566720715508">
+        <mark key="[" line="46" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/temp-pcm/tencent-pcm-parent/tencent-pcm-starter-core/pom.xml" timestamp="1566038744354">
+        <mark key="[" line="83" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryRespDTO.java" timestamp="1566634880473">
         <mark key="[" line="87" column="33" />
@@ -300,12 +487,15 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterCategoryServiceImpl.java" timestamp="1566664910624">
         <mark key="[" line="177" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1566707327289">
-        <mark key="[" line="256" column="44" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1566724035163">
+        <mark key="[" line="258" column="67" />
         <mark key="]" line="256" column="43" />
         <mark key="." line="256" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1566550945513" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-iam/src/main/docker/Dockerfile" timestamp="1566381272820">
+        <mark key="[" line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1566702856487">
         <mark key="[" line="15" column="23" />
       </file>
@@ -318,16 +508,22 @@
         <mark key="^" line="57" column="21" />
         <mark key="." line="77" column="81" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/ProductFeignClient.java" timestamp="1566363706750">
+        <mark key="[" line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1566556481323">
         <mark key="[" line="58" column="19" />
         <mark key="]" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1566715986806">
-        <mark key="[" line="131" column="42" />
-        <mark key="]" line="131" column="42" />
-        <mark key="^" line="131" column="42" />
-        <mark key="." line="131" column="42" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1566721847156">
+        <mark key="[" line="85" column="86" />
+        <mark key="]" line="85" column="86" />
+        <mark key="^" line="203" column="62" />
+        <mark key="." line="85" column="86" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/hzero-generator/src/main/resources/template/ddd/queryReqDTO.java.vm" timestamp="1565774584792">
+        <mark key="[" line="22" column="28" />
       </file>
       <file name="/pom.xml" timestamp="1566657508121">
         <mark key="[" line="164" column="18" />
@@ -462,7 +658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getProductId</text>
+        <text>ItemType</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,7 +776,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getProductId</text>
+        <text>ItemType</text>
       </register>
       <register name="m" type="4">
         <keys>
