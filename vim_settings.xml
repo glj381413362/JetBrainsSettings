@@ -179,7 +179,7 @@
         <mark key="^" line="24" column="65" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertReqDTO.java" timestamp="1566816924509">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertReqDTO.java" timestamp="1566823203088">
         <mark key="[" line="91" column="41" />
         <mark key="]" line="82" column="30" />
         <mark key="." line="82" column="30" />
@@ -314,7 +314,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/data/LovValueDTO.java" timestamp="1566451520106">
         <mark key="[" line="17" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566821625172">
+      <file name="/Dummy.txt" timestamp="1566823390893">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -323,12 +323,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/ProductFeignClient.java" timestamp="1566363706750">
         <mark key="[" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566817361676">
-        <mark key="'" line="115" column="23" />
-        <mark key="[" line="266" column="15" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566823177584">
+        <mark key="'" line="108" column="23" />
+        <mark key="[" line="190" column="71" />
         <mark key="]" line="266" column="15" />
         <mark key="." line="266" column="15" />
-        <mark key="^" line="148" column="18" />
+        <mark key="^" line="141" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/temp/o2-pcm-parent-0.4.1/o2-pcm-starter-business/src/main/java/com/tencent/fm/oms/pcm/business/domain/bo/SkuConvertBO.java" timestamp="1565837894901">
         <mark key="[" line="6" column="0" />
