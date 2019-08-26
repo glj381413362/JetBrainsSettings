@@ -71,6 +71,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1565778652461">
         <mark key="[" line="27" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/CommonUtils.java" timestamp="1566785149414">
+        <mark key="[" line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/specification/Specification.java" timestamp="1566356246563">
         <mark key="[" line="9" column="30" />
       </file>
@@ -137,10 +140,10 @@
         <mark key="^" line="42" column="50" />
         <mark key="." line="56" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1566701697207">
-        <mark key="[" line="126" column="18" />
-        <mark key="]" line="99" column="16" />
-        <mark key="." line="99" column="16" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1566785201371">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="102" column="16" />
+        <mark key="." line="102" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/ExampleController.java" timestamp="1566555761817">
         <mark key="[" line="52" column="4" />
@@ -404,7 +407,7 @@
         <mark key="^" line="57" column="21" />
         <mark key="." line="77" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566743152906">
+      <file name="/Dummy.txt" timestamp="1566785235382">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -413,9 +416,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/ProductFeignClient.java" timestamp="1566363706750">
         <mark key="[" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566743149968">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566784998887">
         <mark key="'" line="103" column="23" />
-        <mark key="[" line="100" column="42" />
+        <mark key="[" line="177" column="86" />
         <mark key="]" line="177" column="58" />
         <mark key="." line="177" column="58" />
         <mark key="^" line="136" column="18" />
