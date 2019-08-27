@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/ExampleController.java" timestamp="1566555761817">
         <mark key="[" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1566890596926">
-        <mark key="[" line="52" column="21" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1566893762325">
+        <mark key="[" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/productDownloadQueryDTO.java" timestamp="1566541541866">
         <mark key="[" line="10" column="0" />
@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1566544051902">
         <mark key="[" line="138" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566892367906">
+      <file name="/Dummy.txt" timestamp="1566893834305">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -262,7 +262,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/autoconfigure/ProductAutoConfiguration.java" timestamp="1566541463419">
         <mark key="[" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1566889096638" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1566893833348" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformSyncRuleDetailServiceImpl.java" timestamp="1565866689644">
         <mark key="[" line="2" column="20" />
       </file>
@@ -512,7 +512,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getProductsType</text>
+        <text>lang</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -630,7 +630,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getProductsType</text>
+        <text>lang</text>
       </register>
       <register name="m" type="4">
         <keys>
