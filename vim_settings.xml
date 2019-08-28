@@ -83,6 +83,7 @@
       <file name="$USER_HOME$/Downloads/main 3/java/s/domain/entity/RegistApply.java" timestamp="1566961005350">
         <mark key="[" line="114" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1566991115842" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1566977184169">
         <mark key="[" line="44" column="37" />
       </file>
@@ -103,13 +104,13 @@
         <mark key="]" line="43" column="24" />
         <mark key="." line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1566972223659">
-        <mark key="[" line="113" column="102" />
-        <mark key="]" line="113" column="102" />
-        <mark key="." line="113" column="102" />
-        <mark key="^" line="110" column="26" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1566990133003">
+        <mark key="[" line="116" column="102" />
+        <mark key="]" line="116" column="102" />
+        <mark key="." line="116" column="102" />
+        <mark key="^" line="113" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566986231424">
+      <file name="/Dummy.txt" timestamp="1566990056926">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -126,7 +127,7 @@
         <mark key="]" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566988086220">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566990482503">
         <mark key="'" line="384" column="27" />
         <mark key="[" line="253" column="33" />
         <mark key="]" line="253" column="33" />
