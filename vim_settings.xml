@@ -85,12 +85,12 @@
         <mark key="]" line="29" column="12" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566918417151">
-        <mark key="'" line="108" column="23" />
-        <mark key="[" line="251" column="89" />
-        <mark key="]" line="283" column="32" />
-        <mark key="." line="283" column="32" />
-        <mark key="^" line="283" column="32" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1566956663665">
+        <mark key="'" line="113" column="23" />
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+        <mark key="^" line="290" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1566828033123">
         <mark key="[" line="182" column="39" />
@@ -101,7 +101,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-dev.yml" timestamp="1566918200120">
         <mark key="[" line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1566902827039">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1566956480787">
         <mark key="[" line="78" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1566787264763">
@@ -280,7 +280,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KIA==</text>
+        <text>registApplyService</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -398,7 +398,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lang</text>
+        <text>registApplyService</text>
       </register>
       <register name="m" type="4">
         <keys>
