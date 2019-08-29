@@ -100,18 +100,19 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceInsertRespDTO.java" timestamp="1567071581468">
         <mark key="[" line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1567073047810">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1567075766431">
         <mark key="[" line="62" column="83" />
-        <mark key="]" line="62" column="83" />
-        <mark key="." line="62" column="83" />
+        <mark key="]" line="62" column="16" />
+        <mark key="." line="62" column="16" />
+        <mark key="^" line="62" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1567073084423">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1567075310913">
         <mark key="'" line="20" column="11" />
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="20" column="42" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567073091334">
+      <file name="/Dummy.txt" timestamp="1567075591100">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
