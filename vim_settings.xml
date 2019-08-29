@@ -42,6 +42,11 @@
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567083610150">
+        <mark key="[" line="111" column="54" />
+        <mark key="]" line="106" column="26" />
+        <mark key="." line="106" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/RegistApplyMapper.xml" timestamp="1567062742080">
         <mark key="[" line="9" column="8" />
       </file>
@@ -110,7 +115,7 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567082206726">
+      <file name="/Dummy.txt" timestamp="1567084380479">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -144,7 +149,7 @@
         <mark key="[" line="21" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final.jar!/javax/persistence/OptimisticLockException.class" timestamp="1567080222940" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567081241705">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567084350316">
         <mark key="^" line="125" column="76" />
       </file>
       <file name="/pom.xml" timestamp="1566887081797">
