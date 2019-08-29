@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1566993125672">
         <mark key="[" line="87" column="74" />
       </file>
-      <file name="$USER_HOME$/app/wiremock/wiremock-standalone-2.24.1/com/github/tomakehurst/wiremock/WireMockServer.class" timestamp="1567048887899" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceUpdateReqDTO.java" timestamp="1566961268590">
         <mark key="[" line="49" column="23" />
       </file>
@@ -95,12 +94,12 @@
         <mark key="]" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567002764432">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567057934775">
         <mark key="'" line="385" column="27" />
-        <mark key="[" line="272" column="13" />
-        <mark key="]" line="272" column="13" />
-        <mark key="^" line="243" column="47" />
-        <mark key="." line="272" column="13" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="252" column="0" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567003735099">
         <mark key="[" line="105" column="8" />
