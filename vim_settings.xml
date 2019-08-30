@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentUpdateReqDTO.java" timestamp="1566980615585">
         <mark key="[" line="31" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/dto/LovDTO.java" timestamp="1567145562892" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/pom.xml" timestamp="1567045435243">
         <mark key="[" line="95" column="21" />
       </file>
@@ -68,7 +69,7 @@
       <file name="$USER_HOME$/Downloads/main 3/java/s/domain/entity/RegistApply.java" timestamp="1566961005350">
         <mark key="[" line="114" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovMeaningSqlTransformer.java" timestamp="1567143303367" />
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovMeaningSqlTransformer.java" timestamp="1567145569552" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1567063070427">
         <mark key="[" line="87" column="74" />
       </file>
