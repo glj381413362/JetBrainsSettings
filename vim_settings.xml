@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceUpdateReqDTO.java" timestamp="1567071590995">
         <mark key="[" line="57" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/resources/mapper/TXJobLogMapper.xml" timestamp="1567133343066" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/resources/mapper/TXJobLogMapper.xml" timestamp="1567134600307" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/constant/Constants.java" timestamp="1567071342456">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="21" column="25" />
@@ -84,10 +84,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-sit.yml" timestamp="1566918209294">
         <mark key="[" line="120" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/infra/repository/impl/LovViewHeaderRepositoryImpl.class" timestamp="1567135704525" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMapper.xml" timestamp="1567129277244" />
       <file name="$USER_HOME$/Downloads/main 3/java/s/domain/entity/RegistApply.java" timestamp="1566961005350">
         <mark key="[" line="114" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-platform/src/main/java/org/hzero/platform/infra/mapper/LovViewLineMapper.java" timestamp="1567135375489" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1567063070427">
         <mark key="[" line="87" column="74" />
       </file>
@@ -97,6 +99,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1566992593765">
         <mark key="[" line="59" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/domain/service/impl/LovViewDomainServiceImpl.class" timestamp="1567135501473" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/com/tencent/fm/oms/infa/mapper/TxJobLogMapper.java" timestamp="1567133326741" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SkuSynchronizeHandler.java" timestamp="1567080365322" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/AsyncExceptionHandler.java" timestamp="1567079974901">
@@ -124,6 +127,7 @@
         <mark key="." line="116" column="102" />
         <mark key="^" line="113" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/api/controller/v1/LovViewController.class" timestamp="1567135425723" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1567131068664">
         <mark key="[" line="138" column="33" />
       </file>
@@ -132,7 +136,7 @@
         <mark key="]" line="57" column="8" />
         <mark key="." line="57" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567131146385">
+      <file name="/Dummy.txt" timestamp="1567135597594">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -145,15 +149,12 @@
         <mark key="[" line="46" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/InvoiceMapper.xml" timestamp="1567129349371" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567129711849">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567134858407">
         <mark key="'" line="387" column="27" />
         <mark key="[" line="400" column="34" />
         <mark key="]" line="252" column="0" />
         <mark key="^" line="252" column="0" />
         <mark key="." line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567069033482">
-        <mark key="^" line="108" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentDetailRespDTO.java" timestamp="1566980724640">
         <mark key="[" line="33" column="34" />
@@ -167,9 +168,6 @@
         <mark key="[" line="21" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final.jar!/javax/persistence/OptimisticLockException.class" timestamp="1567080222940" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567128681497">
-        <mark key="^" line="125" column="76" />
-      </file>
       <file name="/pom.xml" timestamp="1566887081797">
         <mark key="[" line="164" column="18" />
       </file>
