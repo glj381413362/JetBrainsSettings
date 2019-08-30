@@ -99,7 +99,7 @@
         <mark key="]" line="57" column="8" />
         <mark key="." line="57" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567143551754">
+      <file name="/Dummy.txt" timestamp="1567146702982">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -111,12 +111,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformProduct.java" timestamp="1566801184718">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567144643821">
-        <mark key="'" line="402" column="27" />
-        <mark key="[" line="120" column="80" />
-        <mark key="]" line="120" column="80" />
-        <mark key="." line="120" column="80" />
-        <mark key="^" line="120" column="80" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567146578512">
+        <mark key="'" line="408" column="27" />
+        <mark key="[" line="277" column="34" />
+        <mark key="]" line="277" column="34" />
+        <mark key="." line="277" column="34" />
+        <mark key="^" line="277" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentDetailRespDTO.java" timestamp="1566980724640">
         <mark key="[" line="33" column="34" />
@@ -269,7 +269,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getLovSqlMeaning</text>
+        <text>String.format(&quot;MDM信息更新失败，原因:[%s,%s]&quot;, errorCode, customerCommonRespDTO.getErrorMsg())</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -387,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getLovSqlMeaning</text>
+        <text>String.format(&quot;MDM信息更新失败，原因:[%s,%s]&quot;, errorCode, customerCommonRespDTO.getErrorMsg())</text>
       </register>
       <register name="m" type="4">
         <keys>
