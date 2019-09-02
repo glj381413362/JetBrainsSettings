@@ -33,8 +33,8 @@
         <mark key="]" line="356" column="34" />
         <mark key="." line="356" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567150387935">
-        <mark key="[" line="58" column="9" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567388076775">
+        <mark key="[" line="96" column="54" />
         <mark key="]" line="113" column="26" />
         <mark key="." line="113" column="26" />
       </file>
@@ -114,11 +114,11 @@
         <mark key="^" line="106" column="64" />
         <mark key="." line="71" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567220759716">
+      <file name="/Dummy.txt" timestamp="1567389018185">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1566905698923">
         <mark key="[" line="39" column="20" />
@@ -150,10 +150,11 @@
         <mark key="[" line="164" column="18" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" timestamp="1567149816238" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567220688738">
-        <mark key="[" line="232" column="69" />
-        <mark key="]" line="187" column="4" />
-        <mark key="." line="187" column="4" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567389005277">
+        <mark key="'" line="107" column="30" />
+        <mark key="[" line="105" column="19" />
+        <mark key="]" line="105" column="19" />
+        <mark key="." line="105" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1566972996468">
         <mark key="[" line="193" column="4" />
@@ -174,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="52" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="53" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="54" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
@@ -274,6 +274,7 @@
       <jump line="20" column="11" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" />
       <jump line="205" column="32" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" />
       <jump line="112" column="8" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" />
+      <jump line="107" column="30" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -302,7 +303,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>AsyncResult</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -420,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>AsyncResult</text>
       </register>
       <register name="m" type="4">
         <keys>
