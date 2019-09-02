@@ -6,6 +6,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceUpdateReqDTO.java" timestamp="1567157332678">
         <mark key="[" line="57" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyQueryReqDTO.java" timestamp="1567423217063" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/LogAOP.java" timestamp="1567422623939" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/constant/Constants.java" timestamp="1567415765466">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="44" />
@@ -21,7 +23,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateReqDTO.java" timestamp="1567157925667">
         <mark key="[" line="124" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/constraints/LovValueConstraint.java" timestamp="1567418723901" />
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/constraints/LovValueConstraint.java" timestamp="1567421562850" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AddressController.java" timestamp="1567416191314" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertRespDTO.java" timestamp="1566961109687">
         <mark key="[" line="92" column="32" />
@@ -29,12 +31,13 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentUpdateReqDTO.java" timestamp="1566980615585">
         <mark key="[" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovValueHelper.java" timestamp="1567412092011">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovValueHelper.java" timestamp="1567425595225">
         <mark key="'" line="103" column="16" />
         <mark key="[" line="103" column="94" />
         <mark key="]" line="103" column="94" />
         <mark key="." line="103" column="94" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/autoconfigure/LovAutoConfiguration.java" timestamp="1567424442248" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/pom.xml" timestamp="1567045435243">
         <mark key="[" line="95" column="21" />
       </file>
@@ -51,6 +54,7 @@
         <mark key="[" line="48" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovSqlHandle.java" timestamp="1567406323598" />
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/Constraint.class" timestamp="1567421402255" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceDetailRespDTO.java" timestamp="1567077433744">
         <mark key="[" line="59" column="33" />
       </file>
@@ -63,14 +67,19 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-dev.yml" timestamp="1566918200120">
         <mark key="[" line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1566956480787">
-        <mark key="[" line="78" column="77" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/RegistApplyServiceImpl.java" timestamp="1567425109593">
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/api/controller/v1/OrderController.java" timestamp="1567417685132" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyInsertReqDTO.java" timestamp="1566963472073">
         <mark key="[" line="63" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressInsertRespDTO.java" timestamp="1567415838162" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/annotations/ProcessLovViewValue.java" timestamp="1567422032378">
+        <mark key="[" line="21" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressDetailRespDTO.java" timestamp="1567415894902">
         <mark key="[" line="30" column="30" />
       </file>
@@ -82,6 +91,11 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-sit.yml" timestamp="1566918209294">
         <mark key="[" line="120" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/RegistApplyController.java" timestamp="1567423243409">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/main 3/java/s/domain/entity/RegistApply.java" timestamp="1566961005350">
         <mark key="[" line="114" column="31" />
@@ -96,8 +110,8 @@
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE.jar!/org/hzero/mybatis/impl/DefaultStatementManager.class" timestamp="1567406430950" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceQueryRespDTO.java" timestamp="1567414080389" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/TransactionsServiceImpl.java" timestamp="1567413154094" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1567405251578">
-        <mark key="[" line="136" column="32" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1567426799464">
+        <mark key="[" line="104" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/AsyncExceptionHandler.java" timestamp="1567079974901">
         <mark key="[" line="20" column="95" />
@@ -105,6 +119,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application.yml" timestamp="1566918176210">
         <mark key="[" line="109" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/LovViewValueAspect.java" timestamp="1567429366359" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyInsertRespDTO.java" timestamp="1566900004289">
         <mark key="[" line="25" column="12" />
       </file>
@@ -114,14 +129,17 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1567395355077">
         <mark key="[" line="67" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1567404712156" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1567428484907">
+        <mark key="[" line="124" column="59" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE.jar!/org/hzero/mybatis/impl/DefaultDynamicSqlMapper.class" timestamp="1567406355667" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1567131068664">
         <mark key="[" line="138" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Address.java" timestamp="1567415947311" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/annotation/ProcessLovValue.java" timestamp="1567417887779" />
-      <file name="/Dummy.txt" timestamp="1567416013408">
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/annotation/LovValue.java" timestamp="1567426838542" />
+      <file name="/Dummy.txt" timestamp="1567425117632">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -130,7 +148,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1567411738775">
         <mark key="[" line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/annotations/LovViewValue.java" timestamp="1567418793940">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/annotations/LovViewValue.java" timestamp="1567426848008">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -142,6 +160,15 @@
         <mark key="[" line="46" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressQueryRespDTO.java" timestamp="1567415809943" />
+      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar!/org/aspectj/lang/ProceedingJoinPoint.class" timestamp="1567422691243" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567429316076">
+        <mark key="d" line="118" column="40" />
+        <mark key="'" line="205" column="32" />
+        <mark key="[" line="120" column="51" />
+        <mark key="]" line="120" column="51" />
+        <mark key="." line="120" column="51" />
+        <mark key="^" line="352" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567415413151">
         <mark key="[" line="148" column="67" />
       </file>
@@ -149,7 +176,13 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentDetailRespDTO.java" timestamp="1566980724640">
         <mark key="[" line="33" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1567418531021" />
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1567429138171" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/SPELUtil.java" timestamp="1567423122388">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+        <mark key="^" line="66" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application.yml" timestamp="1567130862463">
         <mark key="[" line="105" column="34" />
       </file>
@@ -159,6 +192,8 @@
       <file name="/pom.xml" timestamp="1566887081797">
         <mark key="[" line="164" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE.jar!/io/choerodon/swagger/annotation/Permission.class" timestamp="1567426886092" />
+      <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/aspect/LovValueAspect.java" timestamp="1567421840847" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1566972996468">
         <mark key="[" line="193" column="4" />
       </file>
@@ -168,7 +203,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1566803906226">
         <mark key="[" line="75" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1567418633421">
+      <file name="/fragment.java" timestamp="1567421944659">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -300,8 +335,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Lwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="c" type="4">
         <keys>
@@ -527,16 +562,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CgkJCQlQb3N0IHBvc3QgPSBuZXcgUG9zdCgpOwoJCQkJaWYgKGkgPT0gNSkgewoJCQkJCXBvc3Quc2V0Q29udGVudCgiZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQiKTsKCQkJCX0gZWxzZQoJCQkJCXBvc3Quc2V0Q29udGVudCgicG9zdCIgKyBpKTsKCgkJCQlwb3N0LnNldFdlaWdodChpKTsKCQkJCXBvc3RTZXJ2aWNlLnNhdmUocG9zdCk7CgoJCQl9Cgk=</text>
+        <text encoding="base64">Lypsb2cuZGVidWcoInRyYW5zbGF0aW5nIFVSTCBsb3YgdmFsdWVzIFt7fV0iLCBsb3ZDb2RlKTsKCQkJCQkJLy8g6YeN572ubWVhbmluZwoJCQkJCQltZWFuaW5nID0gbnVsbDsKCQkJCQkJLy8g5LyY5YWI5qOA5p+lVGhyZWFkTG9jYWzkuK3mmK/lkKbnvJPlrZjmnInlgLwKCQkJCQkJaWYgKGlubmVyTG92VmFsdWVNYXAgIT0gbnVsbCAmJiBpbm5lckxvdlZhbHVlTWFwLnNpemUoKSA+IDApIHsKCQkJCQkJCWxvZy5kZWJ1ZygidHJ5IHRvIHVzZSBsb2NhbCBjYWNoZSB0byB0cmFuc2xhdGUgbG92IHZhbHVlcyBbe31dIiwgbG92Q29kZSk7CgkJCQkJCQltZWFuaW5nID0gaW5uZXJMb3ZWYWx1ZU1hcC5nZXQoU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKCQkJCQkJfQoJCQkJCQlpZiAobWVhbmluZyA9PSBudWxsKSB7CgkJCQkJCQlsb2cuZGVidWcoImNhbiBub3QgZ2V0IGxvdiB2YWx1ZSBbe31dIGZyb20gbG9jYWwgY2FjaGUsIHRyeSB0byBxdWVyeSBmcm9tIHJlbW90ZSBzZXJ2aWNlIiwgbG92Q29kZSk7CgkJCQkJCQkvLyDlpoLmnpzmnKzlnLDnvJPlrZjmnKrlkb3kuK0s5YiZ5Y+R6LW36L+c56iL6LCD55So5p+l6K+iCgkJCQkJCQkvLyDlpITnkIblj4LmlbAKCQkJCQkJCU1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zID0gbmV3IEhhc2hNYXA8PigpOwoJCQkJCQkJcGFyYW1zLnB1dChMb3ZDb25zdGFudHMuRmllbGQuTE9WX0NPREUsIGxvdkNvZGUpOwoJCQkJCQkJaWYgKHRlbmFudElkICE9IG51bGwpIHsKCQkJCQkJCQlwYXJhbXMucHV0KExvdkNvbnN0YW50cy5GaWVsZC5URU5BTlRfSUQsIFN0cmluZy52YWx1ZU9mKHRlbmFudElkKSk7CgkJCQkJCQl9CgkJCQkJCQlpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShsb3YuZ2V0VmFsdWVGaWVsZCgpKSkgewoJCQkJCQkJCXBhcmFtcy5wdXQobG92LmdldFZhbHVlRmllbGQoKSwgU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKCQkJCQkJCX0KCQkJCQkJCXBhcmFtcy5wdXQoQmFzZUNvbnN0YW50cy5QQUdFX0ZJRUxEX05BTUUsIEJhc2VDb25zdGFudHMuUEFHRSk7CgkJCQkJCQlwYXJhbXMucHV0KEJhc2VDb25zdGFudHMuU0laRV9GSUVMRF9OQU1FLCAiMTAwMDAwMCIpOwoJCQkJCQkJbG9nLmRlYnVnKCJxdWVyeSBVUiBsb3YgdmFsdWUgW3t9XSB3aXRoIHBhcmFtcyBbe31dIiwgbG92Q29kZSwgcGFyYW1zKTsKCQkJCQkJCXRyeSB7CgkJCQkJCQkJLy8g5Yip55SoUmVzdFRlbXBsYXRl5Yqo5oCB6LCD55SoCgkJCQkJCQkJTWFwPD8sID8+IG1hcDsKCQkJCQkJCQlqc29uID0gdGhpcy5yZXN0VGVtcGxhdGUuZ2V0Rm9yT2JqZWN0KHRoaXMuaHR0cFByb3RvY29sICsgIjovLyIgKyBIWmVyb1NlcnZpY2UuZ2V0UmVhbE5hbWUoSFplcm9TZXJ2aWNlLkdhdGV3YXkuTkFNRSkgKyB0aGlzLnByZVByb2Nlc3NVcmxQYXJhbSh0aGlzLmNvbnZlcnRUcnVlVXJsKGxvdiksIHBhcmFtcyksIFN0cmluZy5jbGFzcywgcGFyYW1zKTsKCQkJCQkJCQlqc29uTm9kZSA9IEpzb25VdGlscy5jaGVja1Jlc3VsdFN0YXR1cyhqc29uLCB0aGlzLm9iamVjdE1hcHBlcik7CgkJCQkJCQkJbG9nLmRlYnVnKCJnZXQgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UgW3t9XSIsIGpzb24pOwoJCQkJCQkJCWlmIChqc29uTm9kZS5pc0FycmF5KCkpIHsKCQkJCQkJCQkJbG9nLmRlYnVnKCJnZXQgQXJyYXkgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UiKTsKCQkJCQkJCQkJQFN1cHByZXNzV2FybmluZ3MoInJhd3R5cGVzIikKCQkJCQkJCQkJTGlzdDxNYXA+IHRlbXBMaXN0ID0gSnNvblV0aWxzLmNoZWNrQW5kUGFyc2VMaXN0KGpzb25Ob2RlLCB0aGlzLm9iamVjdE1hcHBlciwgTWFwLmNsYXNzKTsKCQkJCQkJCQkJaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHRlbXBMaXN0KSkgewoJCQkJCQkJCQkJLy8g5Yi35paw5pys5Zyw57yT5a2YCgkJCQkJCQkJCQlpZiAoaW5uZXJMb3ZWYWx1ZU1hcCA9PSBudWxsKSB7CgkJCQkJCQkJCQkJaW5uZXJMb3ZWYWx1ZU1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKCQkJCQkJCQkJCQlsb2NhbExvdlZhbHVlTWFwLnB1dChsb3ZDb2RlLCBpbm5lckxvdlZhbHVlTWFwKTsKCQkJCQkJCQkJCX0KCQkJCQkJCQkJCWZvciAoaW50IGkgPSAwOyBpIDwgdGVtcExpc3Quc2l6ZSgpOyBpKyspIHsKCQkJCQkJCQkJCQltYXAgPSB0ZW1wTGlzdC5nZXQoaSk7CgkJCQkJCQkJCQkJaW5uZXJMb3ZWYWx1ZU1hcC5wdXQoU3RyaW5nLnZhbHVlT2YobWFwLmdldChsb3YuZ2V0VmFsdWVGaWVsZCgpKSksIFN0cmluZy52YWx1ZU9mKG1hcC5nZXQobG92LmdldERpc3BsYXlGaWVsZCgpKSkpOwoJCQkJCQkJCQkJfQoJCQkJCQkJCQkJbWVhbmluZyA9IGlubmVyTG92VmFsdWVNYXAuZ2V0KFN0cmluZy52YWx1ZU9mKHZhbHVlKSk7CgkJCQkJCQkJCX0KCQkJCQkJCQl9IGVsc2UgewoJCQkJCQkJCQltYXAgPSBKc29uVXRpbHMuY2hlY2tBbmRQYXJzZU9iamVjdChqc29uTm9kZSwgdGhpcy5vYmplY3RNYXBwZXIsIE1hcC5jbGFzcyk7CgkJCQkJCQkJCS8vIOWIpOaWrei/lOWbnuWAvOaYr+S4jeaYr1BhZ2Xlr7nosaEKCQkJCQkJCQkJaWYgKHRoaXMuaXNQYWdlT2JqZWN0KG1hcCkpIHsKCQkJCQkJCQkJCWxvZy5kZWJ1ZygiZ2V0IFBhZ2UgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UiKTsKCQkJCQkJCQkJCWlmIChpbm5lckxvdlZhbHVlTWFwID09IG51bGwpIHsKCQkJCQkJCQkJCQlpbm5lckxvdlZhbHVlTWFwID0gbmV3IEhhc2hNYXA8PigpOwoJCQkJCQkJCQkJCWxvY2FsTG92VmFsdWVNYXAucHV0KGxvdkNvZGUsIGlubmVyTG92VmFsdWVNYXApOwoJCQkJCQkJCQkJfQoJCQkJCQkJCQkJQFN1cHByZXNzV2FybmluZ3MoeyJ1bmNoZWNrZWQiLCAicmF3dHlwZXMifSkKCQkJCQkJCQkJCUxpc3Q8TWFwPiB0ZW1wTGlzdCA9IChMaXN0PE1hcD4pIG1hcC5nZXQoTG92Q29uc3RhbnRzLkZpZWxkLkNPTlRFTlQpOwoJCQkJCQkJCQkJZm9yIChpbnQgaSA9IDA7IGkgPCB0ZW1wTGlzdC5zaXplKCk7IGkrKykgewoJCQkJCQkJCQkJCW1hcCA9IHRlbXBMaXN0LmdldChpKTsKCQkJCQkJCQkJCQlpbm5lckxvdlZhbHVlTWFwLnB1dChTdHJpbmcudmFsdWVPZihtYXAuZ2V0KGxvdi5nZXRWYWx1ZUZpZWxkKCkpKSwgU3RyaW5nLnZhbHVlT2YobWFwLmdldChsb3YuZ2V0RGlzcGxheUZpZWxkKCkpKSk7CgkJCQkJCQkJCQl9CgkJCQkJCQkJCQltZWFuaW5nID0gaW5uZXJMb3ZWYWx1ZU1hcC5nZXQoU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKCQkJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQkJCWlmIChtYXAgPT0gbnVsbCkgewoJCQkJCQkJCQkJCWxvZy53YXJuKCJjYW4gbm90IGdldCBhbnkgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2Ugd2l0aCBsb3YgY29kZSBbe31dIiwgbG92Q29kZSk7CgkJCQkJCQkJCQkJY29udGludWU7CgkJCQkJCQkJCQl9CgkJCQkJCQkJCQlsb2cuZGVidWcoImdldCBPYmplY3QgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UiKTsKCQkJCQkJCQkJCW1lYW5pbmcgPSBTdHJpbmcudmFsdWVPZihtYXAuZ2V0KGxvdi5nZXREaXNwbGF5RmllbGQoKSkpOwoJCQkJCQkJCQkJaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkobWVhbmluZykpIHsKCQkJCQkJCQkJCQkvLyDliLfmlrDmnKzlnLDnvJPlrZgKCQkJCQkJCQkJCQlpZiAoaW5uZXJMb3ZWYWx1ZU1hcCA9PSBudWxsKSB7CgkJCQkJCQkJCQkJCWlubmVyTG92VmFsdWVNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CgkJCQkJCQkJCQkJCWxvY2FsTG92VmFsdWVNYXAucHV0KGxvdkNvZGUsIGlubmVyTG92VmFsdWVNYXApOwoJCQkJCQkJCQkJCX0KCQkJCQkJCQkJCQlpbm5lckxvdlZhbHVlTWFwLnB1dChTdHJpbmcudmFsdWVPZih2YWx1ZSksIG1lYW5pbmcpOwoJCQkJCQkJCQkJfQoJCQkJCQkJCQl9CgkJCQkJCQkJfQoJCQkJCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCQkJCQkvLyDov5znqIvosIPnlKjlh7rnjrDlvILluLgs6L+b5YWlZmFsbGJhY2sKCQkJCQkJCQlpZiAobG9nLmlzV2FybkVuYWJsZWQoKSkgewoJCQkJCQkJCQlsb2cud2FybihlLmdldE1lc3NhZ2UoKSwgZSk7CgkJCQkJCQkJfQoJCQkJCQkJCW1lYW5pbmcgPSBudWxsOwoJCQkJCQkJfQoJCQkJCQl9Ki8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk9IGxvdlNxbEhhbmRsZXIuZygiSFBGTS5DVVJSRU5DWSIsIDBMLCBwYXJhbXMpOwo=</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -566,7 +601,7 @@
         </keys>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgoJcHVibGljIFN0cmluZyBnZXRFcnBDdXN0b21lcklkSXNOb3ROdWxsKCkgewoJCXJldHVybiBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQoKCXB1YmxpYyB2b2lkIHNldEVycEN1c3RvbWVySWRJc05vdE51bGwoU3RyaW5nIGVycEN1c3RvbWVySWRJc05vdE51bGwpIHsKCQl0aGlzLmVycEN1c3RvbWVySWRJc05vdE51bGwgPSBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQ==</text>
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CgkJCQlQb3N0IHBvc3QgPSBuZXcgUG9zdCgpOwoJCQkJaWYgKGkgPT0gNSkgewoJCQkJCXBvc3Quc2V0Q29udGVudCgiZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQiKTsKCQkJCX0gZWxzZQoJCQkJCXBvc3Quc2V0Q29udGVudCgicG9zdCIgKyBpKTsKCgkJCQlwb3N0LnNldFdlaWdodChpKTsKCQkJCXBvc3RTZXJ2aWNlLnNhdmUocG9zdCk7CgoJCQl9Cgk=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -603,12 +638,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgIGVycEN1c3RvbWVySWRJc05vdE51bGw7Cg==</text>
+        <text encoding="base64">CQk9IGxvdlNxbEhhbmRsZXIuZygiSFBGTS5DVVJSRU5DWSIsIDBMLCBwYXJhbXMpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>if (1 == defaultFlag) {
-
-			}</text>
+        <text encoding="base64">CgoJcHVibGljIFN0cmluZyBnZXRFcnBDdXN0b21lcklkSXNOb3ROdWxsKCkgewoJCXJldHVybiBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQoKCXB1YmxpYyB2b2lkIHNldEVycEN1c3RvbWVySWRJc05vdE51bGwoU3RyaW5nIGVycEN1c3RvbWVySWRJc05vdE51bGwpIHsKCQl0aGlzLmVycEN1c3RvbWVySWRJc05vdE51bGwgPSBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQ==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -623,14 +656,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTtATG92VmFsdWUobG92Q29kZSA9IEFUVEFDSE1FTlRfVFlQRSkK</text>
+        <text encoding="base64">CXByaXZhdGUgIGVycEN1c3RvbWVySWRJc05vdE51bGw7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>, @ApiIgnore @SortDefault(value = Customer.FIELD_CUSTOMER_ID,
-			direction = Sort.Direction.DESC) PageRequest pageRequest</text>
+        <text>if (1 == defaultFlag) {
+
+			}</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CTtATG92VmFsdWUobG92Q29kZSA9IEFUVEFDSE1FTlRfVFlQRSkK</text>
       </register>
       <register name="y" type="4">
         <keys>
