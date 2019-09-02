@@ -40,6 +40,7 @@
         <mark key="]" line="113" column="26" />
         <mark key="." line="113" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/ProductJarvisInterfaceClient.java" timestamp="1567413556920" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/RegistApplyMapper.xml" timestamp="1567129256182">
         <mark key="[" line="9" column="8" />
       </file>
@@ -78,10 +79,15 @@
         <mark key="[" line="114" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovMeaningSqlTransformer.java" timestamp="1567406214017" />
-      <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE.jar!/org/hzero/mybatis/impl/DefaultStatementManager.class" timestamp="1567406430950" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceQueryRespDTO.java" timestamp="1567071555500">
-        <mark key="[" line="59" column="33" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1567414138496">
+        <mark key="'" line="115" column="8" />
+        <mark key="[" line="57" column="38" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE.jar!/org/hzero/mybatis/impl/DefaultStatementManager.class" timestamp="1567406430950" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/InvoiceQueryRespDTO.java" timestamp="1567414080389" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/TransactionsServiceImpl.java" timestamp="1567413154094" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1567405251578">
         <mark key="[" line="136" column="32" />
       </file>
@@ -105,9 +111,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1567131068664">
         <mark key="[" line="138" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567412479195">
+      <file name="/Dummy.txt" timestamp="1567414186954">
         <mark key="a" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -128,6 +134,7 @@
         <mark key="." line="120" column="51" />
         <mark key="^" line="352" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/inventory/JarvisInterfaceClient.java" timestamp="1567413186408" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AttachmentDetailRespDTO.java" timestamp="1566980724640">
         <mark key="[" line="33" column="34" />
       </file>
@@ -140,17 +147,10 @@
       <file name="/pom.xml" timestamp="1566887081797">
         <mark key="[" line="164" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567394444711">
-        <mark key="'" line="105" column="30" />
-        <mark key="[" line="73" column="57" />
-        <mark key="]" line="73" column="57" />
-        <mark key="." line="73" column="57" />
-        <mark key="^" line="262" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1566972996468">
         <mark key="[" line="193" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1567405221026">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1567414071436">
         <mark key="[" line="193" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1566803906226">
@@ -289,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,FastJsonUtil.objectToJson(lovSqlMeaning)</text>
+        <text>lov</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -407,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,FastJsonUtil.objectToJson(lovSqlMeaning)</text>
+        <text>lov</text>
       </register>
       <register name="m" type="4">
         <keys>
