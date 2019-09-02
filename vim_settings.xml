@@ -114,7 +114,7 @@
         <mark key="^" line="106" column="64" />
         <mark key="." line="71" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567391052080">
+      <file name="/Dummy.txt" timestamp="1567394619950">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -150,11 +150,12 @@
         <mark key="[" line="164" column="18" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" timestamp="1567149816238" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567390366302">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567394444711">
         <mark key="'" line="107" column="30" />
-        <mark key="[" line="99" column="69" />
-        <mark key="]" line="99" column="69" />
-        <mark key="." line="99" column="69" />
+        <mark key="[" line="75" column="57" />
+        <mark key="]" line="75" column="57" />
+        <mark key="." line="75" column="57" />
+        <mark key="^" line="264" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1566972996468">
         <mark key="[" line="193" column="4" />
@@ -303,7 +304,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>getCreateCustomerResultRespDTO</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -421,7 +422,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>getCreateCustomerResultRespDTO</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -528,17 +529,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQk9IGxvdlNxbEhhbmRsZXIuZygiSFBGTS5DVVJSRU5DWSIsIDBMLCBwYXJhbXMpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCAxMDsgaSsrKSB7CgkJCQlQb3N0IHBvc3QgPSBuZXcgUG9zdCgpOwoJCQkJaWYgKGkgPT0gNSkgewoJCQkJCXBvc3Quc2V0Q29udGVudCgiZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQiKTsKCQkJCX0gZWxzZQoJCQkJCXBvc3Quc2V0Q29udGVudCgicG9zdCIgKyBpKTsKCgkJCQlwb3N0LnNldFdlaWdodChpKTsKCQkJCXBvc3RTZXJ2aWNlLnNhdmUocG9zdCk7CgoJCQl9Cgk=</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoJcHVibGljIFN0cmluZyBnZXRFcnBDdXN0b21lcklkSXNOb3ROdWxsKCkgewoJCXJldHVybiBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQoKCXB1YmxpYyB2b2lkIHNldEVycEN1c3RvbWVySWRJc05vdE51bGwoU3RyaW5nIGVycEN1c3RvbWVySWRJc05vdE51bGwpIHsKCQl0aGlzLmVycEN1c3RvbWVySWRJc05vdE51bGwgPSBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQk9IGxvdlNxbEhhbmRsZXIuZygiSFBGTS5DVVJSRU5DWSIsIDBMLCBwYXJhbXMpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgIGVycEN1c3RvbWVySWRJc05vdE51bGw7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoJcHVibGljIFN0cmluZyBnZXRFcnBDdXN0b21lcklkSXNOb3ROdWxsKCkgewoJCXJldHVybiBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQoKCXB1YmxpYyB2b2lkIHNldEVycEN1c3RvbWVySWRJc05vdE51bGwoU3RyaW5nIGVycEN1c3RvbWVySWRJc05vdE51bGwpIHsKCQl0aGlzLmVycEN1c3RvbWVySWRJc05vdE51bGwgPSBlcnBDdXN0b21lcklkSXNOb3ROdWxsOwoJfQ==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -567,10 +568,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text>if (1 == defaultFlag) {
-
-			}</text>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgIGVycEN1c3RvbWVySWRJc05vdE51bGw7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -606,12 +605,13 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CTtATG92VmFsdWUobG92Q29kZSA9IEFUVEFDSE1FTlRfVFlQRSkK</text>
+      <register name="5" type="4">
+        <text>if (1 == defaultFlag) {
+
+			}</text>
       </register>
-      <register name="6" type="4">
-        <text>, @ApiIgnore @SortDefault(value = Customer.FIELD_CUSTOMER_ID,
-			direction = Sort.Direction.DESC) PageRequest pageRequest</text>
+      <register name="6" type="2">
+        <text encoding="base64">CTtATG92VmFsdWUobG92Q29kZSA9IEFUVEFDSE1FTlRfVFlQRSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -626,14 +626,14 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KIA==</text>
+        <text>, @ApiIgnore @SortDefault(value = Customer.FIELD_CUSTOMER_ID,
+			direction = Sort.Direction.DESC) PageRequest pageRequest</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">TGlzdDxTdHJpbmc+IGNhdGFsb2dzID0KCQkJCUxvdlZhbHVlSGVscGVyLmdldFZhbHVlc0J5UGFyZW50VmFsdWUoIk8yUENNLlBMQVRGT1JNX0NBVEFMT0ciLCAiTzJQQ00uUExBVEZPUk1fVFlQRSIsIGxvdkFkYXB0ZXIpOwoJCQ==</text>
+        <text encoding="base64">IDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNsZjRqLWxvZzRqMTI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KIA==</text>
       </register>
       <register name="9" type="4">
-        <text>else {
-			}</text>
+        <text encoding="base64">TGlzdDxTdHJpbmc+IGNhdGFsb2dzID0KCQkJCUxvdlZhbHVlSGVscGVyLmdldFZhbHVlc0J5UGFyZW50VmFsdWUoIk8yUENNLlBMQVRGT1JNX0NBVEFMT0ciLCAiTzJQQ00uUExBVEZPUk1fVFlQRSIsIGxvdkFkYXB0ZXIpOwoJCQ==</text>
       </register>
       <register name="y" type="4">
         <keys>
