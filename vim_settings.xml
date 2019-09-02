@@ -114,7 +114,7 @@
         <mark key="^" line="106" column="64" />
         <mark key="." line="71" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567389018185">
+      <file name="/Dummy.txt" timestamp="1567391052080">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -150,11 +150,11 @@
         <mark key="[" line="164" column="18" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" timestamp="1567149816238" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567389005277">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567390366302">
         <mark key="'" line="107" column="30" />
-        <mark key="[" line="105" column="19" />
-        <mark key="]" line="105" column="19" />
-        <mark key="." line="105" column="19" />
+        <mark key="[" line="99" column="69" />
+        <mark key="]" line="99" column="69" />
+        <mark key="." line="99" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1566972996468">
         <mark key="[" line="193" column="4" />
@@ -170,7 +170,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/bootstrap.yml" timestamp="1566803906226">
         <mark key="[" line="75" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1567143047074">
+      <file name="/fragment.java" timestamp="1567391006522">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -303,7 +303,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AsyncResult</text>
+        <text>this</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -421,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AsyncResult</text>
+        <text>this</text>
       </register>
       <register name="m" type="4">
         <keys>
