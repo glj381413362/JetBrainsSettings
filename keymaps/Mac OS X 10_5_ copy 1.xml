@@ -18,6 +18,11 @@
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="shift m" />
   </action>
+  <action id="Popup.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RunClass" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
