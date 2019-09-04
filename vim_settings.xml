@@ -9,11 +9,24 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyQueryRespDTO.java" timestamp="1567564898888">
         <mark key="[" line="83" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/LogAOP.java" timestamp="1567578151246">
+        <mark key="[" line="148" column="46" />
+        <mark key="]" line="148" column="46" />
+        <mark key="." line="148" column="46" />
+        <mark key="^" line="148" column="46" />
+      </file>
+      <file name="/a.dummy" timestamp="1567485530189">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/文档/[腾讯/正在进行/mdm/mdmtest/src/main/java/com/tencent/mdmtest/TestMdmIntf.java" timestamp="1567479916262" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1567589486001">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="60" />
-        <mark key="." line="12" column="60" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1567598113112">
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+        <mark key="^" line="72" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1567404671649">
+        <mark key="[" line="5" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Invoice.java" timestamp="1567480664737" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/PlatformSkuDTO.java" timestamp="1567563101245">
@@ -32,12 +45,33 @@
         <mark key="[" line="315" column="101" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/MDC.class" timestamp="1567476991190" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567488106106">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1567500573592">
+        <mark key="[" line="63" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567596473491">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="57" />
         <mark key="." line="113" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-sit.yml" timestamp="1567432754396">
+        <mark key="[" line="124" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/JarvisEbsInterceptor.java" timestamp="1567481825824" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1567597918222">
+        <mark key="[" line="97" column="73" />
+        <mark key="]" line="86" column="28" />
+        <mark key="." line="86" column="28" />
+        <mark key="^" line="82" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/annotations/ProcessLovViewValue.java" timestamp="1567422032378">
+        <mark key="[" line="21" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressDetailRespDTO.java" timestamp="1567415894902">
+        <mark key="[" line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerDetailRespDTO.java" timestamp="1567426799464">
+        <mark key="[" line="104" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1567584830871">
         <mark key="[" line="47" column="57" />
         <mark key="]" line="47" column="57" />
@@ -50,19 +84,33 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/java/com/tencent/fm/oms/basic/data/api/controller/v1/CountryController.java" timestamp="1567581488458" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/resources/mapper/NeighboringRegionMapper.xml" timestamp="1567583553326" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1567411738775">
+        <mark key="[" line="29" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformProduct.java" timestamp="1567498198596" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/MDMInterceptor.java" timestamp="1567582976628" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/log4j2.xml" timestamp="1567476160212" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1567500447252">
         <mark key="[" line="115" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567594743931">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="40" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CustomerForErpRespDTO.java" timestamp="1567496900956">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/autoconfigure/TaskExecutePool.java" timestamp="1567593914913" />
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar!/org/apache/logging/log4j/spi/DefaultThreadContextMap.class" timestamp="1567477015711" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE.jar!/org/hzero/core/message/RedisMessageSource.class" timestamp="1567589058583" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/CustomerForErpConvertJob.java" timestamp="1567597634442">
+        <mark key="[" line="62" column="90" />
+        <mark key="]" line="62" column="90" />
+        <mark key="^" line="36" column="66" />
+        <mark key="." line="62" column="90" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/mapper/CustomerMapper.java" timestamp="1567494508359">
         <mark key="[" line="30" column="47" />
         <mark key="]" line="22" column="47" />
@@ -82,6 +130,9 @@
         <mark key="]" line="110" column="31" />
         <mark key="." line="110" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovSqlHelper.java" timestamp="1567407416312">
+        <mark key="[" line="11" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/JarvisApiUtil.java" timestamp="1567582647910" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/messages/messages_zh_CN.properties" timestamp="1567589438045">
         <mark key="[" line="23" column="53" />
@@ -95,15 +146,24 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryRespDTO.java" timestamp="1567584493897" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/data/CustomerDetailRespDTO.java" timestamp="1567498525556" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1567486544365" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1567587955802">
-        <mark key="[" line="62" column="4" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="61" column="32" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1567593624249">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/hmall-backend/hmall-sa-service/src/main/resources/log4j2.xml" timestamp="1567476219169" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerQueryReqDTO.java" timestamp="1567479245458" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1567433038918">
+        <mark key="[" line="138" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1567561138701">
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="98" column="18" />
+        <mark key="^" line="109" column="64" />
+        <mark key="." line="98" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1567589647556">
+      <file name="/Dummy.txt" timestamp="1567598453347">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -117,6 +177,9 @@
         <mark key="." line="385" column="44" />
         <mark key="^" line="349" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567415413151">
+        <mark key="[" line="148" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/assembler/CustomerAssembler.java" timestamp="1567584016560" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/java/com/tencent/fm/oms/basic/data/api/controller/v1/AddressMappingController.java" timestamp="1567475773104">
         <mark key="[" line="37" column="46" />
@@ -124,6 +187,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1567487460559" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1567584474127">
         <mark key="[" line="196" column="33" />
+      </file>
+      <file name="/fragment.java" timestamp="1567598453344">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/infra/constant/O2PcmConstants.java" timestamp="1567589316342" />
     </filemarks>
@@ -256,7 +322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MASTER_SKU_WITHOUT_ASSOCIATE_PLATFORM_SPU</text>
+        <text>level = ResourceLevel.ORGANIZATION</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -374,7 +440,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MASTER_SKU_WITHOUT_ASSOCIATE_PLATFORM_SPU</text>
+        <text>level = ResourceLevel.ORGANIZATION</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -481,17 +547,19 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CUBMb3ZWYWx1ZShsb3ZDb2RlID0gSU5WT0lDRV9DTEFTUykK</text>
+      <register name="1" type="4">
+        <text>if (CollectionUtils.isEmpty(customerForErpRespDTOs)) {
+			return Res.failed(&quot;未查询到数据&quot;);
+		}</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk9IENvbXBsZXRhYmxlRnV0dXJlLnN1cHBseUFzeW5jKCgpIC0+IGN1c3RvbWVySW50ZXJmYWNlQ2xpZW50LmN1c3RvbWVyRm9yRXJwKGN1c3RvbWVySWQsIGVycE91SWQpKQo=</text>
+        <text encoding="base64">CUBMb3ZWYWx1ZShsb3ZDb2RlID0gSU5WT0lDRV9DTEFTUykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBSZXMgcXVlcnkoTGlzdDxSZWdpc3RBcHBseT4gcmVnaXN0QXBwbGllcywgU2NoZWR1bGVyVG9vbCBzY2hlZHVsZXJUb29sKSB7Cg==</text>
+        <text encoding="base64">CQk9IENvbXBsZXRhYmxlRnV0dXJlLnN1cHBseUFzeW5jKCgpIC0+IGN1c3RvbWVySW50ZXJmYWNlQ2xpZW50LmN1c3RvbWVyRm9yRXJwKGN1c3RvbWVySWQsIGVycE91SWQpKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -521,7 +589,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGJpekFjY291bnRJZDsKCXByaXZhdGUgTGlzdDxTdHJpbmc+IGJpekxhYmVsTGlzdDsK</text>
+        <text encoding="base64">CXB1YmxpYyBSZXMgcXVlcnkoTGlzdDxSZWdpc3RBcHBseT4gcmVnaXN0QXBwbGllcywgU2NoZWR1bGVyVG9vbCBzY2hlZHVsZXJUb29sKSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -558,10 +626,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG9yZ0NvZGU7Cglwcml2YXRlIFN0cmluZyBjcmVkaXRDb2RlOwoJcHJpdmF0ZSBTdHJpbmcgcGVyc29uSWROdW1iZXI7Cglwcml2YXRlIFN0cmluZyBvdGhlckNlcnRUeXBlOwoJcHJpdmF0ZSBTdHJpbmcgb3RoZXJDZXJ0SWQ7Cglwcml2YXRlIFN0cmluZyBiaXpUeXBlSWQ7Cglwcml2YXRlIFN0cmluZyBiaXpBY2NvdW50VHlwZTsK</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGJpekFjY291bnRJZDsKCXByaXZhdGUgTGlzdDxTdHJpbmc+IGJpekxhYmVsTGlzdDsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U3RyaW5nIGluc3RJZDsKCQkvLwoJCS8vIOWIpOaWreaYr+WQpuaYr2NvbnRyb2xsZXIs5aaC5p6c5piv77yM6L+b6KGM6K+35rGC5Y+C5pWw6L6T5Ye6CgkJLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgkJUmVzdENvbnRyb2xsZXIgcmVzdENvbnRyb2xsZXIgPSBqb2luUG9pbnQuZ2V0VGFyZ2V0KCkuZ2V0Q2xhc3MoKS5nZXRBbm5vdGF0aW9uKFJlc3RDb250cm9sbGVyLmNsYXNzKTsKCQlDb250cm9sbGVyIGNvbnRyb2xsZXIgPSBqb2luUG9pbnQuZ2V0VGFyZ2V0KCkuZ2V0Q2xhc3MoKS5nZXRBbm5vdGF0aW9uKENvbnRyb2xsZXIuY2xhc3MpOwoJCS8vCgkJLy8g5o6n5Yi25ZmoIGNvbnRyb2xsZXIKCQkvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCQlpZiAobnVsbCAhPSBjb250cm9sbGVyIHx8IG51bGwgIT0gcmVzdENvbnRyb2xsZXIpIHsKCQkJaWYgKGFyZ3MgIT0gbnVsbCAmJiBhcmdzLmxlbmd0aCA+IDApIHsKCQkJCWZvciAoT2JqZWN0IGFyZyA6IGFyZ3MpIHsKCQkJCQlpZiAoYXJnIGluc3RhbmNlb2YgQmFzZUFwaUluZm9EdG8pIHsKCQkJCQkJQmFzZUFwaUluZm9EdG8gaG1hbGxBcGlJbmZvRHRvID0gKEJhc2VBcGlJbmZvRHRvKSBhcmc7CgkJCQkJCWluc3RJZCA9IGhtYWxsQXBpSW5mb0R0by5nZXRBcGlJbmZvRHRvKCkuZ2V0SW5zdElkKCk7CgkJCQkJCU1EQy5wdXQoSU5TVF9JRCwgaW5zdElkKTsKCQkJCQl9IGVsc2UgaWYgKGFyZyBpbnN0YW5jZW9mIEhtYWxsQXBpSW5mb0R0bykgewoJCQkJCQlIbWFsbEFwaUluZm9EdG8gaG1hbGxBcGlJbmZvRHRvID0gKEhtYWxsQXBpSW5mb0R0bykgYXJnOwoJCQkJCQlpbnN0SWQgPSBobWFsbEFwaUluZm9EdG8uZ2V0SW5zdElkKCk7CgkJCQkJCU1EQy5wdXQoSU5TVF9JRCwgaW5zdElkKTsKCQkJCQl9CgkJCQl9CgkJCX0KCQl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG9yZ0NvZGU7Cglwcml2YXRlIFN0cmluZyBjcmVkaXRDb2RlOwoJcHJpdmF0ZSBTdHJpbmcgcGVyc29uSWROdW1iZXI7Cglwcml2YXRlIFN0cmluZyBvdGhlckNlcnRUeXBlOwoJcHJpdmF0ZSBTdHJpbmcgb3RoZXJDZXJ0SWQ7Cglwcml2YXRlIFN0cmluZyBiaXpUeXBlSWQ7Cglwcml2YXRlIFN0cmluZyBiaXpBY2NvdW50VHlwZTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -575,14 +643,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">U3RyaW5nIGluc3RJZDsKCQkvLwoJCS8vIOWIpOaWreaYr+WQpuaYr2NvbnRyb2xsZXIs5aaC5p6c5piv77yM6L+b6KGM6K+35rGC5Y+C5pWw6L6T5Ye6CgkJLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgkJUmVzdENvbnRyb2xsZXIgcmVzdENvbnRyb2xsZXIgPSBqb2luUG9pbnQuZ2V0VGFyZ2V0KCkuZ2V0Q2xhc3MoKS5nZXRBbm5vdGF0aW9uKFJlc3RDb250cm9sbGVyLmNsYXNzKTsKCQlDb250cm9sbGVyIGNvbnRyb2xsZXIgPSBqb2luUG9pbnQuZ2V0VGFyZ2V0KCkuZ2V0Q2xhc3MoKS5nZXRBbm5vdGF0aW9uKENvbnRyb2xsZXIuY2xhc3MpOwoJCS8vCgkJLy8g5o6n5Yi25ZmoIGNvbnRyb2xsZXIKCQkvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCQlpZiAobnVsbCAhPSBjb250cm9sbGVyIHx8IG51bGwgIT0gcmVzdENvbnRyb2xsZXIpIHsKCQkJaWYgKGFyZ3MgIT0gbnVsbCAmJiBhcmdzLmxlbmd0aCA+IDApIHsKCQkJCWZvciAoT2JqZWN0IGFyZyA6IGFyZ3MpIHsKCQkJCQlpZiAoYXJnIGluc3RhbmNlb2YgQmFzZUFwaUluZm9EdG8pIHsKCQkJCQkJQmFzZUFwaUluZm9EdG8gaG1hbGxBcGlJbmZvRHRvID0gKEJhc2VBcGlJbmZvRHRvKSBhcmc7CgkJCQkJCWluc3RJZCA9IGhtYWxsQXBpSW5mb0R0by5nZXRBcGlJbmZvRHRvKCkuZ2V0SW5zdElkKCk7CgkJCQkJCU1EQy5wdXQoSU5TVF9JRCwgaW5zdElkKTsKCQkJCQl9IGVsc2UgaWYgKGFyZyBpbnN0YW5jZW9mIEhtYWxsQXBpSW5mb0R0bykgewoJCQkJCQlIbWFsbEFwaUluZm9EdG8gaG1hbGxBcGlJbmZvRHRvID0gKEhtYWxsQXBpSW5mb0R0bykgYXJnOwoJCQkJCQlpbnN0SWQgPSBobWFsbEFwaUluZm9EdG8uZ2V0SW5zdElkKCk7CgkJCQkJCU1EQy5wdXQoSU5TVF9JRCwgaW5zdElkKTsKCQkJCQl9CgkJCQl9CgkJCX0KCQl9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CXByaXZhdGUgZmluYWwgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Lypsb2cuZGVidWcoInRyYW5zbGF0aW5nIFVSTCBsb3YgdmFsdWVzIFt7fV0iLCBsb3ZDb2RlKTsKCQkJCQkJLy8g6YeN572ubWVhbmluZwoJCQkJCQltZWFuaW5nID0gbnVsbDsKCQkJCQkJLy8g5LyY5YWI5qOA5p+lVGhyZWFkTG9jYWzkuK3mmK/lkKbnvJPlrZjmnInlgLwKCQkJCQkJaWYgKGlubmVyTG92VmFsdWVNYXAgIT0gbnVsbCAmJiBpbm5lckxvdlZhbHVlTWFwLnNpemUoKSA+IDApIHsKCQkJCQkJCWxvZy5kZWJ1ZygidHJ5IHRvIHVzZSBsb2NhbCBjYWNoZSB0byB0cmFuc2xhdGUgbG92IHZhbHVlcyBbe31dIiwgbG92Q29kZSk7CgkJCQkJCQltZWFuaW5nID0gaW5uZXJMb3ZWYWx1ZU1hcC5nZXQoU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKCQkJCQkJfQoJCQkJCQlpZiAobWVhbmluZyA9PSBudWxsKSB7CgkJCQkJCQlsb2cuZGVidWcoImNhbiBub3QgZ2V0IGxvdiB2YWx1ZSBbe31dIGZyb20gbG9jYWwgY2FjaGUsIHRyeSB0byBxdWVyeSBmcm9tIHJlbW90ZSBzZXJ2aWNlIiwgbG92Q29kZSk7CgkJCQkJCQkvLyDlpoLmnpzmnKzlnLDnvJPlrZjmnKrlkb3kuK0s5YiZ5Y+R6LW36L+c56iL6LCD55So5p+l6K+iCgkJCQkJCQkvLyDlpITnkIblj4LmlbAKCQkJCQkJCU1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zID0gbmV3IEhhc2hNYXA8PigpOwoJCQkJCQkJcGFyYW1zLnB1dChMb3ZDb25zdGFudHMuRmllbGQuTE9WX0NPREUsIGxvdkNvZGUpOwoJCQkJCQkJaWYgKHRlbmFudElkICE9IG51bGwpIHsKCQkJCQkJCQlwYXJhbXMucHV0KExvdkNvbnN0YW50cy5GaWVsZC5URU5BTlRfSUQsIFN0cmluZy52YWx1ZU9mKHRlbmFudElkKSk7CgkJCQkJCQl9CgkJCQkJCQlpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShsb3YuZ2V0VmFsdWVGaWVsZCgpKSkgewoJCQkJCQkJCXBhcmFtcy5wdXQobG92LmdldFZhbHVlRmllbGQoKSwgU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKCQkJCQkJCX0KCQkJCQkJCXBhcmFtcy5wdXQoQmFzZUNvbnN0YW50cy5QQUdFX0ZJRUxEX05BTUUsIEJhc2VDb25zdGFudHMuUEFHRSk7CgkJCQkJCQlwYXJhbXMucHV0KEJhc2VDb25zdGFudHMuU0laRV9GSUVMRF9OQU1FLCAiMTAwMDAwMCIpOwoJCQkJCQkJbG9nLmRlYnVnKCJxdWVyeSBVUiBsb3YgdmFsdWUgW3t9XSB3aXRoIHBhcmFtcyBbe31dIiwgbG92Q29kZSwgcGFyYW1zKTsKCQkJCQkJCXRyeSB7CgkJCQkJCQkJLy8g5Yip55SoUmVzdFRlbXBsYXRl5Yqo5oCB6LCD55SoCgkJCQkJCQkJTWFwPD8sID8+IG1hcDsKCQkJCQkJCQlqc29uID0gdGhpcy5yZXN0VGVtcGxhdGUuZ2V0Rm9yT2JqZWN0KHRoaXMuaHR0cFByb3RvY29sICsgIjovLyIgKyBIWmVyb1NlcnZpY2UuZ2V0UmVhbE5hbWUoSFplcm9TZXJ2aWNlLkdhdGV3YXkuTkFNRSkgKyB0aGlzLnByZVByb2Nlc3NVcmxQYXJhbSh0aGlzLmNvbnZlcnRUcnVlVXJsKGxvdiksIHBhcmFtcyksIFN0cmluZy5jbGFzcywgcGFyYW1zKTsKCQkJCQkJCQlqc29uTm9kZSA9IEpzb25VdGlscy5jaGVja1Jlc3VsdFN0YXR1cyhqc29uLCB0aGlzLm9iamVjdE1hcHBlcik7CgkJCQkJCQkJbG9nLmRlYnVnKCJnZXQgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UgW3t9XSIsIGpzb24pOwoJCQkJCQkJCWlmIChqc29uTm9kZS5pc0FycmF5KCkpIHsKCQkJCQkJCQkJbG9nLmRlYnVnKCJnZXQgQXJyYXkgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UiKTsKCQkJCQkJCQkJQFN1cHByZXNzV2FybmluZ3MoInJhd3R5cGVzIikKCQkJCQkJCQkJTGlzdDxNYXA+IHRlbXBMaXN0ID0gSnNvblV0aWxzLmNoZWNrQW5kUGFyc2VMaXN0KGpzb25Ob2RlLCB0aGlzLm9iamVjdE1hcHBlciwgTWFwLmNsYXNzKTsKCQkJCQkJCQkJaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHRlbXBMaXN0KSkgewoJCQkJCQkJCQkJLy8g5Yi35paw5pys5Zyw57yT5a2YCgkJCQkJCQkJCQlpZiAoaW5uZXJMb3ZWYWx1ZU1hcCA9PSBudWxsKSB7CgkJCQkJCQkJCQkJaW5uZXJMb3ZWYWx1ZU1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKCQkJCQkJCQkJCQlsb2NhbExvdlZhbHVlTWFwLnB1dChsb3ZDb2RlLCBpbm5lckxvdlZhbHVlTWFwKTsKCQkJCQkJCQkJCX0KCQkJCQkJCQkJCWZvciAoaW50IGkgPSAwOyBpIDwgdGVtcExpc3Quc2l6ZSgpOyBpKyspIHsKCQkJCQkJCQkJCQltYXAgPSB0ZW1wTGlzdC5nZXQoaSk7CgkJCQkJCQkJCQkJaW5uZXJMb3ZWYWx1ZU1hcC5wdXQoU3RyaW5nLnZhbHVlT2YobWFwLmdldChsb3YuZ2V0VmFsdWVGaWVsZCgpKSksIFN0cmluZy52YWx1ZU9mKG1hcC5nZXQobG92LmdldERpc3BsYXlGaWVsZCgpKSkpOwoJCQkJCQkJCQkJfQoJCQkJCQkJCQkJbWVhbmluZyA9IGlubmVyTG92VmFsdWVNYXAuZ2V0KFN0cmluZy52YWx1ZU9mKHZhbHVlKSk7CgkJCQkJCQkJCX0KCQkJCQkJCQl9IGVsc2UgewoJCQkJCQkJCQltYXAgPSBKc29uVXRpbHMuY2hlY2tBbmRQYXJzZU9iamVjdChqc29uTm9kZSwgdGhpcy5vYmplY3RNYXBwZXIsIE1hcC5jbGFzcyk7CgkJCQkJCQkJCS8vIOWIpOaWrei/lOWbnuWAvOaYr+S4jeaYr1BhZ2Xlr7nosaEKCQkJCQkJCQkJaWYgKHRoaXMuaXNQYWdlT2JqZWN0KG1hcCkpIHsKCQkJCQkJCQkJCWxvZy5kZWJ1ZygiZ2V0IFBhZ2UgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UiKTsKCQkJCQkJCQkJCWlmIChpbm5lckxvdlZhbHVlTWFwID09IG51bGwpIHsKCQkJCQkJCQkJCQlpbm5lckxvdlZhbHVlTWFwID0gbmV3IEhhc2hNYXA8PigpOwoJCQkJCQkJCQkJCWxvY2FsTG92VmFsdWVNYXAucHV0KGxvdkNvZGUsIGlubmVyTG92VmFsdWVNYXApOwoJCQkJCQkJCQkJfQoJCQkJCQkJCQkJQFN1cHByZXNzV2FybmluZ3MoeyJ1bmNoZWNrZWQiLCAicmF3dHlwZXMifSkKCQkJCQkJCQkJCUxpc3Q8TWFwPiB0ZW1wTGlzdCA9IChMaXN0PE1hcD4pIG1hcC5nZXQoTG92Q29uc3RhbnRzLkZpZWxkLkNPTlRFTlQpOwoJCQkJCQkJCQkJZm9yIChpbnQgaSA9IDA7IGkgPCB0ZW1wTGlzdC5zaXplKCk7IGkrKykgewoJCQkJCQkJCQkJCW1hcCA9IHRlbXBMaXN0LmdldChpKTsKCQkJCQkJCQkJCQlpbm5lckxvdlZhbHVlTWFwLnB1dChTdHJpbmcudmFsdWVPZihtYXAuZ2V0KGxvdi5nZXRWYWx1ZUZpZWxkKCkpKSwgU3RyaW5nLnZhbHVlT2YobWFwLmdldChsb3YuZ2V0RGlzcGxheUZpZWxkKCkpKSk7CgkJCQkJCQkJCQl9CgkJCQkJCQkJCQltZWFuaW5nID0gaW5uZXJMb3ZWYWx1ZU1hcC5nZXQoU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKCQkJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQkJCWlmIChtYXAgPT0gbnVsbCkgewoJCQkJCQkJCQkJCWxvZy53YXJuKCJjYW4gbm90IGdldCBhbnkgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2Ugd2l0aCBsb3YgY29kZSBbe31dIiwgbG92Q29kZSk7CgkJCQkJCQkJCQkJY29udGludWU7CgkJCQkJCQkJCQl9CgkJCQkJCQkJCQlsb2cuZGVidWcoImdldCBPYmplY3QgcmVzdWx0IGZyb20gcmVtb3RlIHNlcnZpY2UiKTsKCQkJCQkJCQkJCW1lYW5pbmcgPSBTdHJpbmcudmFsdWVPZihtYXAuZ2V0KGxvdi5nZXREaXNwbGF5RmllbGQoKSkpOwoJCQkJCQkJCQkJaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkobWVhbmluZykpIHsKCQkJCQkJCQkJCQkvLyDliLfmlrDmnKzlnLDnvJPlrZgKCQkJCQkJCQkJCQlpZiAoaW5uZXJMb3ZWYWx1ZU1hcCA9PSBudWxsKSB7CgkJCQkJCQkJCQkJCWlubmVyTG92VmFsdWVNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CgkJCQkJCQkJCQkJCWxvY2FsTG92VmFsdWVNYXAucHV0KGxvdkNvZGUsIGlubmVyTG92VmFsdWVNYXApOwoJCQkJCQkJCQkJCX0KCQkJCQkJCQkJCQlpbm5lckxvdlZhbHVlTWFwLnB1dChTdHJpbmcudmFsdWVPZih2YWx1ZSksIG1lYW5pbmcpOwoJCQkJCQkJCQkJfQoJCQkJCQkJCQl9CgkJCQkJCQkJfQoJCQkJCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCQkJCQkvLyDov5znqIvosIPnlKjlh7rnjrDlvILluLgs6L+b5YWlZmFsbGJhY2sKCQkJCQkJCQlpZiAobG9nLmlzV2FybkVuYWJsZWQoKSkgewoJCQkJCQkJCQlsb2cud2FybihlLmdldE1lc3NhZ2UoKSwgZSk7CgkJCQkJCQkJfQoJCQkJCQkJCW1lYW5pbmcgPSBudWxsOwoJCQkJCQkJfQoJCQkJCQl9Ki8=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Lwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
