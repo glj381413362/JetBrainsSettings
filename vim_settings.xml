@@ -33,6 +33,9 @@
         <mark key="[" line="19" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/exception/BaseExceptionHandler.java" timestamp="1567659224344" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1567672301073">
+        <mark key="[" line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterProduct.java" timestamp="1567495749395" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/JarvisEbsStrInterceptor.java" timestamp="1567582996475">
         <mark key="[" line="49" column="62" />
@@ -44,16 +47,18 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1567500573592">
         <mark key="[" line="63" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567596473491">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="57" />
-        <mark key="." line="113" column="26" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/MDMQueryResultsJob.java" timestamp="1567672939181">
+        <mark key="[" line="127" column="49" />
+        <mark key="]" line="127" column="19" />
+        <mark key="." line="127" column="19" />
+        <mark key="^" line="127" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/CommonUtils.java" timestamp="1567669964535" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-sit.yml" timestamp="1567432754396">
         <mark key="[" line="124" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/JarvisEbsInterceptor.java" timestamp="1567481825824" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1567649251541">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1567670101579">
         <mark key="[" line="68" column="27" />
         <mark key="]" line="68" column="27" />
         <mark key="." line="68" column="27" />
@@ -97,9 +102,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1567500447252">
         <mark key="[" line="114" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567667778546">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="57" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567671216460">
+        <mark key="[" line="108" column="24" />
+        <mark key="]" line="108" column="24" />
+        <mark key="." line="108" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java" timestamp="1567600191800" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CustomerForErpRespDTO.java" timestamp="1567496900956">
@@ -118,8 +124,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/SQLException.java" timestamp="1567654503669" />
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar!/org/apache/logging/log4j/spi/DefaultThreadContextMap.class" timestamp="1567477015711" />
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE.jar!/org/hzero/core/message/RedisMessageSource.class" timestamp="1567589058583" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/CustomerForErpConvertJob.java" timestamp="1567605106969">
-        <mark key="[" line="72" column="41" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/CustomerForErpConvertJob.java" timestamp="1567672959139">
+        <mark key="[" line="71" column="41" />
         <mark key="]" line="62" column="90" />
         <mark key="^" line="36" column="66" />
         <mark key="." line="62" column="90" />
@@ -176,11 +182,19 @@
         <mark key="." line="98" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1567667244510">
+      <file name="/Dummy.txt" timestamp="1567672981595">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567670748267">
+        <mark key="d" line="117" column="40" />
+        <mark key="'" line="204" column="32" />
+        <mark key="[" line="385" column="44" />
+        <mark key="]" line="385" column="44" />
+        <mark key="." line="385" column="44" />
+        <mark key="^" line="349" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567415413151">
         <mark key="[" line="148" column="67" />
@@ -327,7 +341,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>exception</text>
+        <text encoding="base64">cmVzIC0+IHJlcy5pc0ZhaWxlZCgp</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -445,7 +459,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>exception</text>
+        <text encoding="base64">cmVzIC0+IHJlcy5pc0ZhaWxlZCgp</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -553,18 +567,18 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgkJCQkJCQ==</text>
+        <text encoding="base64">LmV4Y2VwdGlvbmFsbHkoZSAtPiB7CgkJCQkJcmUuc2V0UmVzKENvbW1vblJlcy5GQUlMRUQpOwoJCQkJCXJlLnNldE1zZyhlLmdldE1lc3NhZ2UoKSk7CgkJCQkJdGhyb3cgbmV3IENvbXBsZXRpb25FeGNlcHRpb24oZSk7CgkJCQl9KQ==</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CgkJCQkJCQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (CollectionUtils.isEmpty(customerForErpRespDTOs)) {
 			return Res.failed(&quot;未查询到数据&quot;);
 		}</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CUBMb3ZWYWx1ZShsb3ZDb2RlID0gSU5WT0lDRV9DTEFTUykK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -594,7 +608,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk9IENvbXBsZXRhYmxlRnV0dXJlLnN1cHBseUFzeW5jKCgpIC0+IGN1c3RvbWVySW50ZXJmYWNlQ2xpZW50LmN1c3RvbWVyRm9yRXJwKGN1c3RvbWVySWQsIGVycE91SWQpKQo=</text>
+        <text encoding="base64">CUBMb3ZWYWx1ZShsb3ZDb2RlID0gSU5WT0lDRV9DTEFTUykK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -631,10 +645,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBSZXMgcXVlcnkoTGlzdDxSZWdpc3RBcHBseT4gcmVnaXN0QXBwbGllcywgU2NoZWR1bGVyVG9vbCBzY2hlZHVsZXJUb29sKSB7Cg==</text>
+        <text encoding="base64">CQk9IENvbXBsZXRhYmxlRnV0dXJlLnN1cHBseUFzeW5jKCgpIC0+IGN1c3RvbWVySW50ZXJmYWNlQ2xpZW50LmN1c3RvbWVyRm9yRXJwKGN1c3RvbWVySWQsIGVycE91SWQpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGJpekFjY291bnRJZDsKCXByaXZhdGUgTGlzdDxTdHJpbmc+IGJpekxhYmVsTGlzdDsK</text>
+        <text encoding="base64">CXB1YmxpYyBSZXMgcXVlcnkoTGlzdDxSZWdpc3RBcHBseT4gcmVnaXN0QXBwbGllcywgU2NoZWR1bGVyVG9vbCBzY2hlZHVsZXJUb29sKSB7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -649,13 +663,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGJpekFjY291bnRJZDsKCXByaXZhdGUgTGlzdDxTdHJpbmc+IGJpekxhYmVsTGlzdDsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG9yZ0NvZGU7Cglwcml2YXRlIFN0cmluZyBjcmVkaXRDb2RlOwoJcHJpdmF0ZSBTdHJpbmcgcGVyc29uSWROdW1iZXI7Cglwcml2YXRlIFN0cmluZyBvdGhlckNlcnRUeXBlOwoJcHJpdmF0ZSBTdHJpbmcgb3RoZXJDZXJ0SWQ7Cglwcml2YXRlIFN0cmluZyBiaXpUeXBlSWQ7Cglwcml2YXRlIFN0cmluZyBiaXpBY2NvdW50VHlwZTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">U3RyaW5nIGluc3RJZDsKCQkvLwoJCS8vIOWIpOaWreaYr+WQpuaYr2NvbnRyb2xsZXIs5aaC5p6c5piv77yM6L+b6KGM6K+35rGC5Y+C5pWw6L6T5Ye6CgkJLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgkJUmVzdENvbnRyb2xsZXIgcmVzdENvbnRyb2xsZXIgPSBqb2luUG9pbnQuZ2V0VGFyZ2V0KCkuZ2V0Q2xhc3MoKS5nZXRBbm5vdGF0aW9uKFJlc3RDb250cm9sbGVyLmNsYXNzKTsKCQlDb250cm9sbGVyIGNvbnRyb2xsZXIgPSBqb2luUG9pbnQuZ2V0VGFyZ2V0KCkuZ2V0Q2xhc3MoKS5nZXRBbm5vdGF0aW9uKENvbnRyb2xsZXIuY2xhc3MpOwoJCS8vCgkJLy8g5o6n5Yi25ZmoIGNvbnRyb2xsZXIKCQkvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCQlpZiAobnVsbCAhPSBjb250cm9sbGVyIHx8IG51bGwgIT0gcmVzdENvbnRyb2xsZXIpIHsKCQkJaWYgKGFyZ3MgIT0gbnVsbCAmJiBhcmdzLmxlbmd0aCA+IDApIHsKCQkJCWZvciAoT2JqZWN0IGFyZyA6IGFyZ3MpIHsKCQkJCQlpZiAoYXJnIGluc3RhbmNlb2YgQmFzZUFwaUluZm9EdG8pIHsKCQkJCQkJQmFzZUFwaUluZm9EdG8gaG1hbGxBcGlJbmZvRHRvID0gKEJhc2VBcGlJbmZvRHRvKSBhcmc7CgkJCQkJCWluc3RJZCA9IGhtYWxsQXBpSW5mb0R0by5nZXRBcGlJbmZvRHRvKCkuZ2V0SW5zdElkKCk7CgkJCQkJCU1EQy5wdXQoSU5TVF9JRCwgaW5zdElkKTsKCQkJCQl9IGVsc2UgaWYgKGFyZyBpbnN0YW5jZW9mIEhtYWxsQXBpSW5mb0R0bykgewoJCQkJCQlIbWFsbEFwaUluZm9EdG8gaG1hbGxBcGlJbmZvRHRvID0gKEhtYWxsQXBpSW5mb0R0bykgYXJnOwoJCQkJCQlpbnN0SWQgPSBobWFsbEFwaUluZm9EdG8uZ2V0SW5zdElkKCk7CgkJCQkJCU1EQy5wdXQoSU5TVF9JRCwgaW5zdElkKTsKCQkJCQl9CgkJCQl9CgkJCX0KCQl9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
