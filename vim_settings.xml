@@ -190,19 +190,19 @@
         <mark key="." line="98" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1567733723109">
+      <file name="/Dummy.txt" timestamp="1567736652722">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567735263218">
-        <mark key="d" line="117" column="40" />
-        <mark key="'" line="204" column="32" />
-        <mark key="[" line="385" column="44" />
-        <mark key="]" line="385" column="44" />
-        <mark key="." line="385" column="44" />
-        <mark key="^" line="349" column="33" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567736636349">
+        <mark key="d" line="116" column="40" />
+        <mark key="'" line="203" column="32" />
+        <mark key="[" line="397" column="36" />
+        <mark key="]" line="397" column="36" />
+        <mark key="." line="397" column="36" />
+        <mark key="^" line="346" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567415413151">
         <mark key="[" line="148" column="67" />
@@ -349,7 +349,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>进行手动回滚</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -467,7 +467,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>进行手动回滚</text>
       </register>
       <register name="m" type="4">
         <keys>
