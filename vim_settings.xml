@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1567500447252">
         <mark key="[" line="114" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567677279261">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567760889376">
         <mark key="[" line="62" column="39" />
         <mark key="]" line="62" column="39" />
         <mark key="." line="62" column="39" />
@@ -207,12 +207,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567737595475">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1567761298838">
         <mark key="d" line="116" column="40" />
         <mark key="'" line="203" column="32" />
-        <mark key="[" line="397" column="36" />
-        <mark key="]" line="397" column="36" />
-        <mark key="." line="397" column="36" />
+        <mark key="[" line="203" column="52" />
+        <mark key="]" line="203" column="52" />
+        <mark key="." line="203" column="52" />
         <mark key="^" line="346" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567415413151">
@@ -225,6 +225,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1567754765766">
         <mark key="[" line="56" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/CommonRes.java" timestamp="1567759979708" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1567734620806" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1567584474127">
         <mark key="[" line="196" column="33" />
@@ -363,7 +364,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>extends BaseExceptionHandler</text>
+        <text>getCustomerCode</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -481,7 +482,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>extends BaseExceptionHandler</text>
+        <text>getCustomerCode</text>
       </register>
       <register name="m" type="4">
         <keys>
