@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1567672301073">
         <mark key="[" line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterProduct.java" timestamp="1567999345602">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterProduct.java" timestamp="1568008305662">
         <mark key="[" line="155" column="34" />
         <mark key="]" line="153" column="12" />
         <mark key="." line="153" column="12" />
@@ -45,9 +45,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/JarvisEbsStrInterceptor.java" timestamp="1567582996475">
         <mark key="[" line="49" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1568003605267">
-        <mark key="[" line="379" column="69" />
-      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1568007694483" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/MDC.class" timestamp="1567476991190" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1567500573592">
         <mark key="[" line="63" column="29" />
@@ -117,7 +115,7 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/log4j2.xml" timestamp="1567476160212" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/BaseSynchronizeProcessor.java" timestamp="1567999018670" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1567998124231">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1568008275134">
         <mark key="[" line="207" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1567993465821">
@@ -201,7 +199,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/Ordered.java" timestamp="1567740449812" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/data/CustomerDetailRespDTO.java" timestamp="1567498525556" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1567486544365" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1567995840119">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1568008259252">
         <mark key="[" line="256" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/CustomerInterfaceClient.java" timestamp="1567593624249">
@@ -221,7 +219,7 @@
         <mark key="." line="98" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1568000042381">
+      <file name="/Dummy.txt" timestamp="1568007757874">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
