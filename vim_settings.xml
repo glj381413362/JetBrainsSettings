@@ -116,7 +116,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/bo/SpuSyncBO.java" timestamp="1567762922284" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/BrandController.java" timestamp="1568000498051" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1568081825148">
-        <mark key="[" line="83" column="30" />
+        <mark key="[" line="82" column="30" />
         <mark key="]" line="47" column="57" />
         <mark key="." line="47" column="57" />
       </file>
@@ -264,6 +264,7 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-platform/src/main/java/org/hzero/plugin/platform/org/infra/mapper/OperationUnitEsMapper.java" timestamp="1568085151856" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1567415413151">
         <mark key="[" line="148" column="67" />
       </file>
