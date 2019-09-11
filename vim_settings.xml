@@ -40,8 +40,11 @@
         <mark key="[" line="19" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/exception/BaseExceptionHandler.java" timestamp="1567659224344" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1568165308422">
-        <mark key="[" line="14" column="12" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1568185866936">
+        <mark key="[" line="24" column="67" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterProduct.java" timestamp="1568101126923">
         <mark key="[" line="155" column="34" />
@@ -133,7 +136,7 @@
         <mark key="]" line="164" column="10" />
         <mark key="." line="164" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/exception/handler/InfClientResponseErrorHandler.class" timestamp="1568183845239" />
+      <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/exception/handler/InfClientResponseErrorHandler.class" timestamp="1568185611280" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/log4j2.xml" timestamp="1567476160212" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/BaseSynchronizeProcessor.java" timestamp="1567999018670" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1568166635183">
@@ -258,7 +261,7 @@
         <mark key="." line="95" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1568167231450">
+      <file name="/Dummy.txt" timestamp="1568186077685">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -266,13 +269,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/MimeType.java" timestamp="1568184211387" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-platform/src/main/java/org/hzero/plugin/platform/org/infra/mapper/OperationUnitEsMapper.java" timestamp="1568085151856" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1568184245895">
-        <mark key="d" line="117" column="40" />
-        <mark key="'" line="204" column="32" />
-        <mark key="[" line="399" column="60" />
-        <mark key="]" line="399" column="60" />
-        <mark key="." line="399" column="60" />
-        <mark key="^" line="347" column="33" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1568185765799">
+        <mark key="d" line="119" column="40" />
+        <mark key="'" line="206" column="32" />
+        <mark key="[" line="406" column="37" />
+        <mark key="]" line="406" column="37" />
+        <mark key="." line="406" column="37" />
+        <mark key="^" line="349" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1568182132405" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/assembler/CustomerAssembler.java" timestamp="1567584016560" />
@@ -422,7 +425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getMessage</text>
+        <text>&quot;MDM信息准入接口调用失败,原因：[{}]&quot;,</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -540,7 +543,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getMessage</text>
+        <text>&quot;MDM信息准入接口调用失败,原因：[{}]&quot;,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -647,18 +650,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJLy89PT09CgkJCS8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
+      <register name="1" type="4">
+        <text>catch (HttpClientErrorException e) {
+			TransactionAspectSupport.currentTransactionStatus().setRollbackOnly();
+			log.warn(&quot;MDM信息准入接口调用失败，原因[{}]&quot;, e);
+			String responseBodyAsString = e.getResponseBodyAsString();
+			String res = &quot;MDM Server error&quot;;
+			try {
+				CustomerCommonRespDTO errorResp = FastJsonUtil.jsonToObject(responseBodyAsString, CustomerCommonRespDTO.class);
+				res = errorResp.getErrorMsg();
+			} catch (Exception e1) {
+				log.error(&quot;MDM信息准入接口调用失败&quot;);
+			}
+			return Res.failedMsg(&quot;MDM信息准入接口调用失败,原因：[{}]&quot;, res);
+		}</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLy89PT09CgkJCS8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>===========================================================================
 			//  返回顶级父类</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcGFyZW50UGxhdGZvcm1DYXRlZ29yeSA9IG51bGw7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -687,10 +702,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text>else {
-
-			}</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlTdHJpbmcgcGFyZW50UGxhdGZvcm1DYXRlZ29yeSA9IG51bGw7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -727,6 +740,11 @@
         </keys>
       </register>
       <register name="5" type="4">
+        <text>else {
+
+			}</text>
+      </register>
+      <register name="6" type="4">
         <text>.platform_sku_id,
         ps.object_version_number,
         ps.platform_catalog_code,
@@ -735,11 +753,6 @@
         ps.title,
         ps.platform_sku_code,
         ps.master_sku_id</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (ArrayUtils.isNotEmpty(msg)) {
-
-		}</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -754,15 +767,15 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LmV4Y2VwdGlvbmFsbHkoZSAtPiB7CgkJCQkJcmUuc2V0UmVzKENvbW1vblJlcy5GQUlMRUQpOwoJCQkJCXJlLnNldE1zZyhlLmdldE1lc3NhZ2UoKSk7CgkJCQkJdGhyb3cgbmV3IENvbXBsZXRpb25FeGNlcHRpb24oZSk7CgkJCQl9KQ==</text>
+        <text>if (ArrayUtils.isNotEmpty(msg)) {
+
+		}</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CgkJCQkJCQ==</text>
+        <text encoding="base64">LmV4Y2VwdGlvbmFsbHkoZSAtPiB7CgkJCQkJcmUuc2V0UmVzKENvbW1vblJlcy5GQUlMRUQpOwoJCQkJCXJlLnNldE1zZyhlLmdldE1lc3NhZ2UoKSk7CgkJCQkJdGhyb3cgbmV3IENvbXBsZXRpb25FeGNlcHRpb24oZSk7CgkJCQl9KQ==</text>
       </register>
       <register name="9" type="4">
-        <text>if (CollectionUtils.isEmpty(customerForErpRespDTOs)) {
-			return Res.failed(&quot;未查询到数据&quot;);
-		}</text>
+        <text encoding="base64">CgkJCQkJCQ==</text>
       </register>
       <register name="y" type="4">
         <keys>
