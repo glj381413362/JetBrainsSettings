@@ -57,8 +57,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/JarvisEbsStrInterceptor.java" timestamp="1567582996475">
         <mark key="[" line="49" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1568081556755">
-        <mark key="[" line="187" column="50" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1568166745952">
+        <mark key="[" line="387" column="56" />
+        <mark key="]" line="387" column="56" />
+        <mark key="." line="387" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/MDC.class" timestamp="1567476991190" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1567500573592">
@@ -156,7 +158,7 @@
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/exception/handler/InfClientResponseErrorHandler.class" timestamp="1568110794646" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/log4j2.xml" timestamp="1567476160212" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/BaseSynchronizeProcessor.java" timestamp="1567999018670" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1568032777555">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1568166635183">
         <mark key="[" line="68" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1568095390397">
@@ -185,7 +187,7 @@
         <mark key="." line="25" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/annotation/Order.java" timestamp="1567739674402" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/CuxMaterialSynchronizationDTO.java" timestamp="1568002733872" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/CuxMaterialSynchronizationDTO.java" timestamp="1568166424437" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java" timestamp="1568106583153" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.2/mybatis-3.4.2.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd" timestamp="1568103354044" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/SQLException.java" timestamp="1567654503669" />
@@ -279,14 +281,14 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1567433038918">
         <mark key="[" line="138" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1568011866390">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1568166345420">
         <mark key="[" line="65" column="57" />
         <mark key="]" line="95" column="18" />
         <mark key="^" line="106" column="64" />
         <mark key="." line="95" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1568165733487">
+      <file name="/Dummy.txt" timestamp="1568167231450">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -299,13 +301,6 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/assembler/CustomerAssembler.java" timestamp="1567584016560" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/java/com/tencent/fm/oms/basic/data/api/controller/v1/AddressMappingController.java" timestamp="1567475773104">
         <mark key="[" line="37" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1568101197023">
-        <mark key="'" line="175" column="55" />
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="359" column="0" />
-        <mark key="." line="359" column="0" />
-        <mark key="^" line="359" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/CommonRes.java" timestamp="1567764935184">
         <mark key="[" line="56" column="81" />
@@ -453,7 +448,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Long</text>
+        <text>|| StringUtils.isEmpty(epoItemId)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -571,7 +566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>|| StringUtils.isEmpty(epoItemId)</text>
       </register>
       <register name="m" type="4">
         <keys>
