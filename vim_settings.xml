@@ -13,9 +13,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/HttpStatus.class" timestamp="1568108552541" />
       <file name="/GlobalExceptionHandler.java" timestamp="1568111166365" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingQueryReqDTO.java" timestamp="1568251898863" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/ProductsSyncToTLPReqDto.java" timestamp="1568269068923">
-        <mark key="[" line="12" column="4" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/MDC.class" timestamp="1567476991190" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1567500573592">
         <mark key="[" line="63" column="29" />
@@ -315,7 +312,7 @@
         <mark key="^" line="77" column="30" />
         <mark key="." line="202" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1568271620998">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1568272647656">
         <mark key="[" line="56" column="4" />
         <mark key="]" line="56" column="4" />
         <mark key="^" line="32" column="0" />
