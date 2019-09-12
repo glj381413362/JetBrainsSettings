@@ -24,10 +24,10 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/util/CommonPayloadUtil.java" timestamp="1568189417908" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateRespDTO.java" timestamp="1568097842517" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/CodeMatchingFeignClient.java" timestamp="1568259099794">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/CodeMatchingFeignClient.java" timestamp="1568266261025">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="23" column="56" />
+        <mark key="." line="23" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/repository/impl/PlatformCategoryRepositoryImpl.java" timestamp="1568010844136" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1568258023808">
@@ -62,7 +62,7 @@
         <mark key="]" line="104" column="16" />
         <mark key="." line="104" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1568252649401">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1568264940843">
         <mark key="[" line="62" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-platform/src/main/java/com/tencent/fm/oms/platform/PlatformApplication.java" timestamp="1568086526394" />
@@ -126,11 +126,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovSqlHelper.java" timestamp="1567407416312">
         <mark key="[" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/fallback/CodeMatchingFeignImpl.java" timestamp="1568258372217">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="20" column="60" />
-        <mark key="." line="24" column="15" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/fallback/CodeMatchingFeignImpl.java" timestamp="1568265514514">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="21" column="60" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/JarvisApiUtil.java" timestamp="1567582647910" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformSku.java" timestamp="1568255701553">
@@ -155,7 +155,7 @@
         <mark key="[" line="138" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/FastJsonUtil.java" timestamp="1567561873667" />
-      <file name="/Dummy.txt" timestamp="1568259162933">
+      <file name="/Dummy.txt" timestamp="1568266526663">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -534,7 +534,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>htmlStyle</text>
+        <text>@</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -652,7 +652,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>htmlStyle</text>
+        <text>@</text>
       </register>
       <register name="m" type="4">
         <keys>
