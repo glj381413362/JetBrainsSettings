@@ -131,6 +131,7 @@
         <mark key="^" line="473" column="24" />
         <mark key="." line="473" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/inv/impl/InventoryFeignClientImpl.java" timestamp="1568280913562" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/productsSyncToTLPReqDto.java" timestamp="1568259790437">
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="12" />
@@ -335,6 +336,7 @@
         <mark key="." line="92" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/platformCategoryMapper.xml" timestamp="1568024790368" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/impl/ProductFeignClientImpl.java" timestamp="1568281046148" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/messages/messages_zh_CN.properties" timestamp="1568118548649">
         <mark key="[" line="23" column="53" />
       </file>
