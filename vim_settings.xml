@@ -18,6 +18,8 @@
         <mark key="." line="148" column="46" />
         <mark key="^" line="148" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AddressController.java" timestamp="1568603519894" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Invoice.java" timestamp="1568602854330" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/PlatformSkuDTO.java" timestamp="1567994223830">
         <mark key="[" line="110" column="4" />
         <mark key="]" line="110" column="24" />
@@ -153,6 +155,7 @@
         <mark key="." line="256" column="47" />
         <mark key="^" line="62" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/api/dto/InvoiceInfoToImsReqDto.java" timestamp="1568602738413" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/customer/dto/CustomerForErpRespDTO.java" timestamp="1567838089049">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -285,6 +288,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568259666635">
         <mark key="[" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568603769926" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingUpdateReqDTO.java" timestamp="1568193564776">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="0" />
