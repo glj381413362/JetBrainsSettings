@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1969</Count>
+          <Count>1978</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>314</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -374,7 +374,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
