@@ -266,10 +266,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568710164077">
         <mark key="[" line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568717968955">
-        <mark key="[" line="103" column="103" />
-        <mark key="]" line="103" column="103" />
-        <mark key="." line="103" column="103" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568719794603">
+        <mark key="[" line="112" column="12" />
+        <mark key="]" line="112" column="12" />
+        <mark key="." line="112" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/java/com/tencent/fm/oms/basic/data/api/controller/v1/AddressMappingController.java" timestamp="1567475773104">
         <mark key="[" line="37" column="46" />
@@ -410,14 +410,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{
-			Integer defaultFlag = e.getDefaultFlag();
-			if (1 == defaultFlag) {
-				return true;
-			} else {
-				return false;
-			}
-		}</text>
+        <text>any.isPresent()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -535,7 +528,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>any.isPresent()</text>
       </register>
       <register name="m" type="4">
         <keys>
