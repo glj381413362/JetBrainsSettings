@@ -89,7 +89,7 @@
         <mark key="^" line="460" column="24" />
         <mark key="." line="460" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568710323080">
+      <file name="/Dummy.txt" timestamp="1568717640580">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -161,14 +161,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/config/SwaggerTagConfiguration.java" timestamp="1568193138577">
         <mark key="[" line="68" column="76" />
       </file>
+      <file name="/AttachmentServiceImpl.java" timestamp="1568715689741" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/autoconfigure/ProductAutoConfiguration.java" timestamp="1568599568085">
         <mark key="[" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1568623081787">
         <mark key="[" line="99" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1568708564149">
-        <mark key="[" line="102" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformCategoryServiceImpl.java" timestamp="1568274149290">
         <mark key="[" line="175" column="87" />
@@ -268,10 +266,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568710164077">
         <mark key="[" line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568713805313">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="38" column="57" />
-        <mark key="." line="38" column="57" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568717968955">
+        <mark key="[" line="103" column="103" />
+        <mark key="]" line="103" column="103" />
+        <mark key="." line="103" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/java/com/tencent/fm/oms/basic/data/api/controller/v1/AddressMappingController.java" timestamp="1567475773104">
         <mark key="[" line="37" column="46" />
@@ -412,7 +410,14 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>{
+			Integer defaultFlag = e.getDefaultFlag();
+			if (1 == defaultFlag) {
+				return true;
+			} else {
+				return false;
+			}
+		}</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -530,7 +535,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -638,16 +643,23 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Cglwcml2YXRlIFJlcygpewoJCQoJfQ==</text>
+        <text>{
+			Integer defaultFlag = e.getDefaultFlag();
+			if (1 == defaultFlag) {
+				return true;
+			} else {
+				return false;
+			}
+		}</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cm9vdCBsZXZlbD0iIj4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cglwcml2YXRlIFJlcygpewoJCQoJfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CVN0cmluZ0J1aWxkZXIgbWF0aVR5cGUgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwoJCQk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8cm9vdCBsZXZlbD0iIj4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -677,7 +689,7 @@
         </keys>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CWNvbXBsZXRhYmxlRnV0dXJlcy5zdHJlYW0oKQoJCQkJLm1hcChjb21wbGV0YWJsZUZ1dHVyZSAtPmNvbXBsZXRhYmxlRnV0dXJlCgkJCQkudGhlbkFwcGx5KCkp</text>
+        <text encoding="base64">CVN0cmluZ0J1aWxkZXIgbWF0aVR5cGUgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwoJCQk=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -714,10 +726,10 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgLyoqCiAgICAgKiDmoLnmja5jb2RlIOafpeivonBsYXRmb3JtIHNrdSDkv6Hmga8KICAgICAqIEBwYXJhbSBwbGF0Zm9ybVNrdUNvZGUgc2t1IGNvZGUKICAgICAqIEBwYXJhbSBwbGF0Zm9ybVR5cGVDb2RlIOW5s+WPsOexu+WeiwogICAgICogQHJldHVybgogICAgICovCiAgICBAR2V0TWFwcGluZwogICAgUmVzcG9uc2VFbnRpdHk8UGxhdGZvcm1Ta3VEVE8+IGxpc3QoQFJlcXVlc3RQYXJhbSgicGxhdGZvcm1Ta3VDb2RlIikgU3RyaW5nIHBsYXRmb3JtU2t1Q29kZSwgQFJlcXVlc3RQYXJhbSgicGxhdGZvcm1UeXBlQ29kZSIpIFN0cmluZyBwbGF0Zm9ybVR5cGVDb2RlKTs=</text>
+        <text encoding="base64">CWNvbXBsZXRhYmxlRnV0dXJlcy5zdHJlYW0oKQoJCQkJLm1hcChjb21wbGV0YWJsZUZ1dHVyZSAtPmNvbXBsZXRhYmxlRnV0dXJlCgkJCQkudGhlbkFwcGx5KCkp</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CXBsYXRmb3JtU2t1UmVwb3NpdG9yeS5zZWxlY3RCeUNvbmRpdGlvbihDb25kaXRpb24uYnVpbGRlcihQbGF0Zm9ybVNrdS5jbGFzcykKCQkJCQkJLmFuZFdoZXJlKFNxbHMuY3VzdG9tKCkKCQkJCQkJCQkuYW5kRXF1YWxUbyhQbGF0Zm9ybVNrdS5mLCBQbGF0Zm9ybVNrdS4pCgkJCQkJCSkuYnVpbGQoKSkp</text>
+        <text encoding="base64">ICAgLyoqCiAgICAgKiDmoLnmja5jb2RlIOafpeivonBsYXRmb3JtIHNrdSDkv6Hmga8KICAgICAqIEBwYXJhbSBwbGF0Zm9ybVNrdUNvZGUgc2t1IGNvZGUKICAgICAqIEBwYXJhbSBwbGF0Zm9ybVR5cGVDb2RlIOW5s+WPsOexu+WeiwogICAgICogQHJldHVybgogICAgICovCiAgICBAR2V0TWFwcGluZwogICAgUmVzcG9uc2VFbnRpdHk8UGxhdGZvcm1Ta3VEVE8+IGxpc3QoQFJlcXVlc3RQYXJhbSgicGxhdGZvcm1Ta3VDb2RlIikgU3RyaW5nIHBsYXRmb3JtU2t1Q29kZSwgQFJlcXVlc3RQYXJhbSgicGxhdGZvcm1UeXBlQ29kZSIpIFN0cmluZyBwbGF0Zm9ybVR5cGVDb2RlKTs=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -731,10 +743,13 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CXBsYXRmb3JtU2t1UmVwb3NpdG9yeS5zZWxlY3RCeUNvbmRpdGlvbihDb25kaXRpb24uYnVpbGRlcihQbGF0Zm9ybVNrdS5jbGFzcykKCQkJCQkJLmFuZFdoZXJlKFNxbHMuY3VzdG9tKCkKCQkJCQkJCQkuYW5kRXF1YWxUbyhQbGF0Zm9ybVNrdS5mLCBQbGF0Zm9ybVNrdS4pCgkJCQkJCSkuYnVpbGQoKSkp</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">QERhdGEK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>catch (HttpClientErrorException e) {
 			TransactionAspectSupport.currentTransactionStatus().setRollbackOnly();
 			log.warn(&quot;MDM信息准入接口调用失败，原因[{}]&quot;, e);
@@ -748,9 +763,6 @@
 			}
 			return Res.failedMsg(&quot;MDM信息准入接口调用失败,原因：[{}]&quot;, res);
 		}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJLy89PT09CgkJCS8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
