@@ -53,7 +53,7 @@
         <mark key="]" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/TLPInterfaceClient.java" timestamp="1568687095350">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/TLPInterfaceClient.java" timestamp="1568798937047">
         <mark key="[" line="25" column="95" />
         <mark key="]" line="25" column="95" />
         <mark key="." line="25" column="95" />
@@ -140,7 +140,7 @@
         <mark key="]" line="387" column="56" />
         <mark key="." line="387" column="56" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1568797776805" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1568799304181" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletionException.java" timestamp="1568794914378" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/message/service/impl/MessageSendServiceImpl.java" timestamp="1568787319861" />
       <file name="/AttachmentServiceImpl.java" timestamp="1568715689741" />
@@ -148,6 +148,11 @@
         <mark key="[" line="99" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1568787418010" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/BrandController.java" timestamp="1568799095783">
+        <mark key="[" line="66" column="97" />
+        <mark key="]" line="66" column="97" />
+        <mark key="." line="66" column="97" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/data/InfClientConfig.class" timestamp="1568628906195" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-metadata/src/main/java/com/tencent/fm/oms/basic/data/api/controller/v1/CountryController.java" timestamp="1568626513775">
         <mark key="[" line="65" column="80" />
@@ -208,6 +213,7 @@
         <mark key="]" line="7" column="51" />
         <mark key="." line="7" column="51" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/CollectionUtils.java" timestamp="1568799412856" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PlatformSkuDTO.java" timestamp="1568792183282">
         <mark key="]" line="92" column="31" />
         <mark key="." line="92" column="31" />
@@ -232,7 +238,7 @@
         <mark key="^" line="98" column="64" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568797941301">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568799524308">
         <mark key="[" line="37" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568729528466">
@@ -377,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LmV4Y2VwdGlvbmFsbHkoZSAtPiB7CgkJCQkJU3RyaW5nIG1lc3NhZ2UgPSBlLmdldE1lc3NhZ2UoKTsKCQkJCQlsb2cuaW5mbygiLS0tLS0tLXt9IixtZXNzYWdlKTsKCQkJCQl0aHJvdyBuZXcgQ29tcGxldGlvbkV4Y2VwdGlvbihlKTsKCQkJCX0p</text>
+        <text>null</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -495,7 +501,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <keys>
