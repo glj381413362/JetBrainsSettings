@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2034</Count>
+          <Count>2043</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -142,7 +142,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>320</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -678,7 +678,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'⇧⌘B' or '⌃⇧B'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
