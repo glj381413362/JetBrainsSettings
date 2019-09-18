@@ -18,6 +18,9 @@
         <mark key="." line="38" column="47" />
         <mark key="^" line="147" column="46" />
       </file>
+      <file name="/a.dummy" timestamp="1568803406499">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1568621387997">
         <mark key="[" line="112" column="16" />
         <mark key="]" line="112" column="16" />
@@ -60,10 +63,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1568623081787">
         <mark key="[" line="99" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/BrandController.java" timestamp="1568799095783">
-        <mark key="[" line="66" column="97" />
-        <mark key="]" line="66" column="97" />
-        <mark key="." line="66" column="97" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/BrandController.java" timestamp="1568803340069">
+        <mark key="[" line="65" column="56" />
+        <mark key="]" line="69" column="97" />
+        <mark key="." line="69" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1568800289347" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1568604988771">
@@ -113,7 +116,7 @@
         <mark key="]" line="24" column="77" />
         <mark key="." line="24" column="77" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1568802111875" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1568803722207" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/constant/Constants.java" timestamp="1568604600422">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="44" />
@@ -185,9 +188,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressQueryRespDTO.java" timestamp="1568604631490">
         <mark key="[" line="66" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568801844534">
-        <mark key="[" line="37" column="72" />
-      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568803933335" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568729528466">
         <mark key="[" line="109" column="12" />
         <mark key="]" line="109" column="12" />
@@ -208,7 +209,7 @@
         <mark key="]" line="145" column="12" />
         <mark key="." line="145" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1568802210496">
+      <file name="/fragment.java" timestamp="1568803482871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
