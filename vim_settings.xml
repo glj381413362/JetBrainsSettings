@@ -81,7 +81,7 @@
         <mark key="." line="25" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1568627289900" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/message/service/impl/MessageSendServiceImpl.java" timestamp="1568782027306" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/message/service/impl/MessageSendServiceImpl.java" timestamp="1568783571409" />
       <file name="/AttachmentServiceImpl.java" timestamp="1568715689741" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1568623081787">
         <mark key="[" line="99" column="57" />
