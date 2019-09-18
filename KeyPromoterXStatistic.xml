@@ -166,7 +166,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>337</Count>
+          <Count>338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -510,7 +510,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>173</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerApplication'">
