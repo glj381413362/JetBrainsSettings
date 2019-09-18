@@ -46,7 +46,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-sit.yml" timestamp="1568623879016">
         <mark key="[" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1568800942435">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1568801663226">
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="42" />
         <mark key="." line="63" column="42" />
@@ -113,6 +113,7 @@
         <mark key="]" line="24" column="77" />
         <mark key="." line="24" column="77" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1568802111875" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/constant/Constants.java" timestamp="1568604600422">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="44" />
@@ -184,7 +185,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/AddressQueryRespDTO.java" timestamp="1568604631490">
         <mark key="[" line="66" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568799524308">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" timestamp="1568801844534">
         <mark key="[" line="37" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AddressServiceImpl.java" timestamp="1568729528466">
@@ -206,6 +207,11 @@
         <mark key="[" line="145" column="12" />
         <mark key="]" line="145" column="12" />
         <mark key="." line="145" column="12" />
+      </file>
+      <file name="/fragment.java" timestamp="1568802210496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -337,7 +343,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CommonException</text>
+        <text>appKey</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -455,7 +461,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CommonException</text>
+        <text>appKey</text>
       </register>
       <register name="m" type="4">
         <keys>
