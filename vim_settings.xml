@@ -49,7 +49,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-sit.yml" timestamp="1568623879016">
         <mark key="[" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1568811258190" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1568812660543">
+        <mark key="[" line="95" column="72" />
+        <mark key="]" line="95" column="72" />
+        <mark key="." line="95" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/PlatformSkuService.java" timestamp="1568598623887">
         <mark key="[" line="111" column="48" />
       </file>
@@ -64,7 +68,7 @@
         <mark key="]" line="69" column="97" />
         <mark key="." line="69" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1568800289347" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1568812730899" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1568604988771">
         <mark key="[" line="104" column="15" />
         <mark key="]" line="104" column="16" />
@@ -131,6 +135,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/service/impl/JarvisFileTransferServiceImpl.java" timestamp="1568780458964">
         <mark key="[" line="23" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/CustomerForErpConvertJob.java" timestamp="1568812100839">
+        <mark key="[" line="94" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/log4j2.xml" timestamp="1568622735304">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="51" />
@@ -170,7 +177,7 @@
         <mark key="^" line="98" column="64" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568800946812">
+      <file name="/Dummy.txt" timestamp="1568812439129">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -340,7 +347,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>appKey</text>
+        <text>Customer.FIELD_CUSTOMER_CODE, customerId)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -458,7 +465,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appKey</text>
+        <text>Customer.FIELD_CUSTOMER_CODE, customerId)</text>
       </register>
       <register name="m" type="4">
         <keys>
