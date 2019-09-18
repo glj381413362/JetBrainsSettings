@@ -89,7 +89,7 @@
         <mark key="^" line="460" column="24" />
         <mark key="." line="460" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568730246611">
+      <file name="/Dummy.txt" timestamp="1568770377826">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -111,10 +111,10 @@
         <mark key="]" line="290" column="51" />
         <mark key="." line="290" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1568728355502">
-        <mark key="[" line="171" column="13" />
-        <mark key="]" line="171" column="13" />
-        <mark key="." line="171" column="13" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1568770175945">
+        <mark key="[" line="168" column="58" />
+        <mark key="]" line="170" column="13" />
+        <mark key="." line="170" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/domain/entity/Customer.java" timestamp="1568706846111">
         <mark key="[" line="145" column="12" />
@@ -140,6 +140,9 @@
         <mark key="^" line="147" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/util/JarvisFileApiHttpUtil.java" timestamp="1568710270372" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/messages/messages_en_US.properties" timestamp="1568731268207">
+        <mark key="[" line="27" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1568608748112">
         <mark key="[" line="21" column="72" />
       </file>
@@ -240,8 +243,8 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/InvoiceServiceImpl.java" timestamp="1568684818884" />
       <file name="$MAVEN_REPOSITORY$/com/github/jsqlparser/jsqlparser/1.2/jsqlparser-1.2.jar!/net/sf/jsqlparser/parser/CCJSqlParserUtil.class" timestamp="1568609288471" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/messages/messages_zh_CN.properties" timestamp="1568118548649">
-        <mark key="[" line="23" column="53" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/messages/messages_zh_CN.properties" timestamp="1568731253633">
+        <mark key="[" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/handler/IJobRecordHandler.java" timestamp="1568618068842">
         <mark key="[" line="72" column="4" />
