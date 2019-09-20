@@ -166,7 +166,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>348</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
