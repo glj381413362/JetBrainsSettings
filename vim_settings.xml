@@ -7,7 +7,7 @@
         <mark key="[" line="62" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/api/dto/OrderInvoiceRespDto.java" timestamp="1568875725624" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1568959144849">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1568968666697">
         <mark key="[" line="284" column="32" />
         <mark key="]" line="253" column="76" />
         <mark key="^" line="253" column="76" />
@@ -35,7 +35,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovValueHelper.java" timestamp="1568946400360">
         <mark key="[" line="105" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/exception/BaseExceptionHandler.java" timestamp="1568962521781" />
+      <file name="$MAVEN_REPOSITORY$/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/exception/BaseExceptionHandler.java" timestamp="1568968200606" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/queryRespDTO.java.vm" timestamp="1568864344641">
         <mark key="[" line="32" column="8" />
       </file>
@@ -85,7 +85,7 @@
         <mark key="[" line="99" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1568884026645" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/GlobalExceptionHandler.java" timestamp="1568966002831">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/GlobalExceptionHandler.java" timestamp="1568968131000">
         <mark key="[" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/api/controller/v1/PriceListController.java" timestamp="1568881920755" />
@@ -102,7 +102,7 @@
         <mark key="[" line="84" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/PriceListDTO.java" timestamp="1568874151300" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1568946471842">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1568968651149">
         <mark key="'" line="92" column="49" />
         <mark key="[" line="194" column="42" />
         <mark key="]" line="99" column="18" />
