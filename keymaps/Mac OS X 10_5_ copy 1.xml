@@ -18,6 +18,10 @@
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="shift m" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="Popup.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="shift alt r" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
