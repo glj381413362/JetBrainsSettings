@@ -28,8 +28,11 @@
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/ServiceImpl.java.vm" timestamp="1568881704850">
         <mark key="[" line="109" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AddressController.java" timestamp="1568604943649">
-        <mark key="[" line="54" column="50" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/AddressController.java" timestamp="1569208092913">
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="53" column="15" />
+        <mark key="." line="53" column="16" />
       </file>
       <file name="/GlobalExceptionHandler.java" timestamp="1568963270030" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovValueHelper.java" timestamp="1568946400360">
@@ -176,7 +179,7 @@
         <mark key="." line="132" column="33" />
       </file>
       <file name="$USER_HOME$/Downloads/main/java/a/api/controller/dto/PriceListInsertRespDTO.java" timestamp="1568864128594" />
-      <file name="/Dummy.txt" timestamp="1568966009719">
+      <file name="/Dummy.txt" timestamp="1569208099407">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -338,7 +341,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>failed</text>
+        <text>level = ResourceLevel.ORGANIZATION</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -456,7 +459,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>failed</text>
+        <text>level = ResourceLevel.ORGANIZATION</text>
       </register>
       <register name="m" type="4">
         <keys>
