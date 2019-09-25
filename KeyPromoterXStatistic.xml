@@ -478,7 +478,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>35</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
