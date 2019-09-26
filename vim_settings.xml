@@ -11,6 +11,11 @@
         <mark key="]" line="63" column="33" />
         <mark key="." line="63" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1569462537491">
+        <mark key="[" line="183" column="21" />
+        <mark key="]" line="183" column="21" />
+        <mark key="." line="183" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/constant/Constants.java" timestamp="1569406716861" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1569381783730">
         <mark key="[" line="104" column="18" />
@@ -34,6 +39,7 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/org/hzero/scheduler/infra/listener/JobLogBackListener.java" timestamp="1569414559945" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListQueryDTO.java" timestamp="1569406222903" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/repository/impl/MasterCategoryRepositoryImpl.java" timestamp="1569462039809" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/PlatformSkuService.java" timestamp="1569379602731">
         <mark key="[" line="116" column="7" />
         <mark key="]" line="116" column="7" />
@@ -55,6 +61,7 @@
         <mark key="]" line="49" column="17" />
         <mark key="." line="49" column="17" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/function/Function.java" timestamp="1569462180499" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1569391426526">
         <mark key="[" line="69" column="24" />
         <mark key="]" line="69" column="24" />
@@ -67,7 +74,7 @@
         <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1569404554251" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1569460356075">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1569461192461">
         <mark key="[" line="289" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1569395310096">
@@ -216,7 +223,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>priceListQueryDTO</text>
+        <text>MasterCategory::getMasterCategoryId)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -334,7 +341,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>priceListQueryDTO</text>
+        <text>MasterCategory::getMasterCategoryId)</text>
       </register>
       <register name="m" type="4">
         <keys>
