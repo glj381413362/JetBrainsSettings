@@ -42,6 +42,7 @@
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/domain/service/impl/LovDomainServiceImpl.class" timestamp="1569577281264" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1569465354609" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback.xml" timestamp="1569465011304">
         <mark key="[" line="46" column="34" />
