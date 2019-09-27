@@ -46,7 +46,7 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/function/Function.java" timestamp="1569462180499" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformSku.java" timestamp="1569491228146" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1569557437137" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/AttachmentServiceImpl.java" timestamp="1569572597503" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-resource/groovy/tencent_oms/o2pcm/o2pcm_platform_sku.groovy" timestamp="1569463943619" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1569466222923">
         <mark key="[" line="61" column="12" />
@@ -62,6 +62,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1569404554251" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/test/DevTestMain.java" timestamp="1569572884636" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1569461192461">
         <mark key="[" line="289" column="77" />
       </file>
