@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
