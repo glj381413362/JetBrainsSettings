@@ -246,7 +246,7 @@
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Refresh</Description>
-          <Count>5</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -694,7 +694,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
