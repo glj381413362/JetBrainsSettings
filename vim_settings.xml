@@ -67,7 +67,6 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/pom.xml" timestamp="1569333183689">
         <mark key="[" line="254" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback.xml" timestamp="1569750871031" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformSku.java" timestamp="1569726771339">
         <mark key="[" line="273" column="32" />
       </file>
@@ -108,9 +107,9 @@
         <mark key="[" line="203" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/annotations/Log.java" timestamp="1569750689650">
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1569579869499">
         <mark key="[" line="0" column="0" />
