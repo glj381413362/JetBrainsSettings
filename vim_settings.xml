@@ -7,15 +7,17 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1569752299280">
         <mark key="[" line="70" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/com/tencent/fm/oms/scheduler/api/controller/v1/JobRecordController.java" timestamp="1569808042644" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/infra/constant/Constants.java" timestamp="1569749868239" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1569750788209">
         <mark key="[" line="43" column="0" />
       </file>
       <file name="/logback.xml" timestamp="1569750939903" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/scheduler/SchedulerFeign.java" timestamp="1569806219508" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/scheduler/SchedulerFeign.java" timestamp="1569807712948" />
       <file name="/MasterSkuServiceImpl.java" timestamp="1569751371360" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1569749475741" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-interface/src/main/java/com/tencent/fm/oms/inf/api/controller/v1/ExampleController.java" timestamp="1569749415640" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/com/tencent/fm/oms/scheduler/domain/entity/JobRecord.java" timestamp="1569807830181" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1569751391956">
         <mark key="[" line="61" column="12" />
         <mark key="]" line="160" column="16" />
@@ -23,7 +25,7 @@
         <mark key="." line="160" column="16" />
       </file>
       <file name="/DefaultLovMeaningSqlTransformer.java" timestamp="1569750631929" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1569806309219" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1569807255062" />
       <file name="/Dummy.txt" timestamp="1569753005183">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
