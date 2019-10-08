@@ -10,19 +10,24 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1569750788209">
-        <mark key="[" line="43" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/test/DevTestMain.java" timestamp="1570525017425" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1569752299280">
         <mark key="[" line="70" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-front-pcm/config/routers.js" timestamp="1570524294464" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1570502634738" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1569750788209">
+        <mark key="[" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-front-pcm/src/models/categoryList/index.js" timestamp="1570524167234" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1569751391956">
         <mark key="[" line="61" column="12" />
         <mark key="]" line="160" column="16" />
         <mark key="^" line="160" column="16" />
         <mark key="." line="160" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1570502634738" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/client/JarvisFileApi.java" timestamp="1570524806162" />
+      <file name="$USER_HOME$/workspace/tencent-oms-front-pcm/src/models/platformProduct/index.js" timestamp="1570524405355" />
     </filemarks>
     <jumps>
       <jump line="13" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
