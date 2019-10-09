@@ -166,7 +166,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>454</Count>
+          <Count>458</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -198,7 +198,7 @@
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
           <ShortCut>'⌥⇧⌘V'</ShortCut>
           <Description>Paste Simple</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -382,7 +382,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
