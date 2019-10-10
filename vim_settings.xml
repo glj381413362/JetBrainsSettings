@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1570609817742" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/pom.xml" timestamp="1570678524060" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1569752299280">
         <mark key="[" line="70" column="17" />
       </file>
@@ -17,32 +17,31 @@
       <file name="$USER_HOME$/Maven_Repository/com/tencent/oa/fm/jarvis-workflow-client-http/1.0-SNAPSHOT/jarvis-workflow-client-http-1.0-SNAPSHOT.jar!/com/tencent/oa/fm/jarvis/workflow/client/config/WorkflowClientProxyConfig.class" timestamp="1570603415505" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/callback/ProcessCallbackImpl.java" timestamp="1570607858627" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1570610139378" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/pom.xml" timestamp="1570616812452">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/client/JarvisFileApi.java" timestamp="1570678322414" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/pom.xml" timestamp="1570678793199">
         <mark key="'" line="137" column="44" />
-        <mark key="[" line="206" column="31" />
-        <mark key="]" line="206" column="31" />
+        <mark key="[" line="162" column="11" />
+        <mark key="]" line="162" column="11" />
         <mark key="^" line="138" column="0" />
-        <mark key="." line="206" column="31" />
+        <mark key="." line="162" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/resources/application.properties" timestamp="1570614941481">
         <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/WorkflowActionServiceImpl.java" timestamp="1570606065748" />
+      <file name="$USER_HOME$/Maven_Repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class" timestamp="1570676727291" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/com/sun/security/auth/callback/DialogCallbackHandler.java" timestamp="1570607962369" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/spring-core-context.xml" timestamp="1570615278317">
         <mark key="[" line="5" column="59" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class" timestamp="1570613907172" />
+      <file name="$USER_HOME$/Maven_Repository/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12.jar!/org/apache/zookeeper/ClientCnxn.class" timestamp="1570674802385" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/demo/DemoServiceImpl.java" timestamp="1570605466869" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-sit.yml" timestamp="1570611245213" />
-      <file name="$USER_HOME$/workspace/tencent-workflow/pom.xml" timestamp="1570610837044">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="118" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application-prod.yml" timestamp="1570613076697" />
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/cloud/spring-cloud-zookeeper-discovery/2.0.0.RELEASE/spring-cloud-zookeeper-discovery-2.0.0.RELEASE.jar!/org/springframework/cloud/zookeeper/serviceregistry/ZookeeperServiceRegistry.class" timestamp="1570674706244" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/com/sun/glass/ui/swt/SWTApplication.java" timestamp="1570608141142" />
+      <file name="$USER_HOME$/Maven_Repository/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/ClientCnxn.java" timestamp="1570679032175" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/WorkflowApplication.java" timestamp="1570614647202">
         <mark key="[" line="16" column="22" />
       </file>
@@ -50,7 +49,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-gateway/src/main/resources/application-sit.yml" timestamp="1570672140347">
         <mark key="[" line="91" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1570612414304" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/pom.xml" timestamp="1570676040463" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/docker/Dockerfile" timestamp="1570612362534">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -59,6 +58,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application-sit.yml" timestamp="1570614007418">
         <mark key="[" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/var/log/tencent-oms/tencent-oms-customer.2019-09-25.log" timestamp="1570676511942" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/callback/MyOACallbackImpl.java" timestamp="1570603662969" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot-starter-parent/2.1.6.RELEASE/spring-boot-starter-parent-2.1.6.RELEASE.pom" timestamp="1570602384271">
         <mark key="[" line="3" column="29" />
@@ -215,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnNwcmluZy5hcHBsaWNhdGlvbi5kYXRhc291cmNlLgp1cmwuIAp1c2VybmFtZS4gCnBhc3N3b3JkLiAKZHJpdmVyLWNsYXNzLW5hbWUuIGNvbS5teXNxbC5qZGJjLkRyaXZlcgptYWluLgphbGxvdy1iZWFuLWRlZmluaXRpb24tb3ZlcnJpZGluZy4gdHJ1ZQ==</text>
+        <text encoding="base64">IDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+aW8uc3ByaW5nZm94PC9ncm91cElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -441,16 +441,16 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CnNwcmluZy5hcHBsaWNhdGlvbi5kYXRhc291cmNlLgp1cmwuIAp1c2VybmFtZS4gCnBhc3N3b3JkLiAKZHJpdmVyLWNsYXNzLW5hbWUuIGNvbS5teXNxbC5qZGJjLkRyaXZlcgptYWluLgphbGxvdy1iZWFuLWRlZmluaXRpb24tb3ZlcnJpZGluZy4gdHJ1ZQ==</text>
+        <text encoding="base64">IDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+aW8uc3ByaW5nZm94PC9ncm91cElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4=</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICk=</text>
+        <text encoding="base64">CnNwcmluZy5hcHBsaWNhdGlvbi5kYXRhc291cmNlLgp1cmwuIAp1c2VybmFtZS4gCnBhc3N3b3JkLiAKZHJpdmVyLWNsYXNzLW5hbWUuIGNvbS5teXNxbC5qZGJjLkRyaXZlcgptYWluLgphbGxvdy1iZWFuLWRlZmluaXRpb24tb3ZlcnJpZGluZy4gdHJ1ZQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAoJCQnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM5Z2a5p6c5aOz5LiN5piv56Gs5aOz44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qIENDIDQuMCBCWS1TQSDniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKCQkJ5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4OTU0NjcvYXJ0aWNsZS9kZXRhaWxzLzIxNzAzMDMx</text>
+        <text encoding="base64">ICk=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -479,8 +479,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxyb290IGxldmVsPSIiPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAoJCQnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM5Z2a5p6c5aOz5LiN5piv56Gs5aOz44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qIENDIDQuMCBCWS1TQSDniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKCQkJ5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4OTU0NjcvYXJ0aWNsZS9kZXRhaWxzLzIxNzAzMDMx</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -516,13 +516,13 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxyb290IGxldmVsPSIiPgo=</text>
+      </register>
+      <register name="6" type="4">
         <text>catch (SecurityException e1) {
 									e1.printStackTrace();
 								}</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBDdXN0b21lckNvbW1vblJlc3BEVE8gZXJyb3JSZXNwID0gRmFzdEpzb25VdGlsLmpzb25Ub09iamVjdChyZXNwb25zZUJvZHlBc1N0cmluZywgQ3VzdG9tZXJDb21tb25SZXNwRFRPLmNsYXNzKTsKICAgICAgICAgICAgICAgIHJldHVybiBSZXMuZmFpbGVkTXNnKGVycm9yUmVzcC5nZXRFcnJvck1zZygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUxKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIk1ETeS/oeaBr+S/ruaUueaOpeWPo+iwg+eUqOWksei0pSIpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -537,13 +537,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiNmb3JlYWNoICgkY29sdW1uIGluICRjb2x1bW5zKQogICAgI2lmKCRjb2x1bW4uY29sdW1uTmFtZSAhPSAib2JqZWN0X3ZlcnNpb25fbnVtYmVyIiAmJiAkY29sdW1uLmNvbHVtbk5hbWUgIT0gImNyZWF0aW9uX2RhdGUiICYmCiAgICAgICAgJGNvbHVtbi5jb2x1bW5OYW1lICE9ICJjcmVhdGVkX2J5IiAmJiAkY29sdW1uLmNvbHVtbk5hbWUgIT0gImxhc3RfdXBkYXRlX2RhdGUiICYmICRjb2x1bW4uY29sdW1uTmFtZSAhPQogICAgICAgICJsYXN0X3VwZGF0ZWRfYnkiKQogICAgICAgICNpZigkY29sdW1uLmNvbHVtbk5hbWUgPT0gJHBrLmNvbHVtbk5hbWUpCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSgiJGNvbHVtbi5jb21tZW50cyIpCiAgICAjZWxzZQogICAgI2lmKCRjb2x1bW4ubnVsbEFibGUgPT0gJ05PJykKICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIiRjb2x1bW4uY29tbWVudHMiLCByZXF1aXJlZCA9IHRydWUpCiAgICAjaWYoJGNvbHVtbi5hdHRyVHlwZSA9PSAnU3RyaW5nJykKICAgIEBOb3RCbGFuawogICAgI2Vsc2UKICAgIEBOb3ROdWxsCiAgICAjZW5kCiAgICAjZWxzZQogICAgQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAiJGNvbHVtbi5jb21tZW50cyIpCiAgICAjZW5kCiAgICAjZW5kCglwcml2YXRlICRjb2x1bW4uYXR0clR5cGUgJGNvbHVtbi5hdHRybmFtZTsKICAgICNlbmQKI2VuZA==</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBDdXN0b21lckNvbW1vblJlc3BEVE8gZXJyb3JSZXNwID0gRmFzdEpzb25VdGlsLmpzb25Ub09iamVjdChyZXNwb25zZUJvZHlBc1N0cmluZywgQ3VzdG9tZXJDb21tb25SZXNwRFRPLmNsYXNzKTsKICAgICAgICAgICAgICAgIHJldHVybiBSZXMuZmFpbGVkTXNnKGVycm9yUmVzcC5nZXRFcnJvck1zZygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUxKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIk1ETeS/oeaBr+S/ruaUueaOpeWPo+iwg+eUqOWksei0pSIpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LmV4Y2VwdGlvbmFsbHkoZSAtPiB7CgkJCQkJU3RyaW5nIG1lc3NhZ2UgPSBlLmdldE1lc3NhZ2UoKTsKCQkJCQlsb2cuaW5mbygiLS0tLS0tLXt9IixtZXNzYWdlKTsKCQkJCQl0aHJvdyBuZXcgQ29tcGxldGlvbkV4Y2VwdGlvbihlKTsKCQkJCX0p</text>
+        <text encoding="base64">CiNmb3JlYWNoICgkY29sdW1uIGluICRjb2x1bW5zKQogICAgI2lmKCRjb2x1bW4uY29sdW1uTmFtZSAhPSAib2JqZWN0X3ZlcnNpb25fbnVtYmVyIiAmJiAkY29sdW1uLmNvbHVtbk5hbWUgIT0gImNyZWF0aW9uX2RhdGUiICYmCiAgICAgICAgJGNvbHVtbi5jb2x1bW5OYW1lICE9ICJjcmVhdGVkX2J5IiAmJiAkY29sdW1uLmNvbHVtbk5hbWUgIT0gImxhc3RfdXBkYXRlX2RhdGUiICYmICRjb2x1bW4uY29sdW1uTmFtZSAhPQogICAgICAgICJsYXN0X3VwZGF0ZWRfYnkiKQogICAgICAgICNpZigkY29sdW1uLmNvbHVtbk5hbWUgPT0gJHBrLmNvbHVtbk5hbWUpCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSgiJGNvbHVtbi5jb21tZW50cyIpCiAgICAjZWxzZQogICAgI2lmKCRjb2x1bW4ubnVsbEFibGUgPT0gJ05PJykKICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIiRjb2x1bW4uY29tbWVudHMiLCByZXF1aXJlZCA9IHRydWUpCiAgICAjaWYoJGNvbHVtbi5hdHRyVHlwZSA9PSAnU3RyaW5nJykKICAgIEBOb3RCbGFuawogICAgI2Vsc2UKICAgIEBOb3ROdWxsCiAgICAjZW5kCiAgICAjZWxzZQogICAgQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAiJGNvbHVtbi5jb21tZW50cyIpCiAgICAjZW5kCiAgICAjZW5kCglwcml2YXRlICRjb2x1bW4uYXR0clR5cGUgJGNvbHVtbi5hdHRybmFtZTsKICAgICNlbmQKI2VuZA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LmhhbmRsZSgoYSxjKS0+ewoJCQkJCWlmIChjICE9IG51bGwpIHsKCQkJCQkJU3RyaW5nIG1lc3NhZ2UgPSBjLmdldE1lc3NhZ2UoKTsKCgkJCQkJfQoJCQkJfSku</text>
+        <text encoding="base64">LmV4Y2VwdGlvbmFsbHkoZSAtPiB7CgkJCQkJU3RyaW5nIG1lc3NhZ2UgPSBlLmdldE1lc3NhZ2UoKTsKCQkJCQlsb2cuaW5mbygiLS0tLS0tLXt9IixtZXNzYWdlKTsKCQkJCQl0aHJvdyBuZXcgQ29tcGxldGlvbkV4Y2VwdGlvbihlKTsKCQkJCX0p</text>
       </register>
       <register name="y" type="4">
         <keys>
