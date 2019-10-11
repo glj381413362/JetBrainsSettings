@@ -32,6 +32,13 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/docker/Dockerfile" timestamp="1570760404812" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/CustomerApplication.java" timestamp="1570773264278" />
       <file name="$USER_HOME$/Maven_Repository/io/github/openfeign/feign-core/9.7.0/feign-core-9.7.0-sources.jar!/feign/SynchronousMethodHandler.java" timestamp="1570758611689" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/pom.xml" timestamp="1570783363535">
+        <mark key="'" line="173" column="31" />
+        <mark key="[" line="191" column="64" />
+        <mark key="]" line="191" column="64" />
+        <mark key="^" line="168" column="0" />
+        <mark key="." line="191" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1570781483366">
         <mark key="[" line="74" column="33" />
       </file>
@@ -67,7 +74,7 @@
         <mark key="[" line="80" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-prod.yml" timestamp="1570671532100" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1570782055785">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1570782756701">
         <mark key="[" line="202" column="36" />
         <mark key="]" line="202" column="36" />
         <mark key="." line="202" column="36" />
@@ -213,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="16" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="17" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
       <jump line="18" column="24" filename="I:/IDEAWorkSpace/GTLT/HbiParent/core/src/main/resources/com/hap/xycp/mapper/BetResultMapper.xml" />
@@ -313,6 +319,7 @@
       <jump line="72" column="60" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/TLPInterceptor.java" />
       <jump line="137" column="44" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/pom.xml" />
       <jump line="12" column="19" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/WorkflowApplication.java" />
+      <jump line="173" column="31" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -341,7 +348,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>setBusinessProduct</text>
+        <text>0.10.0.RELEASE</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -459,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setBusinessProduct</text>
+        <text>0.10.0.RELEASE</text>
       </register>
       <register name="m" type="4">
         <keys>
