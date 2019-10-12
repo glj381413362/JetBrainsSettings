@@ -72,7 +72,7 @@
         <mark key="[" line="80" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-prod.yml" timestamp="1570671532100" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1570849192379">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1570861433565">
         <mark key="[" line="202" column="36" />
         <mark key="]" line="202" column="36" />
         <mark key="." line="202" column="36" />
@@ -99,7 +99,7 @@
         <mark key="[" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowCallbackController.java" timestamp="1570689257465" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/SwaggerTags.java" timestamp="1570690996719">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/SwaggerTags.java" timestamp="1570860884236">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="48" />
         <mark key="." line="22" column="48" />
@@ -118,6 +118,7 @@
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/service/WorkflowActionService.java" timestamp="1570603010277" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/callback/ProcessCallbackImpl.java" timestamp="1570780114618" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/file/client/JarvisFileApi.java" timestamp="1570678322414" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformSkuServiceImpl.java" timestamp="1570861204851" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/domain/AuditDomain.java" timestamp="1570844498571" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/resources/application.properties" timestamp="1570614941481" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/WorkflowActionServiceImpl.java" timestamp="1570779980525">
@@ -158,13 +159,13 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1570784199615">
         <mark key="[" line="149" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowController.java" timestamp="1570846870964">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowController.java" timestamp="1570860820923">
         <mark key="[" line="38" column="38" />
         <mark key="]" line="38" column="38" />
         <mark key="." line="38" column="38" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/com/sun/glass/ui/swt/SWTApplication.java" timestamp="1570608141142" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowDataController.java" timestamp="1570691065650" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowDataController.java" timestamp="1570860891716" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/inventory/PenguinInterfaceClient.java" timestamp="1570851317241" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformSku.java" timestamp="1570780462866">
         <mark key="[" line="279" column="32" />
