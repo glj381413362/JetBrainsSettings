@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>105</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Features in: docker'">
@@ -510,7 +510,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>318</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -566,7 +566,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>282</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerApplication'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -750,7 +750,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>684</Count>
+          <Count>690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
