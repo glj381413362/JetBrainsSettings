@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/messages/messages_en_US.properties" timestamp="1570784195754" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-oauth-resource/0.10.0.RELEASE/choerodon-starter-oauth-resource-0.10.0.RELEASE.jar!/io/choerodon/resource/filter/JwtTokenFilter.class" timestamp="1570876248432" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/ResourceServerConfigurerAdapter.class" timestamp="1570875465237" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1571019500979">
+        <mark key="[" line="31" column="8" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java" timestamp="1570607363696" />
       <file name="$USER_HOME$/Maven_Repository/com/tencent/oa/fm/jarvis-workflow-contract/1.0-SNAPSHOT/jarvis-workflow-contract-1.0-SNAPSHOT.jar!/com/tencent/oa/fm/jarvis/workflow/contract/ProcessFormDTO.class" timestamp="1570779848267" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1569750788209">
@@ -42,13 +45,6 @@
       <file name="$USER_HOME$/Maven_Repository/com/alibaba/fastjson/1.2.55/fastjson-1.2.55.jar!/com/alibaba/fastjson/JSON.class" timestamp="1570867795049" />
       <file name="$USER_HOME$/Maven_Repository/io/github/openfeign/feign-core/9.7.0/feign-core-9.7.0-sources.jar!/feign/SynchronousMethodHandler.java" timestamp="1570758611689" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-mybatis-mapper/0.10.0.RELEASE/choerodon-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/util/StringUtil.java" timestamp="1570845702449" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/pom.xml" timestamp="1570874585629">
-        <mark key="'" line="234" column="31" />
-        <mark key="[" line="253" column="21" />
-        <mark key="]" line="101" column="24" />
-        <mark key="^" line="187" column="3" />
-        <mark key="." line="101" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1570781483366">
         <mark key="[" line="74" column="33" />
       </file>
@@ -119,6 +115,7 @@
         <mark key="]" line="88" column="73" />
         <mark key="." line="88" column="73" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-mybatis-mapper/0.10.0.RELEASE/choerodon-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/io/choerodon/mybatis/language/MultiLanguageInterceptor.java" timestamp="1571019273853" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/CustomerFeignClient.java" timestamp="1570844265978" />
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/demo/DemoController.java" timestamp="1570777445150" />
       <file name="$USER_HOME$/Maven_Repository/io/choerodon/choerodon-starter-core/0.10.0.RELEASE/choerodon-starter-core-0.10.0.RELEASE.jar!/io/choerodon/core/domain/Page.class" timestamp="1570844961149" />
@@ -220,6 +217,7 @@
         <mark key="." line="44" column="82" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/com/sun/glass/ui/swt/SWTApplication.java" timestamp="1570608141142" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SkuSynchronizeHandler.java" timestamp="1571019545827" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowDataController.java" timestamp="1570860891716" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/inventory/PenguinInterfaceClient.java" timestamp="1570851317241" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PlatformSku.java" timestamp="1570780462866">
@@ -251,7 +249,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application.properties" timestamp="1570876389887">
         <mark key="[" line="33" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570876710133">
+      <file name="/Dummy.txt" timestamp="1571019416075">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -265,7 +263,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1570873576559" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/MarsCreatOrderWorkflowService.java" timestamp="1570697959258" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/io/choerodon/mybatis/pagehelper/domain/PageRequest.java" timestamp="1570846271518" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1571018045224">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/SpuSynchronizeHandler.java" timestamp="1571018989034">
         <mark key="[" line="136" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/resources/spring-core-context.xml" timestamp="1570603429297" />
