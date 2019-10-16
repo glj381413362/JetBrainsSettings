@@ -54,6 +54,7 @@
         <mark key="]" line="22" column="51" />
         <mark key="." line="22" column="51" />
       </file>
+      <file name="/PriceListDynamicMapper.xml" timestamp="1571197192449" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/pom.xml" timestamp="1571193799588" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571144436454">
         <mark key="[" line="506" column="67" />
@@ -62,7 +63,7 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonProperty.class" timestamp="1571189991595" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1571196520573">
-        <mark key="[" line="185" column="24" />
+        <mark key="[" line="184" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListInsertReqDTO.java" timestamp="1571196364432">
         <mark key="[" line="43" column="25" />
@@ -181,7 +182,7 @@
         <mark key="[" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/entity/PriceApply.java" timestamp="1571196970758">
-        <mark key="[" line="78" column="30" />
+        <mark key="[" line="77" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application-sit.yml" timestamp="1570614007418">
         <mark key="[" line="16" column="44" />
@@ -194,6 +195,12 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application.properties" timestamp="1571121772710">
         <mark key="[" line="1" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1571197383828">
+        <mark key="a" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application-dev.properties" timestamp="1571123591370">
         <mark key="[" line="21" column="26" />
@@ -216,10 +223,13 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1571190210579">
         <mark key="[" line="82" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1571196342119">
-        <mark key="[" line="72" column="29" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1571197269619">
+        <mark key="[" line="32" column="18" />
         <mark key="]" line="93" column="88" />
         <mark key="." line="93" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceApplyMapper.xml" timestamp="1571197323006">
+        <mark key="[" line="10" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1570776012395">
         <mark key="[" line="170" column="54" />
