@@ -174,7 +174,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>553</Count>
+          <Count>556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -462,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'GeneratorApplication'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HmallSaApplication'">
@@ -526,7 +526,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>340</Count>
+          <Count>341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -582,7 +582,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>357</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerApplication'">
@@ -614,7 +614,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GeneratorApplication'</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HmallSaApplication'">
@@ -750,7 +750,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>98</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">

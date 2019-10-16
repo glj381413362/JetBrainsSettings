@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListUpdateReqDTO.java" timestamp="1571196423071">
+        <mark key="[" line="41" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/callback/MyOACallbackProcessBusiness.java" timestamp="1570779141955">
         <mark key="[" line="36" column="72" />
       </file>
@@ -24,14 +27,24 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/feign/DateFormatRegister.java" timestamp="1571124496184">
         <mark key="[" line="19" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1571195207678" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1571019500979">
         <mark key="[" line="31" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/pojo/WorkflowStartPojo.java" timestamp="1570697219706">
         <mark key="[" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/WorkflowConfigController.java" timestamp="1571195929743" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/ServiceImpl.java.vm" timestamp="1571195578430">
+        <mark key="[" line="60" column="42" />
+        <mark key="]" line="60" column="42" />
+        <mark key="." line="60" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1571109268596">
         <mark key="[" line="94" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1571195845616">
+        <mark key="[" line="84" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1569750788209">
         <mark key="[" line="43" column="0" />
@@ -48,8 +61,11 @@
         <mark key="." line="506" column="67" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonProperty.class" timestamp="1571189991595" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListInsertReqDTO.java" timestamp="1571109052103">
-        <mark key="[" line="58" column="17" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1571196520573">
+        <mark key="[" line="185" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListInsertReqDTO.java" timestamp="1571196364432">
+        <mark key="[" line="43" column="25" />
         <mark key="]" line="58" column="17" />
         <mark key="." line="58" column="17" />
       </file>
@@ -59,11 +75,19 @@
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/WorkflowActionServiceImpl.java" timestamp="1571114290897">
         <mark key="[" line="63" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListDTO.java" timestamp="1571196433756">
+        <mark key="[" line="81" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/CustomFeignConfig.java" timestamp="1571130401275">
         <mark key="[" line="67" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListQueryDTO.java" timestamp="1571192187006">
-        <mark key="[" line="64" column="27" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListQueryDTO.java" timestamp="1571196393109">
+        <mark key="[" line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/WorkflowConfigServiceImpl.java" timestamp="1571195456731">
+        <mark key="[" line="85" column="58" />
+        <mark key="]" line="85" column="58" />
+        <mark key="." line="85" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/spring-core-context.xml" timestamp="1570615278317">
         <mark key="[" line="5" column="59" />
@@ -101,8 +125,12 @@
         <mark key="]" line="110" column="4" />
         <mark key="." line="110" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceListController.java" timestamp="1571196134907" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/OrderWorkflowService.java" timestamp="1570697446603">
         <mark key="[" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/config/SwaggerTagConfiguration.java" timestamp="1571196010390">
+        <mark key="[" line="70" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/MarsOrderReturnWorkflowService.java" timestamp="1570697982465">
         <mark key="[" line="25" column="4" />
@@ -119,8 +147,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/TencentWorkflowAutoConfiguration.java" timestamp="1570865554253">
         <mark key="[" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1570784199615">
-        <mark key="[" line="149" column="58" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1571196685401">
+        <mark key="[" line="156" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/controller/WorkflowController.java" timestamp="1571120427088">
         <mark key="[" line="78" column="42" />
@@ -152,6 +180,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application-dev.properties" timestamp="1571135416212">
         <mark key="[" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/entity/PriceApply.java" timestamp="1571196970758">
+        <mark key="[" line="78" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application-sit.yml" timestamp="1570614007418">
         <mark key="[" line="16" column="44" />
       </file>
@@ -164,18 +195,13 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application.properties" timestamp="1571121772710">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571192241421">
-        <mark key="a" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application-dev.properties" timestamp="1571123591370">
         <mark key="[" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/CustomJackDateFormat.java" timestamp="1571130385492">
         <mark key="[" line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceApplyController.java" timestamp="1571195943744" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-gateway/src/main/resources/application-dev.yml" timestamp="1571135171059">
         <mark key="[" line="80" column="34" />
       </file>
@@ -190,8 +216,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1571190210579">
         <mark key="[" line="82" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1571192233653">
-        <mark key="[" line="99" column="41" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1571196342119">
+        <mark key="[" line="72" column="29" />
         <mark key="]" line="93" column="88" />
         <mark key="." line="93" column="88" />
       </file>
@@ -200,6 +226,9 @@
       </file>
       <file name="/fragment.java" timestamp="1571133527562">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListQueryReqDTO.java" timestamp="1571196405008">
+        <mark key="[" line="41" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/service/WorkflowService.java" timestamp="1571034794778">
         <mark key="[" line="18" column="18" />
@@ -334,7 +363,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.getRelId()</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -452,7 +481,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.getRelId()</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
