@@ -42,7 +42,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/PlatformSkuDTO.java" timestamp="1571217445383">
         <mark key="[" line="168" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571277799265">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571281645405">
         <mark key="[" line="506" column="67" />
         <mark key="]" line="506" column="67" />
         <mark key="." line="506" column="67" />
@@ -52,6 +52,7 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonProperty.class" timestamp="1571189991595" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/interceptor/JarvisEbsStrInterceptor.java" timestamp="1571218235323" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterProduct.java" timestamp="1571280629977" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1571216333488">
         <mark key="[" line="184" column="24" />
       </file>
@@ -140,6 +141,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-gateway/src/main/resources/application-dev.yml" timestamp="1571135171059">
         <mark key="[" line="80" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/MasterSku.java" timestamp="1571279455894">
+        <mark key="[" line="88" column="73" />
+        <mark key="]" line="88" column="73" />
+        <mark key="." line="88" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/task/ProductsSyncToTLPTask.java" timestamp="1571219189597">
         <mark key="[" line="58" column="38" />
         <mark key="]" line="58" column="38" />
@@ -196,6 +202,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/Config.java" timestamp="1571123203449">
         <mark key="[" line="20" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/VariableAttrValue.java" timestamp="1571280787430" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1570780555857">
         <mark key="[" line="138" column="29" />
       </file>
@@ -256,6 +263,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application.properties" timestamp="1571121772710">
         <mark key="[" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1571278801596" />
       <file name="/Dummy.txt" timestamp="1571276842886">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
