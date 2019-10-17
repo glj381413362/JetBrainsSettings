@@ -42,10 +42,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/PlatformSkuDTO.java" timestamp="1571217445383">
         <mark key="[" line="168" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571281645405">
-        <mark key="[" line="506" column="67" />
-        <mark key="]" line="506" column="67" />
-        <mark key="." line="506" column="67" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571283908843">
+        <mark key="[" line="330" column="60" />
+        <mark key="]" line="330" column="60" />
+        <mark key="." line="330" column="60" />
+        <mark key="^" line="330" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/ProductsSyncToTLPReqDto.java" timestamp="1571219121550">
         <mark key="[" line="75" column="30" />
@@ -173,6 +174,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/pojo/WorkflowStartPojo.java" timestamp="1570697219706">
         <mark key="[" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/client/product/dto/CuxMaterialSynchronizationDTO.java" timestamp="1571283481027">
+        <mark key="[" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1571216930247">
         <mark key="[" line="94" column="73" />
       </file>
@@ -264,7 +268,7 @@
         <mark key="[" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1571278801596" />
-      <file name="/Dummy.txt" timestamp="1571276842886">
+      <file name="/Dummy.txt" timestamp="1571283932047">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -423,7 +427,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, required = true)</text>
+        <text>（spu更新,sku新增数）</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -541,7 +545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, required = true)</text>
+        <text>（spu更新,sku新增数）</text>
       </register>
       <register name="m" type="4">
         <keys>
