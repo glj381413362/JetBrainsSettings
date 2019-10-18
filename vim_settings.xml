@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyQueryRespDTO.java" timestamp="1570781488857">
         <mark key="[" line="82" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/exception/handler/GlobalExceptionHandler.java" timestamp="1571366202257">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/exception/handler/GlobalExceptionHandler.java" timestamp="1571373204781">
         <mark key="[" line="104" column="8" />
         <mark key="]" line="104" column="8" />
         <mark key="." line="104" column="8" />
@@ -44,7 +44,7 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/DateFormatUtilsV2.java" timestamp="1571369839635" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571371682440">
-        <mark key="[" line="52" column="0" />
+        <mark key="[" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/RegistApplyDetailRespDTO.java" timestamp="1570781483366">
         <mark key="[" line="74" column="33" />
@@ -69,6 +69,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/fallback/ProductFeignFallback.java" timestamp="1571297412205">
         <mark key="[" line="26" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1571374733727" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/fallback/ProductFeignImpl.java" timestamp="1571217851912">
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="15" />
@@ -114,6 +115,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/exception/handler/GlobalExceptionHandler.java" timestamp="1571365864877" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application-sit.properties" timestamp="1571362936617">
         <mark key="[" line="44" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1571374700556">
+        <mark key="[" line="88" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/ExampleController.java" timestamp="1571366591458" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/config/EnableTencentWorkflowAutoImport.java" timestamp="1570787181820">
@@ -168,6 +172,7 @@
       <file name="$USER_HOME$/workspace/tencent-workflow/src/main/java/com/tencent/workflow/service/impl/WorkflowActionServiceImpl.java" timestamp="1571114290897">
         <mark key="[" line="63" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/CustomerForErpConvertJob.java" timestamp="1571374591542" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/WorkflowConfigServiceImpl.java" timestamp="1571211096621">
         <mark key="[" line="85" column="58" />
         <mark key="]" line="85" column="58" />
@@ -241,7 +246,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/resources/application.properties" timestamp="1571121772710">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571371986258">
+      <file name="/Dummy.txt" timestamp="1571374948219">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
