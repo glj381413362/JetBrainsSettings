@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-workflow/src/main/java/com/tencent/workflow/feign/DateFormatRegister.java" timestamp="1571124496184">
         <mark key="[" line="19" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1571387973851" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/腾讯" timestamp="1571019500979">
         <mark key="[" line="31" column="8" />
       </file>
@@ -37,6 +38,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/PlatformSkuDTO.java" timestamp="1571217445383">
         <mark key="[" line="178" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformProductRelCategoryController.java" timestamp="1571387287916" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571384985723">
         <mark key="[" line="211" column="55" />
       </file>
