@@ -16,6 +16,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/business/infra/constant/O2PcmBusinessConstants.java" timestamp="1571622531648">
         <mark key="[" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-default/0.10.0.RELEASE/hzero-gateway-helper-default-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/filter/GetPermissionFilter.class" timestamp="1571641017952" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/impl/MarsOrderServiceImpl.java" timestamp="1571622688737" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/code/builder/DefaultCodeRuleBuilder.java" timestamp="1571628165993" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1571633707755">
@@ -64,8 +65,10 @@
         <mark key="]" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/var/log/tencent-oms/tencent-hzero-gateway.2019-10-18.log" timestamp="1571640756726" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceApplyMapper.xml" timestamp="1571627246453" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListDetailRespDTO.java" timestamp="1571633223351" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-gateway-helper-api/0.10.0.RELEASE/hzero-gateway-helper-api-0.10.0.RELEASE.jar!/org/hzero/gateway/helper/entity/CheckState.class" timestamp="1571640805905" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1571634398576" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceListController.java" timestamp="1571634057236" />
     </filemarks>
