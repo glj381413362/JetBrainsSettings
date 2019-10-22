@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>193</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Features in: docker'">
@@ -166,7 +166,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -206,7 +206,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>695</Count>
+          <Count>698</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -462,7 +462,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -614,7 +614,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>368</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerApplication'">
