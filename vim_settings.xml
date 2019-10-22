@@ -38,6 +38,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/dao/entity/FmktWfProcessConfig.java" timestamp="1571731221155">
         <mark key="[" line="23" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/CodeMatchingController.java" timestamp="1571736022323" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceListController.java" timestamp="1571736089681">
+        <mark key="[" line="68" column="110" />
+        <mark key="]" line="68" column="110" />
+        <mark key="." line="68" column="110" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/PriceApplyService.java" timestamp="1571726391494">
         <mark key="[" line="63" column="60" />
       </file>
@@ -74,7 +80,7 @@
         <mark key="]" line="97" column="18" />
         <mark key="." line="97" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571734902099">
+      <file name="/Dummy.txt" timestamp="1571736109305">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -88,6 +94,7 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/base/BaseConstants.java" timestamp="1571644924203">
         <mark key="[" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterSkuController.java" timestamp="1571735988106" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/PriceApplyUpdateRespDTO.java" timestamp="1571726627704">
         <mark key="[" line="22" column="57" />
       </file>
@@ -224,7 +231,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>FIELD_LAST_UPDATE_DATE</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -342,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>FIELD_LAST_UPDATE_DATE</text>
       </register>
       <register name="m" type="4">
         <keys>
