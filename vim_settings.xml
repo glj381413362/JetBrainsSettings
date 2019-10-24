@@ -9,11 +9,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/util/SecurityTokenUtils.java" timestamp="1571725043538" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1571905874850">
-        <mark key="[" line="413" column="67" />
-        <mark key="]" line="122" column="46" />
-        <mark key="^" line="412" column="47" />
-        <mark key="." line="122" column="46" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1571907995301">
+        <mark key="[" line="407" column="57" />
+        <mark key="^" line="453" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_006/OM_006_list-min.js" timestamp="1571807147783" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceApplyDetailRespDTO.java" timestamp="1571904987679">
@@ -162,8 +160,8 @@
         <mark key="]" line="72" column="8" />
         <mark key="." line="72" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/constants/WorkflowConstants.java" timestamp="1571812651935">
-        <mark key="[" line="41" column="15" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/constants/WorkflowConstants.java" timestamp="1571907789773">
+        <mark key="[" line="33" column="70" />
         <mark key="]" line="41" column="15" />
         <mark key="." line="41" column="15" />
       </file>
@@ -198,7 +196,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1571820399904" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/SplitPriceDTO.java" timestamp="1571897014639" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1571822292782" />
-      <file name="/Dummy.txt" timestamp="1571905673507">
+      <file name="/Dummy.txt" timestamp="1571907791475">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -357,7 +355,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getLoginName</text>
+        <text />
       </register>
       <register name="c" type="4">
         <keys>
@@ -475,7 +473,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getLoginName</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
