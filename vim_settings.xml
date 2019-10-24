@@ -8,10 +8,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/util/SecurityTokenUtils.java" timestamp="1571725043538" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1571899130825">
-        <mark key="]" line="391" column="16" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1571903438816">
+        <mark key="[" line="406" column="32" />
+        <mark key="]" line="406" column="32" />
         <mark key="^" line="391" column="47" />
-        <mark key="." line="391" column="16" />
+        <mark key="." line="406" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepwebservice/web/webroot/OM_006/OM_006_list-min.js" timestamp="1571807147783" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceApplyDetailRespDTO.java" timestamp="1571819876308">
@@ -22,7 +23,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571384985723">
         <mark key="[" line="211" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1571881941007">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1571903273940">
         <mark key="[" line="190" column="22" />
         <mark key="]" line="190" column="22" />
         <mark key="." line="190" column="22" />
@@ -232,6 +233,7 @@
         <mark key="." line="71" column="46" />
         <mark key="^" line="71" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1571903214275" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterSkuController.java" timestamp="1571735988106" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/infra/repository/impl/PriceApplyRepositoryImpl.java" timestamp="1571822413298" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1571887616735">
@@ -372,7 +374,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>PriceListInsertReqDTO</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -490,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>PriceListInsertReqDTO</text>
       </register>
       <register name="m" type="4">
         <keys>
