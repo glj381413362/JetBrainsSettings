@@ -44,8 +44,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application-dev.properties" timestamp="1571820433153">
         <mark key="[" line="48" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1571384985723">
-        <mark key="[" line="211" column="55" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1572234067576">
+        <mark key="[" line="591" column="29" />
+        <mark key="]" line="591" column="28" />
+        <mark key="^" line="591" column="28" />
+        <mark key="." line="591" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/callback/MyOACallbackImpl.java" timestamp="1572228110658">
         <mark key="[" line="79" column="26" />
@@ -283,7 +286,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>needSplit</text>
+        <text>masterSku</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -401,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>needSplit</text>
+        <text>masterSku</text>
       </register>
       <register name="m" type="4">
         <keys>
