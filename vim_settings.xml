@@ -6,6 +6,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/order/fallback/OrderFeignImpl.java" timestamp="1571807875119">
         <mark key="[" line="40" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1572319644785">
+        <mark key="[" line="176" column="11" />
+        <mark key="]" line="176" column="11" />
+        <mark key="." line="176" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/ecs/sap/impl/DefaultECSAPConsignmentWildbackFacade.java" timestamp="1572237507648" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/LogAOP.java" timestamp="1572257502986" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/business/infra/constant/O2PcmBusinessConstants.java" timestamp="1571709114600">
@@ -126,7 +131,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1572252512935">
         <mark key="[" line="132" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572317613546">
+      <file name="/Dummy.txt" timestamp="1572319651766">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -292,7 +297,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>tax</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -410,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>tax</text>
       </register>
       <register name="m" type="4">
         <keys>
