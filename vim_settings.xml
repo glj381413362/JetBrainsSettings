@@ -28,15 +28,17 @@
         <mark key="]" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1571734744608">
-        <mark key="[" line="89" column="65" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1572341336718">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="17" />
+        <mark key="." line="60" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572337976028">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572340861826">
         <mark key="'" line="645" column="31" />
-        <mark key="[" line="665" column="90" />
-        <mark key="]" line="315" column="16" />
-        <mark key="^" line="316" column="58" />
-        <mark key="." line="315" column="16" />
+        <mark key="[" line="782" column="19" />
+        <mark key="]" line="782" column="19" />
+        <mark key="^" line="770" column="91" />
+        <mark key="." line="782" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback.xml" timestamp="1572332379448">
         <mark key="[" line="8" column="82" />
@@ -73,12 +75,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application-sit.properties" timestamp="1572080961253">
         <mark key="[" line="51" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1572331849253">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1572338862052">
         <mark key="[" line="190" column="12" />
         <mark key="]" line="190" column="12" />
         <mark key="." line="190" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListInsertReqDTO.java" timestamp="1572336619867">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListInsertReqDTO.java" timestamp="1572340793252">
         <mark key="[" line="25" column="59" />
         <mark key="]" line="23" column="12" />
         <mark key="^" line="23" column="11" />
@@ -99,7 +101,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1572252512935">
         <mark key="[" line="132" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572338027781">
+      <file name="/Dummy.txt" timestamp="1572339520812">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -300,7 +302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>O2PCM.BUSINESS_PRODUCT&quot;)@TransientString</text>
+        <text>NotNull</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -418,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>O2PCM.BUSINESS_PRODUCT&quot;)@TransientString</text>
+        <text>NotNull</text>
       </register>
       <register name="m" type="4">
         <keys>
