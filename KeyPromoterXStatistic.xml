@@ -174,7 +174,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>82</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -638,7 +638,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>381</Count>
+          <Count>383</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CustomerApplication'">
