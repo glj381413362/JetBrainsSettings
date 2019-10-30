@@ -24,6 +24,11 @@
       <file name="/a.dummy" timestamp="1571896864417">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/JobLogUtils.java" timestamp="1572401699631">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1572349108194">
         <mark key="[" line="67" column="17" />
         <mark key="]" line="67" column="17" />
@@ -42,12 +47,6 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/PriceApplyStatusEnum.java" timestamp="1572078701227">
         <mark key="[" line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1572317118896">
-        <mark key="[" line="555" column="56" />
-        <mark key="]" line="555" column="56" />
-        <mark key="^" line="591" column="28" />
-        <mark key="." line="555" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1572338862052">
         <mark key="[" line="190" column="12" />
@@ -126,20 +125,8 @@
         <mark key="]" line="8" column="82" />
         <mark key="." line="8" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/mapper/FmktWfTaskMapper.xml" timestamp="1572226459221">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="42" />
-        <mark key="^" line="60" column="42" />
-        <mark key="." line="60" column="42" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application-dev.properties" timestamp="1571820433153">
         <mark key="[" line="48" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/callback/MyOACallbackImpl.java" timestamp="1572241769319">
-        <mark key="[" line="99" column="28" />
-        <mark key="]" line="99" column="27" />
-        <mark key="^" line="99" column="27" />
-        <mark key="." line="99" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application-sit.properties" timestamp="1572080961253">
         <mark key="[" line="51" column="52" />
@@ -155,12 +142,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceApplyController.java" timestamp="1572314150550">
-        <mark key="[" line="174" column="12" />
-        <mark key="]" line="174" column="12" />
-        <mark key="." line="174" column="12" />
-        <mark key="^" line="183" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/callback/ProcessCallbackImpl.java" timestamp="1572240456730">
         <mark key="[" line="90" column="49" />
@@ -318,7 +299,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>super.initialValue()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -436,7 +417,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>super.initialValue()</text>
       </register>
       <register name="m" type="4">
         <keys>
