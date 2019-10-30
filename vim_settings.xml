@@ -4,15 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1572412467530" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/LogAOP.java" timestamp="1572417800033" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/LogAOP.java" timestamp="1572417897422" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" timestamp="1572415252295" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/JobLogUtils.java" timestamp="1572416558691">
-        <mark key="[" line="190" column="25" />
-        <mark key="]" line="190" column="25" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/JobLogUtils.java" timestamp="1572418457858">
+        <mark key="[" line="22" column="83" />
+        <mark key="]" line="22" column="83" />
         <mark key="^" line="183" column="62" />
-        <mark key="." line="190" column="25" />
+        <mark key="." line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572417739394">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572417876674">
         <mark key="'" line="646" column="31" />
         <mark key="[" line="509" column="16" />
         <mark key="]" line="509" column="16" />
@@ -47,7 +47,7 @@
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1572417713903">
+      <file name="/fragment.java" timestamp="1572417855551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="11" />
@@ -183,7 +183,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>Log</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -301,7 +301,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>Log</text>
       </register>
       <register name="m" type="4">
         <keys>
