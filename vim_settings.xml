@@ -27,12 +27,12 @@
         <mark key="." line="67" column="17" />
         <mark key="^" line="103" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572406246109">
-        <mark key="'" line="645" column="31" />
-        <mark key="[" line="500" column="24" />
-        <mark key="]" line="502" column="0" />
-        <mark key="^" line="502" column="0" />
-        <mark key="." line="502" column="0" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572407193444">
+        <mark key="'" line="644" column="31" />
+        <mark key="[" line="436" column="14" />
+        <mark key="]" line="436" column="14" />
+        <mark key="^" line="501" column="0" />
+        <mark key="." line="436" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1572332574618">
         <mark key="[" line="8" column="78" />
@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1572252512935">
         <mark key="[" line="132" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572406191395">
+      <file name="/Dummy.txt" timestamp="1572407265533">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,6 +124,7 @@
         <mark key="[" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/SPELUtil.java" timestamp="1572399066040" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1572407031986" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceApplyMapper.xml" timestamp="1571822513703">
         <mark key="[" line="55" column="17" />
       </file>
@@ -269,7 +270,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICk7</text>
+        <text>setPlatformProductId</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -387,7 +388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICk7</text>
+        <text>setPlatformProductId</text>
       </register>
       <register name="m" type="4">
         <keys>
