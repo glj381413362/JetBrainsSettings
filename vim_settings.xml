@@ -38,7 +38,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/service/impl/PriceApplyWorkflowService.java" timestamp="1572485074588" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/SpuSynchronizeProcessor.java" timestamp="1572515043558" />
       <file name="$USER_HOME$/workspace/hybris-commerce-suite-5.6.0.2/hybris/bin/custom/hep/hepfacades/src/com/hep/facades/core/diff/impl/DefaultDiffAbDetailFacade.java" timestamp="1572497146962" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1572516509829">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1572521643063">
         <mark key="[" line="62" column="74" />
         <mark key="]" line="80" column="15" />
         <mark key="m" line="35" column="39" />
