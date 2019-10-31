@@ -10,13 +10,6 @@
         <mark key="." line="295" column="31" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" timestamp="1572415252295" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/JobLogUtils.java" timestamp="1572486826320">
-        <mark key="'" line="22" column="36" />
-        <mark key="[" line="269" column="30" />
-        <mark key="]" line="269" column="30" />
-        <mark key="^" line="186" column="12" />
-        <mark key="." line="269" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceListServiceImpl.java" timestamp="1572493076808">
         <mark key="[" line="138" column="73" />
         <mark key="^" line="103" column="51" />
@@ -63,6 +56,9 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/mapper/FmktWfTaskMapper.xml" timestamp="1572487949417">
         <mark key="[" line="60" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1572506036681">
+        <mark key="[" line="90" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/controller/WorkflowDataController.java" timestamp="1572490428334">
         <mark key="[" line="127" column="21" />
