@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1572412467530" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1572498311179">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1572499871691">
         <mark key="[" line="294" column="41" />
         <mark key="]" line="295" column="31" />
         <mark key="." line="295" column="31" />
