@@ -38,7 +38,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>121</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>201</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Features in: docker'">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>931</Count>
+          <Count>946</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -478,7 +478,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +486,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>67</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>386</Count>
+          <Count>395</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -790,7 +790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>79</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -830,7 +830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>939</Count>
+          <Count>947</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
