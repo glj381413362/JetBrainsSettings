@@ -41,7 +41,7 @@
         <mark key="^" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/resources/mapper/MarsOrderMapper.xml" timestamp="1572492292255" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572691913421">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572693544640">
         <mark key="'" line="635" column="31" />
         <mark key="[" line="414" column="96" />
         <mark key="]" line="414" column="93" />
@@ -305,7 +305,7 @@
         <mark key="." line="299" column="15" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/io/choerodon/core/oauth/CustomTokenConverter.java" timestamp="1572537449683" />
-      <file name="/Dummy.txt" timestamp="1572689840383">
+      <file name="/Dummy.txt" timestamp="1572693240856">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
