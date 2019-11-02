@@ -34,6 +34,12 @@
         <mark key="^" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/resources/mapper/MarsOrderMapper.xml" timestamp="1572492292255" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572677895131">
+        <mark key="'" line="635" column="31" />
+        <mark key="[" line="400" column="154" />
+        <mark key="]" line="400" column="154" />
+        <mark key="." line="400" column="154" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/logback-sit.xml" timestamp="1572332574618">
         <mark key="[" line="8" column="78" />
       </file>
@@ -99,6 +105,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/autoconfigure/ProductAutoConfiguration.java" timestamp="1572609558269" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-oauth/0.10.0.RELEASE/hzero-oauth-0.10.0.RELEASE.jar!/org/hzero/oauth/security/service/impl/DefaultUserDetailsWrapService.class" timestamp="1572507244674" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/data/permission/util/StringUtils.java" timestamp="1572570691469" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/PlatformFeignClient.java" timestamp="1572606317500">
+        <mark key="'" line="4" column="102" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/pojo/ConfigQueryPojo.java" timestamp="1572490948165">
         <mark key="[" line="5" column="4" />
       </file>
@@ -287,7 +299,7 @@
         <mark key="." line="299" column="15" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/io/choerodon/core/oauth/CustomTokenConverter.java" timestamp="1572537449683" />
-      <file name="/Dummy.txt" timestamp="1572673263819">
+      <file name="/Dummy.txt" timestamp="1572676432997">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -457,7 +469,8 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Customer.FIELD_OU_ID</text>
+        <text>,
+																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -683,18 +696,19 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+        <text>,
+																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (stacks.empty()) {
 				
 			}</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAoJCeeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzlj7bmraLmsLTjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqogQ0MgNC4wIEJZLVNBIOeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggoJCeWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9yeW8xMDYwNzMyNDk2L2FydGljbGUvZGV0YWlscy84MDg5MTEyNQ==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -723,8 +737,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">KAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAoJCeeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzlj7bmraLmsLTjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqogQ0MgNC4wIEJZLVNBIOeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggoJCeWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9yeW8xMDYwNzMyNDk2L2FydGljbGUvZGV0YWlscy84MDg5MTEyNQ==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -761,15 +775,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJSm9iTG9nVXRpbHMucHJpbnRFcnJvckxvZygpOwo=</text>
+        <text encoding="base64">KAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-		@Override
-		protected Boolean initialValue() {
-			return false;
-		}
-	}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJSm9iTG9nVXRpbHMucHJpbnRFcnJvckxvZygpOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -783,14 +792,19 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8qKgoJICogbG9nZ2VyCgkgKi8KCXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihMb2dBT1AuY2xhc3MpOwo=</text>
+      <register name="7" type="4">
+        <text>{
+		@Override
+		protected Boolean initialValue() {
+			return false;
+		}
+	}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJlcG9zaXRvcnkuZGVsZXRlQnlQcmltYXJ5S2V5KClkKGRlbGV0ZXMpOwo=</text>
+        <text encoding="base64">CS8qKgoJICogbG9nZ2VyCgkgKi8KCXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihMb2dBT1AuY2xhc3MpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yIChMb25nIHNvdXJjZUlkIDogc291cmNlSWRzKSB7CgoJCQl9Cgk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCXJlcG9zaXRvcnkuZGVsZXRlQnlQcmltYXJ5S2V5KClkKGRlbGV0ZXMpOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
