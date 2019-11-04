@@ -20,6 +20,11 @@
         <mark key="." line="52" column="21" />
         <mark key="^" line="52" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1572836012907">
+        <mark key="[" line="791" column="68" />
+        <mark key="]" line="791" column="68" />
+        <mark key="." line="791" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/LovValueHelper.java" timestamp="1572615766599">
         <mark key="[" line="56" column="69" />
         <mark key="]" line="56" column="69" />
@@ -153,7 +158,7 @@
         <mark key="]" line="299" column="15" />
         <mark key="." line="299" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572831824457">
+      <file name="/Dummy.txt" timestamp="1572836086820">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -325,7 +330,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>FmktWfProcessConfig</text>
+        <text>isNoSplit</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -443,7 +448,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FmktWfProcessConfig</text>
+        <text>isNoSplit</text>
       </register>
       <register name="m" type="4">
         <keys>
