@@ -29,10 +29,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/impl/PlatformFeignClientImpl.java" timestamp="1572661031680">
         <mark key="[" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1572922588750">
-        <mark key="[" line="560" column="65" />
-        <mark key="]" line="705" column="49" />
-        <mark key="." line="705" column="49" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1572924578178">
+        <mark key="[" line="564" column="65" />
+        <mark key="]" line="709" column="49" />
+        <mark key="." line="709" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/mapper/FmktWfProcessConfigMapper.xml" timestamp="1572704473330">
         <mark key="[" line="101" column="34" />
