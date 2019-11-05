@@ -22,11 +22,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application.properties" timestamp="1572916635795" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1572938179360" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovSqlHandle.java" timestamp="1572943423093" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1572944441066">
-        <mark key="[" line="543" column="77" />
-        <mark key="]" line="543" column="77" />
-        <mark key="^" line="541" column="16" />
-        <mark key="." line="543" column="77" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1572945593240">
+        <mark key="[" line="558" column="57" />
+        <mark key="]" line="558" column="57" />
+        <mark key="^" line="558" column="57" />
+        <mark key="." line="558" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/controller/WorkflowController.java" timestamp="1572940792399">
         <mark key="[" line="77" column="16" />
@@ -208,7 +208,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>lovCode</text>
+        <text>value</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -326,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lovCode</text>
+        <text>value</text>
       </register>
       <register name="m" type="4">
         <keys>
