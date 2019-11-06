@@ -14,7 +14,7 @@
         <mark key="]" line="56" column="69" />
         <mark key="." line="56" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/impl/PlatformFeignClientImpl.java" timestamp="1573010013528">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/impl/PlatformFeignClientImpl.java" timestamp="1573025504955">
         <mark key="'" line="421" column="16" />
         <mark key="[" line="424" column="20" />
         <mark key="]" line="424" column="20" />
@@ -120,13 +120,14 @@
         <mark key="[" line="80" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1572965828232">
-        <mark key="[" line="280" column="53" />
+        <mark key="[" line="283" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/entity/PriceApply.java" timestamp="1573021237587">
         <mark key="[" line="62" column="20" />
         <mark key="]" line="64" column="20" />
         <mark key="." line="64" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/callback/MyOACallbackImpl.java" timestamp="1573024437543" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1572699180575">
         <mark key="[" line="90" column="31" />
       </file>
@@ -143,7 +144,7 @@
         <mark key="]" line="48" column="27" />
         <mark key="." line="48" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573022879380">
+      <file name="/Dummy.txt" timestamp="1573025462379">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -176,7 +177,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/logback.xml" timestamp="1572857027889">
         <mark key="[" line="37" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1573019999623">
+      <file name="/fragment.java" timestamp="1573025462374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="76" />
         <mark key="^" line="0" column="11" />
