@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Test Files" />
     <option name="defaultScopeName" value="Project Test Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Test Files" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.impx</mask>
