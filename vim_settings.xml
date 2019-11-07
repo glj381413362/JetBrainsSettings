@@ -43,6 +43,10 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/constraints/LovValueConstraint.java" timestamp="1573021381370" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/handler/impl/DefaultLovSqlHandle.java" timestamp="1572943423093" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterCategoryMapper.xml" timestamp="1572959625299" />
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1573092287591">
+        <mark key="[" line="871" column="0" />
+        <mark key="]" line="871" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/DataPermissionAOP.java" timestamp="1573026136175">
         <mark key="[" line="59" column="37" />
         <mark key="]" line="59" column="37" />
@@ -107,7 +111,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573089709089">
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
         <mark key="[" line="1755" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceApplyController.java" timestamp="1572938802700">
@@ -261,8 +265,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -488,16 +492,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIHYgPSA7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiDlgLzpm4bmoKHpqozkuI3pgJrov4fml7bnmoTplJnor6/kv6Hmga8KICAgICAqLwogICAgU3RyaW5nIG1lc3NhZ2UoKSBkZWZhdWx0ICJ7b3JnLmh6ZXJvLmJvb3QucGxhdGZvcm0ubG92LmFubm90YXRpb24uTG92VmFsdWUubWVzc2FnZX0iOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJU3RyaW5nIHYgPSA7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IC8qKgogICAgICog5aSE55CG5ZCO55qE5ZCr5LmJ5a2X5q615pS+5Zyo5ZOq5Liq5a2X5q615LitPGJyLz4KICAgICAqIOS4jeiuvue9ruWImei/m+ihjOm7mOiupOaYoOWwhCzlsIbms6jop6PmiYDlnKjlrZfmrrXlkI3mnKvlsL7nmoRDb2RlKOWmguaenOaciSnmm7/mjaLkuLpNZWFuaW5nLOS+izo8YnIvPgogICAgICogPHVsPgogICAgICogPGxpPnN0YXR1c0NvZGUgLT4gc3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+cHJvY2Vzc1N0YXR1cyAtPiBwcm9jZXNzU3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+Y29kZVR5cGVDb2RlIC0+IGNvZGVUeXBlTWVhbmluZzwvbGk+CiAgICAgKiA8L3VsPgogICAgICovCiAgICBTdHJpbmcgbWVhbmluZ0ZpZWxkKCkgZGVmYXVsdCBTdHJpbmdVdGlscy5FTVBUWTsKCiAgICAvKioKICAgICAqIEByZXR1cm4g5aaC5p6c5aSE55CG5aSx6LSlLOWQq+S5ieWtl+autem7mOiupOiuvue9rueahOWAvCzpu5jorqTkuLrljp92YWx1ZQogICAgICovCiAgICBTdHJpbmcgZGVmYXVsdE1lYW5pbmcoKSBkZWZhdWx0IFN0cmluZ1V0aWxzLkVNUFRZOw==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiDlgLzpm4bmoKHpqozkuI3pgJrov4fml7bnmoTplJnor6/kv6Hmga8KICAgICAqLwogICAgU3RyaW5nIG1lc3NhZ2UoKSBkZWZhdWx0ICJ7b3JnLmh6ZXJvLmJvb3QucGxhdGZvcm0ubG92LmFubm90YXRpb24uTG92VmFsdWUubWVzc2FnZX0iOw==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -527,7 +531,7 @@
         </keys>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KioKICoKICovCg==</text>
+        <text encoding="base64">IC8qKgogICAgICog5aSE55CG5ZCO55qE5ZCr5LmJ5a2X5q615pS+5Zyo5ZOq5Liq5a2X5q615LitPGJyLz4KICAgICAqIOS4jeiuvue9ruWImei/m+ihjOm7mOiupOaYoOWwhCzlsIbms6jop6PmiYDlnKjlrZfmrrXlkI3mnKvlsL7nmoRDb2RlKOWmguaenOaciSnmm7/mjaLkuLpNZWFuaW5nLOS+izo8YnIvPgogICAgICogPHVsPgogICAgICogPGxpPnN0YXR1c0NvZGUgLT4gc3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+cHJvY2Vzc1N0YXR1cyAtPiBwcm9jZXNzU3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+Y29kZVR5cGVDb2RlIC0+IGNvZGVUeXBlTWVhbmluZzwvbGk+CiAgICAgKiA8L3VsPgogICAgICovCiAgICBTdHJpbmcgbWVhbmluZ0ZpZWxkKCkgZGVmYXVsdCBTdHJpbmdVdGlscy5FTVBUWTsKCiAgICAvKioKICAgICAqIEByZXR1cm4g5aaC5p6c5aSE55CG5aSx6LSlLOWQq+S5ieWtl+autem7mOiupOiuvue9rueahOWAvCzpu5jorqTkuLrljp92YWx1ZQogICAgICovCiAgICBTdHJpbmcgZGVmYXVsdE1lYW5pbmcoKSBkZWZhdWx0IFN0cmluZ1V0aWxzLkVNUFRZOw==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -564,11 +568,11 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>,
-																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
+        <text encoding="base64">KioKICoKICovCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+        <text>,
+																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -583,15 +587,15 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>if (stacks.empty()) {
 				
 			}</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAoJCeeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzlj7bmraLmsLTjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqogQ0MgNC4wIEJZLVNBIOeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggoJCeWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9yeW8xMDYwNzMyNDk2L2FydGljbGUvZGV0YWlscy84MDg5MTEyNQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">KAo=</text>
       </register>
       <register name="y" type="4">
         <keys>
