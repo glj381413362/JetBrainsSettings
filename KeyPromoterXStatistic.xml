@@ -606,7 +606,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -862,7 +862,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
