@@ -70,16 +70,19 @@
         <mark key="." line="48" column="27" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/adapter/impl/DefaultLovAdapter.java" timestamp="1573010878797" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/BaseSynchronizeProcessor.java" timestamp="1573110832925">
-        <mark key="[" line="31" column="56" />
-      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/BaseSynchronizeProcessor.java" timestamp="1573112381775" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/jobs/InterTransactionJob.java" timestamp="1573094722228" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/FeignRequestInterceptor.java" timestamp="1573018392792" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/OrderApplication.java" timestamp="1572862408178" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/QueryResultsTask.java" timestamp="1572941513771" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/AbstractSynchronizeHandler.java" timestamp="1573108525849" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/synchronizer/AbstractSynchronizeHandler.java" timestamp="1573112707013">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/ProductApplication.java" timestamp="1572862376545" />
       <file name="/MasterProductServiceImpl.java" timestamp="1573022486017" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/SpuSynchronizeProcessor.java" timestamp="1573111377426" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/service/impl/WorkflowActionServiceImpl.java" timestamp="1572862111424" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListDTO.java" timestamp="1573021270759">
         <mark key="[" line="87" column="123" />
@@ -106,7 +109,7 @@
         <mark key="]" line="656" column="62" />
         <mark key="." line="656" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/SkuSynchronizeProcessor.java" timestamp="1573106065343" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/process/sync/processor/SkuSynchronizeProcessor.java" timestamp="1573111337832" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceApply.java" timestamp="1573015817302" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/context/ApplicationContextAware.java" timestamp="1573090151171" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1573006060028">
@@ -284,7 +287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>masterProductService.searchSkuGroupingByAttributeValue(productCode, skuCodes)</text>
+        <text>final</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -402,7 +405,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>masterProductService.searchSkuGroupingByAttributeValue(productCode, skuCodes)</text>
+        <text>final</text>
       </register>
       <register name="m" type="4">
         <keys>
