@@ -33,8 +33,10 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-platform/0.10.0.RELEASE/hzero-platform-0.10.0.RELEASE.jar!/org/hzero/platform/domain/service/impl/LovDomainServiceImpl.class" timestamp="1572943016372" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/application.properties" timestamp="1572916635795" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1573107607296">
-        <mark key="[" line="65" column="72" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1573114674861">
+        <mark key="[" line="64" column="61" />
+        <mark key="]" line="64" column="61" />
+        <mark key="." line="64" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/PriceApplyDetailRespDTO.java" timestamp="1573018822848" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterCategoryMapper.xml" timestamp="1572959625299" />
@@ -101,8 +103,8 @@
         <mark key="]" line="58" column="41" />
         <mark key="." line="58" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573095351331">
-        <mark key="[" line="68" column="36" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573114499423">
+        <mark key="[" line="213" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1573021721472">
         <mark key="[" line="587" column="121" />
@@ -130,7 +132,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1572965828232">
         <mark key="[" line="283" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573106475095">
+      <file name="/Dummy.txt" timestamp="1573113666927">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -287,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>final</text>
+        <text>getMasterProductCode</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -405,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>getMasterProductCode</text>
       </register>
       <register name="m" type="4">
         <keys>
