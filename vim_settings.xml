@@ -6,31 +6,31 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1573179740181">
         <mark key="[" line="294" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/generator.properties" timestamp="1573179833205" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/domain/entity/MarsOrder.java" timestamp="1573181979563" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/generator.properties" timestamp="1573180751726" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1573182797966" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/ServiceImpl.java.vm" timestamp="1573183984711">
+        <mark key="[" line="107" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/java/org/hzero/generator/util/GenByDDDUtils.java" timestamp="1573179806269" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceApplyDetailRespDTO.java" timestamp="1573019154846">
         <mark key="[" line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Mapper.xml.vm" timestamp="1573179793380" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/service/impl/PriceApplyWorkflowService.java" timestamp="1573019142547">
         <mark key="[" line="44" column="84" />
+      </file>
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/addReqDTO.java.vm" timestamp="1573181160526">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="34" />
+        <mark key="." line="54" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseProductController.java" timestamp="1573178519973">
         <mark key="[" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1573117033228">
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="96" column="47" />
-        <mark key="." line="96" column="47" />
-        <mark key="^" line="96" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1573178784530">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseProduct.java" timestamp="1573178678303">
-        <mark key="[" line="28" column="4" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1573182449992">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListQueryDTO.java" timestamp="1573180625776" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/mapper/WarehouseMappingMapper.java" timestamp="1573180040515">
@@ -38,14 +38,15 @@
         <mark key="]" line="40" column="76" />
         <mark key="." line="40" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573114499423">
-        <mark key="[" line="213" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/WarehouseServiceImpl.java" timestamp="1573178818884" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/config/SwaggerTags.java" timestamp="1573177990447" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterProductMapper.xml" timestamp="1573179747112" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseMapping.java" timestamp="1573178669476">
-        <mark key="[" line="28" column="4" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Service.java.vm" timestamp="1573184004257">
+        <mark key="[" line="68" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseMapping.java" timestamp="1573183617153">
+        <mark key="'" line="90" column="26" />
+        <mark key="[" line="69" column="38" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
@@ -53,19 +54,38 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncTask.java" timestamp="1573115287273">
         <mark key="[" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMappingMapper.xml" timestamp="1573180547588">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMappingMapper.xml" timestamp="1573181450006">
         <mark key="[" line="95" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/EcTransactionServiceImpl.java" timestamp="1573179389186" />
       <file name="/WarehouseMappingRepository.java" timestamp="1573178949976" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/WarehouseMappingService.java" timestamp="1573184615896">
+        <mark key="[" line="83" column="100" />
+        <mark key="]" line="83" column="100" />
+        <mark key="." line="83" column="100" />
+      </file>
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE-sources.jar!/org/hzero/core/base/BaseConstants.java" timestamp="1573181088716" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Mapper.xml.vm" timestamp="1573179793380" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseProduct.java" timestamp="1573178678303">
+        <mark key="[" line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/updateReqDTO.java.vm" timestamp="1573182411955">
+        <mark key="[" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573114499423">
+        <mark key="[" line="213" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Controller.java.vm" timestamp="1573183953004">
+        <mark key="[" line="133" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/EcTransactionServiceImpl.java" timestamp="1573179389186" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/resources/mapper/FmktWfTaskMapper.xml" timestamp="1572857951536">
         <mark key="[" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1572965828232">
         <mark key="[" line="283" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573180665510" />
-      <file name="/Dummy.txt" timestamp="1573179037760">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573181289611" />
+      <file name="/Dummy.txt" timestamp="1573184428720">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -74,21 +94,32 @@
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
         <mark key="[" line="1755" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/repository/impl/WarehouseMappingRepositoryImpl.java" timestamp="1573180257998">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/repository/impl/WarehouseMappingRepositoryImpl.java" timestamp="1573182718884">
         <mark key="[" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterSkuController.java" timestamp="1572964293731">
         <mark key="[" line="58" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseMappingController.java" timestamp="1573178496175" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/WarehouseMappingServiceImpl.java" timestamp="1573178455148" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseMappingController.java" timestamp="1573184448342" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/WarehouseMappingServiceImpl.java" timestamp="1573184772401">
+        <mark key="[" line="136" column="90" />
+        <mark key="]" line="136" column="90" />
+        <mark key="." line="136" column="90" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1573180357723" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/constant/Constants.java" timestamp="1573183551854">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/queryReqDTO.java.vm" timestamp="1573181174669">
+        <mark key="[" line="51" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/repository/WarehouseMappingRepository.java" timestamp="1573180046354">
         <mark key="[" line="31" column="76" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="28" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
       <jump line="188" column="37" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
       <jump line="1370" column="0" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
       <jump line="0" column="0" filename="I:/IDEAWorkSpace/XYCP/core/src/main/java/com/hap/xycp/service/CalculateService.java" />
@@ -188,6 +219,7 @@
       <jump line="109" column="102" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/PlatformFeignClient.java" />
       <jump line="558" column="41" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" />
       <jump line="382" column="16" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/platform/impl/PlatformFeignClientImpl.java" />
+      <jump line="90" column="26" filename="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseMapping.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -215,8 +247,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwoJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5pyJ5pWI5pyf5aeLIiApCglwcml2YXRlIERhdGUgZGF0ZUZyb21TdGFydDsKCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwo=</text>
+      <register name="&quot;" type="4">
+        <text>updateRes</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -334,7 +366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>conditions</text>
+        <text>updateRes</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -441,17 +473,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwoJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5pyJ5pWI5pyf5aeLIiApCglwcml2YXRlIERhdGUgZGF0ZUZyb21TdGFydDsKCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgkJCQ==</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+		SecurityTokenHelper.validToken(warehouseMapping);
+		warehouseMappingRepository.updateByPrimaryKeySelective(warehouseMapping);
+		Res update = warehouseMappingService.update(warehouseMapping);
+		return update.buildResponse(warehouseMapping);
+	}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIHYgPSA7Cg==</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwoJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5pyJ5pWI5pyf5aeLIiApCglwcml2YXRlIERhdGUgZGF0ZUZyb21TdGFydDsKCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -480,8 +517,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiDlgLzpm4bmoKHpqozkuI3pgJrov4fml7bnmoTplJnor6/kv6Hmga8KICAgICAqLwogICAgU3RyaW5nIG1lc3NhZ2UoKSBkZWZhdWx0ICJ7b3JnLmh6ZXJvLmJvb3QucGxhdGZvcm0ubG92LmFubm90YXRpb24uTG92VmFsdWUubWVzc2FnZX0iOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -517,11 +554,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8qKgogICAgICog5aSE55CG5ZCO55qE5ZCr5LmJ5a2X5q615pS+5Zyo5ZOq5Liq5a2X5q615LitPGJyLz4KICAgICAqIOS4jeiuvue9ruWImei/m+ihjOm7mOiupOaYoOWwhCzlsIbms6jop6PmiYDlnKjlrZfmrrXlkI3mnKvlsL7nmoRDb2RlKOWmguaenOaciSnmm7/mjaLkuLpNZWFuaW5nLOS+izo8YnIvPgogICAgICogPHVsPgogICAgICogPGxpPnN0YXR1c0NvZGUgLT4gc3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+cHJvY2Vzc1N0YXR1cyAtPiBwcm9jZXNzU3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+Y29kZVR5cGVDb2RlIC0+IGNvZGVUeXBlTWVhbmluZzwvbGk+CiAgICAgKiA8L3VsPgogICAgICovCiAgICBTdHJpbmcgbWVhbmluZ0ZpZWxkKCkgZGVmYXVsdCBTdHJpbmdVdGlscy5FTVBUWTsKCiAgICAvKioKICAgICAqIEByZXR1cm4g5aaC5p6c5aSE55CG5aSx6LSlLOWQq+S5ieWtl+autem7mOiupOiuvue9rueahOWAvCzpu5jorqTkuLrljp92YWx1ZQogICAgICovCiAgICBTdHJpbmcgZGVmYXVsdE1lYW5pbmcoKSBkZWZhdWx0IFN0cmluZ1V0aWxzLkVNUFRZOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJU3RyaW5nIHYgPSA7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">KioKICoKICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiDlgLzpm4bmoKHpqozkuI3pgJrov4fml7bnmoTplJnor6/kv6Hmga8KICAgICAqLwogICAgU3RyaW5nIG1lc3NhZ2UoKSBkZWZhdWx0ICJ7b3JnLmh6ZXJvLmJvb3QucGxhdGZvcm0ubG92LmFubm90YXRpb24uTG92VmFsdWUubWVzc2FnZX0iOw==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -536,16 +573,14 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>,
-																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
+        <text encoding="base64">IC8qKgogICAgICog5aSE55CG5ZCO55qE5ZCr5LmJ5a2X5q615pS+5Zyo5ZOq5Liq5a2X5q615LitPGJyLz4KICAgICAqIOS4jeiuvue9ruWImei/m+ihjOm7mOiupOaYoOWwhCzlsIbms6jop6PmiYDlnKjlrZfmrrXlkI3mnKvlsL7nmoRDb2RlKOWmguaenOaciSnmm7/mjaLkuLpNZWFuaW5nLOS+izo8YnIvPgogICAgICogPHVsPgogICAgICogPGxpPnN0YXR1c0NvZGUgLT4gc3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+cHJvY2Vzc1N0YXR1cyAtPiBwcm9jZXNzU3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+Y29kZVR5cGVDb2RlIC0+IGNvZGVUeXBlTWVhbmluZzwvbGk+CiAgICAgKiA8L3VsPgogICAgICovCiAgICBTdHJpbmcgbWVhbmluZ0ZpZWxkKCkgZGVmYXVsdCBTdHJpbmdVdGlscy5FTVBUWTsKCiAgICAvKioKICAgICAqIEByZXR1cm4g5aaC5p6c5aSE55CG5aSx6LSlLOWQq+S5ieWtl+autem7mOiupOiuvue9rueahOWAvCzpu5jorqTkuLrljp92YWx1ZQogICAgICovCiAgICBTdHJpbmcgZGVmYXVsdE1lYW5pbmcoKSBkZWZhdWx0IFN0cmluZ1V0aWxzLkVNUFRZOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+        <text encoding="base64">KioKICoKICovCg==</text>
       </register>
       <register name="9" type="4">
-        <text>if (stacks.empty()) {
-				
-			}</text>
+        <text>,
+																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
       </register>
       <register name="y" type="4">
         <keys>
