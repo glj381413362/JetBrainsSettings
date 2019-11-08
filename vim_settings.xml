@@ -51,17 +51,20 @@
         <mark key="." line="96" column="47" />
         <mark key="^" line="96" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1573178651147">
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="65" column="48" />
-        <mark key="." line="65" column="48" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/E.java.vm" timestamp="1573178784530">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseProduct.java" timestamp="1573178678303">
+        <mark key="[" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/mapper/WarehouseMappingMapper.java" timestamp="1573177629741" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573114499423">
         <mark key="[" line="213" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/config/SwaggerTags.java" timestamp="1573177990447" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseMapping.java" timestamp="1573178588797">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseMapping.java" timestamp="1573178669476">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -239,7 +242,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,required = true)</text>
+        <text>AllArgsConstructor</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -357,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,required = true)</text>
+        <text>AllArgsConstructor</text>
       </register>
       <register name="m" type="4">
         <keys>
