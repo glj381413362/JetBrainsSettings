@@ -32,7 +32,12 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseProduct.java" timestamp="1573178678303">
         <mark key="[" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/mapper/WarehouseMappingMapper.java" timestamp="1573177629741" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListQueryDTO.java" timestamp="1573180625776" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/mapper/WarehouseMappingMapper.java" timestamp="1573180040515">
+        <mark key="[" line="40" column="76" />
+        <mark key="]" line="40" column="76" />
+        <mark key="." line="40" column="76" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573114499423">
         <mark key="[" line="213" column="47" />
       </file>
@@ -48,7 +53,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncTask.java" timestamp="1573115287273">
         <mark key="[" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMappingMapper.xml" timestamp="1573179767525">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMappingMapper.xml" timestamp="1573180547588">
         <mark key="[" line="95" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/EcTransactionServiceImpl.java" timestamp="1573179389186" />
@@ -59,7 +64,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1572965828232">
         <mark key="[" line="283" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573179639919" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573180665510" />
       <file name="/Dummy.txt" timestamp="1573179037760">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
@@ -69,14 +74,17 @@
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
         <mark key="[" line="1755" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/repository/impl/WarehouseMappingRepositoryImpl.java" timestamp="1573179510927" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/repository/impl/WarehouseMappingRepositoryImpl.java" timestamp="1573180257998">
+        <mark key="[" line="40" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterSkuController.java" timestamp="1572964293731">
         <mark key="[" line="58" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseMappingController.java" timestamp="1573178496175" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/WarehouseMappingServiceImpl.java" timestamp="1573178455148" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/repository/WarehouseMappingRepository.java" timestamp="1573178830135">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1573180357723" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/repository/WarehouseMappingRepository.java" timestamp="1573180046354">
+        <mark key="[" line="31" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -207,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>AllArgsConstructor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwoJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5pyJ5pWI5pyf5aeLIiApCglwcml2YXRlIERhdGUgZGF0ZUZyb21TdGFydDsKCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -326,7 +334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AllArgsConstructor</text>
+        <text>conditions</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -434,16 +442,16 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwoJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5pyJ5pWI5pyf5aeLIiApCglwcml2YXRlIERhdGUgZGF0ZUZyb21TdGFydDsKCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwo=</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIHYgPSA7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiDlgLzpm4bmoKHpqozkuI3pgJrov4fml7bnmoTplJnor6/kv6Hmga8KICAgICAqLwogICAgU3RyaW5nIG1lc3NhZ2UoKSBkZWZhdWx0ICJ7b3JnLmh6ZXJvLmJvb3QucGxhdGZvcm0ubG92LmFubm90YXRpb24uTG92VmFsdWUubWVzc2FnZX0iOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJU3RyaW5nIHYgPSA7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -473,7 +481,7 @@
         </keys>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IC8qKgogICAgICog5aSE55CG5ZCO55qE5ZCr5LmJ5a2X5q615pS+5Zyo5ZOq5Liq5a2X5q615LitPGJyLz4KICAgICAqIOS4jeiuvue9ruWImei/m+ihjOm7mOiupOaYoOWwhCzlsIbms6jop6PmiYDlnKjlrZfmrrXlkI3mnKvlsL7nmoRDb2RlKOWmguaenOaciSnmm7/mjaLkuLpNZWFuaW5nLOS+izo8YnIvPgogICAgICogPHVsPgogICAgICogPGxpPnN0YXR1c0NvZGUgLT4gc3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+cHJvY2Vzc1N0YXR1cyAtPiBwcm9jZXNzU3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+Y29kZVR5cGVDb2RlIC0+IGNvZGVUeXBlTWVhbmluZzwvbGk+CiAgICAgKiA8L3VsPgogICAgICovCiAgICBTdHJpbmcgbWVhbmluZ0ZpZWxkKCkgZGVmYXVsdCBTdHJpbmdVdGlscy5FTVBUWTsKCiAgICAvKioKICAgICAqIEByZXR1cm4g5aaC5p6c5aSE55CG5aSx6LSlLOWQq+S5ieWtl+autem7mOiupOiuvue9rueahOWAvCzpu5jorqTkuLrljp92YWx1ZQogICAgICovCiAgICBTdHJpbmcgZGVmYXVsdE1lYW5pbmcoKSBkZWZhdWx0IFN0cmluZ1V0aWxzLkVNUFRZOw==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiDlgLzpm4bmoKHpqozkuI3pgJrov4fml7bnmoTplJnor6/kv6Hmga8KICAgICAqLwogICAgU3RyaW5nIG1lc3NhZ2UoKSBkZWZhdWx0ICJ7b3JnLmh6ZXJvLmJvb3QucGxhdGZvcm0ubG92LmFubm90YXRpb24uTG92VmFsdWUubWVzc2FnZX0iOw==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -510,11 +518,10 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KioKICoKICovCg==</text>
+        <text encoding="base64">IC8qKgogICAgICog5aSE55CG5ZCO55qE5ZCr5LmJ5a2X5q615pS+5Zyo5ZOq5Liq5a2X5q615LitPGJyLz4KICAgICAqIOS4jeiuvue9ruWImei/m+ihjOm7mOiupOaYoOWwhCzlsIbms6jop6PmiYDlnKjlrZfmrrXlkI3mnKvlsL7nmoRDb2RlKOWmguaenOaciSnmm7/mjaLkuLpNZWFuaW5nLOS+izo8YnIvPgogICAgICogPHVsPgogICAgICogPGxpPnN0YXR1c0NvZGUgLT4gc3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+cHJvY2Vzc1N0YXR1cyAtPiBwcm9jZXNzU3RhdHVzTWVhbmluZzwvbGk+CiAgICAgKiA8bGk+Y29kZVR5cGVDb2RlIC0+IGNvZGVUeXBlTWVhbmluZzwvbGk+CiAgICAgKiA8L3VsPgogICAgICovCiAgICBTdHJpbmcgbWVhbmluZ0ZpZWxkKCkgZGVmYXVsdCBTdHJpbmdVdGlscy5FTVBUWTsKCiAgICAvKioKICAgICAqIEByZXR1cm4g5aaC5p6c5aSE55CG5aSx6LSlLOWQq+S5ieWtl+autem7mOiupOiuvue9rueahOWAvCzpu5jorqTkuLrljp92YWx1ZQogICAgICovCiAgICBTdHJpbmcgZGVmYXVsdE1lYW5pbmcoKSBkZWZhdWx0IFN0cmluZ1V0aWxzLkVNUFRZOw==</text>
       </register>
       <register name="6" type="4">
-        <text>,
-																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
+        <text encoding="base64">KioKICoKICovCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -529,15 +536,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+        <text>,
+																O2PcmCoreConstants.PriceApply.STATUS_CREATE, O2PcmCoreConstants.PriceApply.STATUS_REJECTED</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">aWYgKDE8MikgewoJCQl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiIik7CgkJfQ==</text>
+      </register>
+      <register name="9" type="4">
         <text>if (stacks.empty()) {
 				
 			}</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAoJCeeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzlj7bmraLmsLTjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqogQ0MgNC4wIEJZLVNBIOeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggoJCeWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9yeW8xMDYwNzMyNDk2L2FydGljbGUvZGV0YWlscy84MDg5MTEyNQ==</text>
       </register>
       <register name="y" type="4">
         <keys>
