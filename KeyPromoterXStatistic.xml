@@ -230,7 +230,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1140</Count>
+          <Count>1143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -814,7 +814,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -854,7 +854,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1031</Count>
+          <Count>1038</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
