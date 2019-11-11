@@ -78,7 +78,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -190,7 +190,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
