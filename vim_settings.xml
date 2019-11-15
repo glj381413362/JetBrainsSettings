@@ -13,6 +13,10 @@
         <mark key="." line="207" column="23" />
       </file>
       <file name="$USER_HOME$/Downloads/main 4/java/com/tencent/fm/oms/pcm/manager/infra/mapper/CodeMatchingMapper.java" timestamp="1573612696995" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1573807599981" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1573806785359">
+        <mark key="[" line="92" column="104" />
+      </file>
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/ServiceImpl.java.vm" timestamp="1573615856605">
         <mark key="[" line="54" column="50" />
         <mark key="]" line="54" column="50" />
@@ -63,13 +67,15 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/pom.xml" timestamp="1573207911384">
         <mark key="[" line="48" column="21" />
       </file>
-      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/LinkedMultiValueMap.java" timestamp="1573700369615" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/WarehouseProductServiceImpl.java" timestamp="1573716729603">
-        <mark key="[" line="129" column="49" />
-        <mark key="]" line="129" column="49" />
-        <mark key="." line="129" column="49" />
-        <mark key="^" line="52" column="104" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/aop/DataPermissionAOP.java" timestamp="1573808386870">
+        <mark key="[" line="43" column="90" />
+        <mark key="]" line="43" column="90" />
+        <mark key="." line="43" column="90" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1573806490836">
+        <mark key="[" line="22" column="88" />
+      </file>
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/LinkedMultiValueMap.java" timestamp="1573700369615" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseProductUpdateReqDTO.java" timestamp="1573529654333">
         <mark key="[" line="22" column="7" />
       </file>
@@ -110,6 +116,7 @@
         <mark key="." line="49" column="27" />
       </file>
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/CodeMatchingController.java" timestamp="1573609033465" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/v1/CustomerController.java" timestamp="1573807604799" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/domain/entity/CodeMatching.java" timestamp="1573719977261">
         <mark key="[" line="35" column="56" />
         <mark key="]" line="35" column="56" />
@@ -137,12 +144,6 @@
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/manager/app/service/CodeMatchingService.java" timestamp="1573608604618" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Repository.java.vm" timestamp="1573611734043">
         <mark key="[" line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Mapper.java.vm" timestamp="1573612981990">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="56" />
-        <mark key="^" line="2" column="56" />
       </file>
       <file name="$USER_HOME$/Downloads/main 4/resources/mapper/CodeMatchingMapper.xml" timestamp="1573612358528" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Mapper.xml.vm" timestamp="1573612927134">
@@ -212,7 +213,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573201232281">
         <mark key="[" line="25" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573801018834">
+      <file name="/Dummy.txt" timestamp="1573806823967">
         <mark key="a" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -406,7 +407,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pageInfo</text>
+        <text />
       </register>
       <register name="c" type="4">
         <keys>
@@ -524,7 +525,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pageInfo</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
