@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ArrayStack.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ArrayStack.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GeneratorApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -391,6 +399,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ArrayList'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ArrayStack'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ArrayStack'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'LinkedList'">
@@ -902,7 +918,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1057</Count>
+          <Count>1058</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
