@@ -76,7 +76,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/domain/service/impl/InterPurchaseDeliveryServiceImpl.java" timestamp="1573523748759">
         <mark key="[" line="92" column="56" />
       </file>
-      <file name="$USER_HOME$/ymxy_workspace/list/LinkedList.java" timestamp="1573976274435" />
+      <file name="$USER_HOME$/ymxy_workspace/list/LinkedList.java" timestamp="1573982229998" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/iam/IamFeignClient.java" timestamp="1573895799682" />
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/app/service/WarehouseProductService.java" timestamp="1573528769360" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/logback-sit.xml" timestamp="1573196348887">
@@ -95,6 +95,7 @@
         <mark key="[" line="105" column="38" />
       </file>
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/api/controller/dto/WarehouseProductInsertReqDTO.java" timestamp="1573528934077" />
+      <file name="$USER_HOME$/ymxy_workspace/dataStructure/.idea/workspace.xml" timestamp="1573983196602" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/api/controller/v1/TestController.java" timestamp="1573200635822">
         <mark key="[" line="118" column="12" />
         <mark key="]" line="118" column="12" />
@@ -152,6 +153,9 @@
       </file>
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/CodeMatchingInsertReqDTO.java" timestamp="1573608995777" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/proxy/InfClientProxy.class" timestamp="1573699595931" />
+      <file name="$USER_HOME$/ymxy_workspace/dataStructure/pom.xml" timestamp="1573983242425">
+        <mark key="[" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PlatformSkuQueryDTO.java" timestamp="1573442321835" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1573791426194" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/EcTransactionServiceImpl.java" timestamp="1573207114188">
@@ -176,6 +180,7 @@
         <mark key="." line="123" column="33" />
         <mark key="^" line="84" column="23" />
       </file>
+      <file name="$USER_HOME$/ymxy_workspace/list/LinkedListDummyHead1.java" timestamp="1573982447865" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573201232281">
         <mark key="[" line="25" column="8" />
       </file>
@@ -203,12 +208,6 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/CommonRes.java" timestamp="1573440849489" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseController.java" timestamp="1573528714588" />
-      <file name="$USER_HOME$/ymxy_workspace/dataStructure/src/main/java/demo/ds/list/impl/LinkedList.java" timestamp="1573979063082">
-        <mark key="[" line="160" column="12" />
-        <mark key="]" line="160" column="12" />
-        <mark key="^" line="135" column="36" />
-        <mark key="." line="160" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/RepositoryImpl.java.vm" timestamp="1573612993515">
         <mark key="[" line="2" column="54" />
       </file>
@@ -364,7 +363,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text encoding="base64">IGVsc2UgewoJCQloZWFkLm5leHQgPSBuZXcgTm9kZShlLCBoZWFkLm5leHQpOwoJCX0=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -482,7 +481,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -590,18 +589,16 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgkJaGVhZC5uZXh0PW5ldyBOb2RlKGUsbnVsbCk7Cg==</text>
+        <text encoding="base64">IGVsc2UgewoJCQloZWFkLm5leHQgPSBuZXcgTm9kZShlLCBoZWFkLm5leHQpOwoJCX0=</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKGluZGV4ID4gc2l6ZS0xKSB7CgkJCWRhdGEgPSBBcnJheXMuY29weU9mKGRhdGEsIDIgKiBERUZBVUxUX1NJWkUpOwoJCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CgoJCXJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>for (E datum : data) {
-			
-		}</text>
+        <text encoding="base64">CgkJaGVhZC5uZXh0PW5ldyBOb2RlKGUsbnVsbCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -630,8 +627,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl0aGlzLmRhdGEgPSBzaXplOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKGluZGV4ID4gc2l6ZS0xKSB7CgkJCWRhdGEgPSBBcnJheXMuY29weU9mKGRhdGEsIDIgKiBERUZBVUxUX1NJWkUpOwoJCX0=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -668,11 +665,12 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>else {
-			}</text>
+        <text>for (E datum : data) {
+			
+		}</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJCQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQl0aGlzLmRhdGEgPSBzaXplOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -687,18 +685,19 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text>else {
+			}</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJCQ==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
 		SecurityTokenHelper.validToken(warehouseMapping);
 		warehouseMappingRepository.updateByPrimaryKeySelective(warehouseMapping);
 		Res update = warehouseMappingService.update(warehouseMapping);
 		return update.buildResponse(warehouseMapping);
 	}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwoJQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5pyJ5pWI5pyf5aeLIiApCglwcml2YXRlIERhdGUgZGF0ZUZyb21TdGFydDsKCUBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuacieaViOacn+iHsyIgKQoJcHJpdmF0ZSBEYXRlIGRhdGVGcm9tRW5kOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PEJlYW5Qb3N0UHJvY2Vzc29yPiBnZXRCZWFuUG9zdFByb2Nlc3NvcnMoKSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
