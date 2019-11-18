@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/impl/OrderServiceImpl.java" timestamp="1573540493381">
+        <mark key="[" line="1677" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/application-dev.yml" timestamp="1574051447173" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/registry/JobRegistry.java" timestamp="1574075027104" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1573807599981" />
@@ -12,10 +15,25 @@
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/data/InfClientRequest.class" timestamp="1573701066776" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1573895718775" />
       <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/java/org/hzero/generator/util/GenByDDDUtils.java" timestamp="1573615582480" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingQueryReqDTO.java" timestamp="1573788274563">
+        <mark key="[" line="41" column="33" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/tool/SchedulerTool.java" timestamp="1574071480186" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseProductQueryReqDTO.java" timestamp="1573540557948">
+        <mark key="[" line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseProductController.java" timestamp="1573529571334">
+        <mark key="[" line="122" column="66" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1574061767900">
+        <mark key="[" line="99" column="18" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/util/LinkedMultiValueMap.java" timestamp="1573700369615" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/com/tencent/fm/oms/scheduler/autoconfigure/scheduler/SchedulerAutoConfiguration.java" timestamp="1574075604960" />
       <file name="$USER_HOME$/ymxy_workspace/源码/ds/queue/ArrayQueue.java" timestamp="1573986666412" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/domain/service/impl/InterPurchaseDeliveryServiceImpl.java" timestamp="1573523748759">
+        <mark key="[" line="92" column="56" />
+      </file>
       <file name="$USER_HOME$/ymxy_workspace/list/LinkedList.java" timestamp="1573982229998" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/app/service/impl/JobLogBackServiceImpl.java" timestamp="1574072952082" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/iam/IamFeignClient.java" timestamp="1573895799682" />
@@ -24,6 +42,9 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/EcTransactionMapper.xml" timestamp="1573612814837" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/resources/mapper/DeliveryMapper.xml" timestamp="1574064961086" />
       <file name="$USER_HOME$/ymxy_workspace/rocketmq-master/namesrv/src/main/java/org/apache/rocketmq/namesrv/NamesrvStartup.java" timestamp="1573998883072" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMappingMapper.xml" timestamp="1573540106605">
+        <mark key="[" line="105" column="38" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/FairLockServiceImpl.java" timestamp="1574043797171" />
       <file name="$USER_HOME$/ymxy_workspace/dataStructure/.idea/workspace.xml" timestamp="1573983196602" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/infra/mapper/DeliveryMapper.java" timestamp="1573436765011" />
@@ -37,26 +58,56 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/infra/init/SchedulerServiceInit.class" timestamp="1574072000731" />
       <file name="$USER_HOME$/Maven_Repository/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/JobKey.class" timestamp="1574071944887" />
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/manager/app/service/CodeMatchingService.java" timestamp="1573608604618" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Repository.java.vm" timestamp="1573611734043">
+        <mark key="[" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/domain/entity/CancelOrder.java" timestamp="1574066848504" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/Mapper.xml.vm" timestamp="1573612927134">
+        <mark key="[" line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/impl/PurchaseOrderServiceImpl.java" timestamp="1573523582514" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/api/dto/JobLogDTO.java" timestamp="1574071346338" />
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/api/controller/v1/WarehouseProductController.java" timestamp="1573529378216" />
       <file name="$USER_HOME$/ymxy_workspace/list/List.java" timestamp="1573962435376" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/application-prod.yml" timestamp="1574051594956" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/MasterSkuDynamicMapper.xml" timestamp="1573788132010">
+        <mark key="[" line="213" column="47" />
+      </file>
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/CodeMatchingInsertReqDTO.java" timestamp="1573608995777" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/proxy/InfClientProxy.class" timestamp="1573699595931" />
       <file name="$USER_HOME$/ymxy_workspace/源码/ds/stack/LinkedStack.java" timestamp="1573984883110" />
       <file name="$USER_HOME$/ymxy_workspace/源码/ds/stack/ArrayStack.java" timestamp="1573984307832" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/app/service/impl/EcTransactionServiceImpl.java" timestamp="1574084665890">
+        <mark key="[" line="947" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/db/18_tencent_oms_dml.sql" timestamp="1573787995442" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/constant/BootSchedulerConstant.java" timestamp="1574073391387" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterSkuController.java" timestamp="1573612251136">
+        <mark key="[" line="62" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/CommonRes.java" timestamp="1573440849489" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/RepositoryImpl.java.vm" timestamp="1573612993515">
+        <mark key="[" line="2" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/emum/Res.java" timestamp="1573787749488" />
       <file name="$USER_HOME$/Downloads/main 4/java/com/tencent/fm/oms/pcm/manager/infra/repository/impl/CodeMatchingRepositoryImpl.java" timestamp="1573614453153" />
       <file name="$USER_HOME$/Downloads/main 4/java/com/tencent/fm/oms/pcm/manager/infra/mapper/CodeMatchingMapper.java" timestamp="1573612696995" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1573806785359">
+        <mark key="[" line="92" column="104" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingQueryRespDTO.java" timestamp="1573809098531">
+        <mark key="[" line="46" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/impl/InterTransactionServiceImpl.java" timestamp="1573523488937" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertRespDTO.java" timestamp="1573467134515">
+        <mark key="[" line="96" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/jobs/CancelOrderSyncJob.java" timestamp="1574043735723" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/infra/repository/impl/OrderTypeConfigRepositoryImpl.java" timestamp="1574065039270" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1573477788587" />
+      <file name="$USER_HOME$/ymxy_workspace/LearnDemo/src/main/java/demo/ds/stack/impl/LinkedStack.java" timestamp="1573984966670">
+        <mark key="[" line="5" column="37" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/infra/job/ScanExecutorJob.class" timestamp="1574074726353" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/domain/service/IJobService.class" timestamp="1574071704598" />
       <file name="$USER_HOME$/Maven_Repository/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/JobBuilder.class" timestamp="1574074429145" />
@@ -78,7 +129,7 @@
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE.jar!/org/hzero/boot/scheduler/infra/tool/SchedulerTool.class" timestamp="1574044604814" />
       <file name="$USER_HOME$/Downloads/main 4/resources/mapper/CodeMatchingMapper.xml" timestamp="1573612358528" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-mybatis-mapper/0.10.0.RELEASE/hzero-starter-mybatis-mapper-0.10.0.RELEASE-sources.jar!/org/hzero/mybatis/util/Sqls.java" timestamp="1573722232862" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/org/hzero/scheduler/infra/listener/JobLogBackListener.java" timestamp="1574077641643" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-hzero-scheduler/src/main/java/org/hzero/scheduler/infra/listener/JobLogBackListener.java" timestamp="1574084284871" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/lov/constraints/LovValueConstraint.java" timestamp="1574059123373" />
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/app/service/impl/WarehouseProductServiceImpl.java" timestamp="1573528810467" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/tool/ProgressCache.java" timestamp="1574056249660" />
@@ -86,18 +137,31 @@
       <file name="$USER_HOME$/Downloads/main 2/java/com/tencent/fm/oms/pcm/manager/app/service/impl/CodeMatchingServiceImpl.java" timestamp="1573608636005" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE.jar!/org/hzero/boot/scheduler/api/dto/JobDataDTO.class" timestamp="1574044517970" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-core/0.10.0.RELEASE/hzero-starter-core-0.10.0.RELEASE.jar!/io/choerodon/core/oauth/CustomUserDetails.class" timestamp="1573895550569" />
+      <file name="$USER_HOME$/ymxy_workspace/dataStructure/pom.xml" timestamp="1573983242425">
+        <mark key="[" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/init/ExecutorInit.java" timestamp="1574075136289" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PlatformSkuQueryDTO.java" timestamp="1573442321835" />
       <file name="$USER_HOME$/Maven_Repository/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/utils/Key.class" timestamp="1574071961764" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/handler/IJobRecordHandler.java" timestamp="1574080765152" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/infra/constant/O2PcmCoreConstants.java" timestamp="1573791426194" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/org/hzero/boot/scheduler/app/service/impl/JobLogBackServiceImpl.java" timestamp="1574080389373" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/org/hzero/boot/scheduler/app/service/impl/JobLogBackServiceImpl.java" timestamp="1574084228957" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterSkuServiceImpl.java" timestamp="1573701802434">
+        <mark key="[" line="283" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/infra/mapper/CodeMatchingMapper.java" timestamp="1573613113209">
+        <mark key="[" line="24" column="68" />
+      </file>
       <file name="$USER_HOME$/ymxy_workspace/list/LinkedListDummyHead1.java" timestamp="1573982447865" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/domain/service/impl/InterDeliveryServiceImpl.java" timestamp="1573523797152" />
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-context-support/5.0.10.RELEASE/spring-context-support-5.0.10.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" timestamp="1574073067221" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/manager/RestTemplateManager.class" timestamp="1573701923245" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-oauth/0.10.0.RELEASE/hzero-oauth-0.10.0.RELEASE.jar!/org/hzero/oauth/domain/entity/User.class" timestamp="1573895625808" />
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/data/spring-data-redis/2.0.11.RELEASE/spring-data-redis-2.0.11.RELEASE.jar!/org/springframework/data/redis/listener/adapter/MessageListenerAdapter.class" timestamp="1574084271824" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/v1/WarehouseController.java" timestamp="1573528714588" />
+      <file name="$USER_HOME$/workspace/hzero-generator/hzero-generator/src/main/resources/template/ddd/queryReqDTO.java.vm" timestamp="1573611256834">
+        <mark key="[" line="33" column="8" />
+      </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/api/controller/v1/JobInfoController.class" timestamp="1574071640456" />
     </filemarks>
     <jumps>
