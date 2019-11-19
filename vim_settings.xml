@@ -8,6 +8,7 @@
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/application-dev.yml" timestamp="1574051447173" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/registry/JobRegistry.java" timestamp="1574089153693" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/app/service/impl/JobInfoServiceImpl.class" timestamp="1574128456392" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/MasterProductController.java" timestamp="1573807599981" />
       <file name="$USER_HOME$/ymxy_workspace/list/ArrayList.java" timestamp="1573975496907" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/app/service/impl/JobExecuteServiceImpl.java" timestamp="1574126947615" />
@@ -51,6 +52,7 @@
         <mark key="[" line="105" column="38" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/service/impl/FairLockServiceImpl.java" timestamp="1574043797171" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/mapper/JobInfoMapper.xml" timestamp="1574128640657" />
       <file name="$USER_HOME$/ymxy_workspace/dataStructure/.idea/workspace.xml" timestamp="1573983196602" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/infra/mapper/DeliveryMapper.java" timestamp="1573436765011" />
       <file name="$USER_HOME$/Maven_Repository/org/o2/boot/o2-boot-interface/0.4.2.RELEASE/o2-boot-interface-0.4.2.RELEASE.jar!/org/o2/boot/inf/config/resolver/InfClientClassResolver.class" timestamp="1573700270964" />
@@ -118,7 +120,7 @@
         <mark key="[" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/infra/job/ScanExecutorJob.class" timestamp="1574088386460" />
-      <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/registry/ThreadRegistry.java" timestamp="1574127221923" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/registry/ThreadRegistry.java" timestamp="1574128400184" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/org/hzero/scheduler/domain/service/IJobService.class" timestamp="1574092524206" />
       <file name="$USER_HOME$/Maven_Repository/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/JobBuilder.class" timestamp="1574074429145" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/jobs/EpoPurchaseOrderInfoQueryJob.java" timestamp="1574068491254" />
