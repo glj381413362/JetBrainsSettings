@@ -297,11 +297,11 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/LockInfoProvider.java" timestamp="1574141977453" />
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/api/controller/dto/WarehouseProductInsertReqDTO.java" timestamp="1573528934077" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/OMSSystemStopJob.java" timestamp="1574249717101">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/OMSSystemStopJob.java" timestamp="1574251788660">
         <mark key="'" line="53" column="29" />
-        <mark key="[" line="139" column="67" />
-        <mark key="]" line="139" column="67" />
-        <mark key="." line="139" column="67" />
+        <mark key="[" line="94" column="85" />
+        <mark key="]" line="94" column="85" />
+        <mark key="." line="94" column="85" />
         <mark key="^" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/code/constant/CodeConstants.java" timestamp="1573436203207" />
@@ -546,7 +546,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>WAITING</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -664,7 +664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>WAITING</text>
       </register>
       <register name="m" type="4">
         <keys>
