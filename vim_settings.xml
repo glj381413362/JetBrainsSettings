@@ -48,6 +48,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-sit.yml" timestamp="1574092844819">
         <mark key="[" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductAutoSyncJob.java" timestamp="1574306952228" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateRespDTO.java" timestamp="1573467502879">
         <mark key="[" line="92" column="31" />
       </file>
@@ -79,7 +80,7 @@
       </file>
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/app/service/WarehouseProductService.java" timestamp="1573528769360" />
       <file name="$USER_HOME$/ymxy_workspace/rocketmq-master/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1574039830962" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/EcTransactionMapper.xml" timestamp="1573612814837" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/EcTransactionMapper.xml" timestamp="1574307821867" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/resources/mapper/DeliveryMapper.xml" timestamp="1574064961086" />
       <file name="$USER_HOME$/ymxy_workspace/rocketmq-master/namesrv/src/main/java/org/apache/rocketmq/namesrv/NamesrvStartup.java" timestamp="1573998883072" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/resources/mapper/WarehouseMappingMapper.xml" timestamp="1573540106605">
@@ -253,10 +254,10 @@
         <mark key="[" line="31" column="76" />
       </file>
       <file name="$USER_HOME$/Downloads/main 4/java/com/tencent/fm/oms/pcm/manager/infra/repository/impl/CodeMatchingRepositoryImpl.java" timestamp="1573614453153" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1574133940357">
-        <mark key="[" line="207" column="23" />
-        <mark key="]" line="207" column="23" />
-        <mark key="." line="207" column="23" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PlatformSkuDynamicMapper.xml" timestamp="1574308051948">
+        <mark key="[" line="378" column="28" />
+        <mark key="]" line="378" column="28" />
+        <mark key="." line="378" column="28" />
       </file>
       <file name="$USER_HOME$/Downloads/main 4/java/com/tencent/fm/oms/pcm/manager/infra/mapper/CodeMatchingMapper.java" timestamp="1573612696995" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1574137362515">
@@ -277,6 +278,9 @@
         <mark key="[" line="96" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/jobs/CancelOrderSyncJob.java" timestamp="1574043735723" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductCodeSyncToTLPJob.java" timestamp="1574307527673">
+        <mark key="[" line="26" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceApplyDetailRespDTO.java" timestamp="1573019154846">
         <mark key="[" line="45" column="43" />
       </file>
@@ -360,7 +364,7 @@
         <mark key="]" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductsSyncToTLPJob.java" timestamp="1574132168503" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductsSyncToTLPJob.java" timestamp="1574307089654" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceListDTO.java" timestamp="1574152115751">
         <mark key="[" line="56" column="29" />
       </file>
@@ -393,6 +397,9 @@
       <file name="$USER_HOME$/Downloads/main 4/java/com/tencent/fm/oms/pcm/manager/domain/repository/CodeMatchingRepository.java" timestamp="1573615611129" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertReqDTO.java" timestamp="1573467144502">
         <mark key="[" line="125" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/infra/mapper/PlatformSkuDynamicMapper.java" timestamp="1574307443052">
+        <mark key="[" line="65" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-prod.yml" timestamp="1574051625701">
         <mark key="[" line="116" column="21" />
@@ -633,7 +640,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Lm1hcChzdHJpbmdzIC0+IExvbmcudmFsdWVPZihzdHJpbmdzKSk=</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -751,7 +758,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lm1hcChzdHJpbmdzIC0+IExvbmcudmFsdWVPZihzdHJpbmdzKSk=</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="m" type="4">
         <keys>
