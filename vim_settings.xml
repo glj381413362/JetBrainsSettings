@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListUpdateReqDTO.java" timestamp="1574149028881">
-        <mark key="[" line="138" column="34" />
+        <mark key="[" line="174" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/impl/OrderServiceImpl.java" timestamp="1574255550853">
         <mark key="[" line="1677" column="13" />
@@ -31,7 +31,7 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/infra/tool/SchedulerTool.java" timestamp="1574071480186" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/core/domain/entity/PriceList.java" timestamp="1574149606692">
-        <mark key="[" line="263" column="31" />
+        <mark key="[" line="296" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseProductQueryReqDTO.java" timestamp="1573540557948">
         <mark key="[" line="20" column="8" />
@@ -131,7 +131,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PlatformSkuServiceImpl.java" timestamp="1574134179082" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/impl/PurchaseOrderServiceImpl.java" timestamp="1573523582514" />
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-scheduler/0.10.1.2.RELEASE/hzero-boot-scheduler-0.10.1.2.RELEASE-sources.jar!/org/hzero/boot/scheduler/api/dto/JobLogDTO.java" timestamp="1574071346338" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListDTO.java" timestamp="1574151794704" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/PriceListDTO.java" timestamp="1574299009416" />
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/api/controller/v1/WarehouseProductController.java" timestamp="1573529378216" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/domain/entity/WarehouseProduct.java" timestamp="1573178678303">
         <mark key="[" line="28" column="4" />
@@ -197,7 +197,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1574051499596">
         <mark key="[" line="122" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574257866883">
+      <file name="/Dummy.txt" timestamp="1574259955291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
@@ -331,11 +331,11 @@
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/starter/hzero-starter-lock/0.10.0.RELEASE/hzero-starter-lock-0.10.0.RELEASE-sources.jar!/org/hzero/lock/LockInfoProvider.java" timestamp="1574141977453" />
       <file name="$USER_HOME$/Downloads/main/java/com/tencent/fm/oms/inventor/api/controller/dto/WarehouseProductInsertReqDTO.java" timestamp="1573528934077" />
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/OMSSystemStopJob.java" timestamp="1574257865264">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/job/OMSSystemStopJob.java" timestamp="1574259936413">
         <mark key="'" line="53" column="29" />
-        <mark key="[" line="191" column="20" />
-        <mark key="]" line="191" column="20" />
-        <mark key="." line="191" column="20" />
+        <mark key="[" line="117" column="45" />
+        <mark key="]" line="117" column="45" />
+        <mark key="." line="117" column="45" />
         <mark key="^" line="191" column="20" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/hzero/boot/hzero-boot-platform/0.10.0.RELEASE/hzero-boot-platform-0.10.0.RELEASE-sources.jar!/org/hzero/boot/platform/code/constant/CodeConstants.java" timestamp="1573436203207" />
@@ -362,7 +362,7 @@
         <mark key="." line="52" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/data/MasterSkuDTO.java" timestamp="1573788254428" />
-      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/mapper/JobLogMapper.xml" timestamp="1574244381856" />
+      <file name="$USER_HOME$/Maven_Repository/org/hzero/hzero-scheduler/0.10.2.RELEASE/hzero-scheduler-0.10.2.RELEASE.jar!/mapper/JobLogMapper.xml" timestamp="1574259327674" />
       <file name="$USER_HOME$/ymxy_workspace/LearnDemo/src/main/java/demo/ds/queue/impl/ArrayQueue.java" timestamp="1573986677038">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="60" column="27" />
@@ -481,7 +481,7 @@
         <mark key="." line="165" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/mapper/PriceListDynamicMapper.xml" timestamp="1574149180706">
-        <mark key="[" line="68" column="27" />
+        <mark key="[" line="77" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/constant/Constants.java" timestamp="1573440022563">
         <mark key="[" line="100" column="54" />
@@ -625,7 +625,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Long</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -743,7 +743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
