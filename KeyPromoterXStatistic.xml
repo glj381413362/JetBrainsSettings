@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1395</Count>
+          <Count>1399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -894,7 +894,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>143</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
