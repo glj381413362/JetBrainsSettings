@@ -258,7 +258,7 @@
         <mark key="[" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/inv/impl/InventoryFeignClientImpl.java" timestamp="1574391241240" />
-      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1574517967693" />
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1574517971688" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1574318923848">
         <mark key="[" line="155" column="21" />
       </file>
@@ -347,6 +347,7 @@
         <mark key="." line="54" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/impl/PlatformSkuFeignClientImpl.java" timestamp="1574387843994" />
+      <file name="$USER_HOME$/Maven_Repository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1574518030420" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingQueryRespDTO.java" timestamp="1573809098531">
         <mark key="[" line="46" column="60" />
       </file>
