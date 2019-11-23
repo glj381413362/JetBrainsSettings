@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1574318923848">
         <mark key="[" line="155" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574418950959">
+      <file name="/Dummy.txt" timestamp="1574476015529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
@@ -429,6 +429,7 @@
         <mark key="]" line="150" column="72" />
         <mark key="." line="150" column="72" />
       </file>
+      <file name="$USER_HOME$/ymxy_workspace/spring-framework/笔记" timestamp="1574476212184" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingQueryReqDTO.java" timestamp="1573201232281">
         <mark key="[" line="25" column="8" />
       </file>
