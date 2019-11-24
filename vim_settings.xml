@@ -130,8 +130,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/ymxy_workspace/ClassroomDemo/src/main/java/bat/ke/qq/com/ElasticSearchClientTest.java" timestamp="1574342696428">
-        <mark key="[" line="9" column="38" />
+      <file name="$USER_HOME$/ymxy_workspace/ClassroomDemo/src/main/java/bat/ke/qq/com/ElasticSearchClientTest.java" timestamp="1574597082837">
+        <mark key="[" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/learn-spring/src/main/java/com/jiagouedu/anno/MyEnableAspectJAutoProxy.java" timestamp="1574479771269">
         <mark key="[" line="7" column="0" />
@@ -696,6 +696,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseMappingUpdateReqDTO.java" timestamp="1573467466610">
         <mark key="[" line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/ymxy_workspace/ClassroomDemo/pom.xml" timestamp="1574597103781" />
     </filemarks>
     <jumps>
       <jump line="122" column="2" filename="D:/Program_Files/java8/jdk/src.zip!/java/util/PriorityQueue.java" />
