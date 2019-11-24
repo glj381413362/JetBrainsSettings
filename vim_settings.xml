@@ -16,7 +16,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassPostProcessor.java" timestamp="1574495148928">
+      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassPostProcessor.java" timestamp="1574582967476">
         <mark key="[" line="322" column="53" />
         <mark key="]" line="322" column="53" />
         <mark key="." line="322" column="53" />
@@ -148,6 +148,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-beans/src/main/java/org/springframework/beans/factory/config/BeanDefinition.java" timestamp="1574581856914" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/OrderApplication.java" timestamp="1574502082930" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1574311411965" />
       <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/learn-ioc3/src/main/java/bat/ke/qq/com/bean/Fox.java" timestamp="1574479738775">
@@ -504,7 +505,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerInsertReqDTO.java" timestamp="1573467144502">
         <mark key="[" line="125" column="47" />
       </file>
-      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassParser.java" timestamp="1574481974359" />
+      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassParser.java" timestamp="1574582106588" />
+      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-beans/src/main/java/org/springframework/beans/factory/support/BeanDefinitionBuilder.java" timestamp="1574581745269" />
       <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/learn-ioc/src/main/java/bat/ke/qq/com/bean/MyImportBeanDefinitionRegistrar.java" timestamp="1574479777782">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -643,6 +645,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/util/CommonPayloadUtil.java" timestamp="1574317768515">
         <mark key="[" line="39" column="15" />
       </file>
+      <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java" timestamp="1574582852556" />
       <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/learn-ioc2/src/main/java/bat/ke/qq/com/bean/MyImportBeanDefinitionRegistrar.java" timestamp="1574479929245">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
