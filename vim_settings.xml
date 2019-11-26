@@ -16,7 +16,11 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateReqDTO.java" timestamp="1573467157345">
         <mark key="[" line="127" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1574741472921" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1574742639198">
+        <mark key="[" line="1109" column="17" />
+        <mark key="]" line="1109" column="17" />
+        <mark key="." line="1109" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingQueryReqDTO.java" timestamp="1573788274563">
         <mark key="[" line="41" column="33" />
       </file>
@@ -136,6 +140,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceApplyController.java" timestamp="1574737492008">
         <mark key="[" line="192" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1574742030711" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/impl/CustomerFeignClientImpl.java" timestamp="1574742182209" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/infra/repository/impl/WarehouseMappingRepositoryImpl.java" timestamp="1573206169732">
         <mark key="[" line="37" column="0" />
       </file>
@@ -202,8 +208,8 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/pom.xml" timestamp="1573207911384">
         <mark key="[" line="48" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/PriceApplyImportCheckReqDTO.java" timestamp="1574741655821">
-        <mark key="[" line="59" column="30" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/PriceApplyImportCheckReqDTO.java" timestamp="1574742312892">
+        <mark key="[" line="96" column="24" />
         <mark key="]" line="59" column="30" />
         <mark key="." line="59" column="30" />
         <mark key="^" line="59" column="30" />
@@ -211,7 +217,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1574312686742">
         <mark key="[" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/PriceApplyImportCheckRespDTO.java" timestamp="1574735702888">
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/dto/PriceApplyImportCheckRespDTO.java" timestamp="1574742304657">
         <mark key="'" line="84" column="12" />
         <mark key="[" line="133" column="31" />
         <mark key="]" line="133" column="31" />
@@ -239,6 +245,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/resources/application-prod.yml" timestamp="1574051603129">
         <mark key="[" line="114" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/CustomerFeignClient.java" timestamp="1574741862891" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/jobs/InterTransactionJob.java" timestamp="1574648505412" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/src/main/java/com/tencent/fm/oms/order/app/service/MarsOrderService.java" timestamp="1574386191856">
         <mark key="[" line="121" column="76" />
@@ -455,7 +462,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QE5vdEJsYW5rIA==</text>
+        <text>else {
+					
+				}</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -573,7 +582,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QE5vdEJsYW5rIA==</text>
+        <text>customerFeignClientByPage</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -680,14 +689,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIOa6kOeggeWtpumZoi1Gb3gKICog5Y+q5Li65Z+55YW7QkFU56iL5bqP5ZGY6ICM55SfCiAqIGh0dHA6Ly9iYXQua2UucXEuY29tCiAqIOW+gOacn+inhumikeWKoOe+pDo1MTYyMTIyNTYg5pqX5Y+3OjYKICovCg==</text>
+      <register name="1" type="4">
+        <text>else {
+					
+				}</text>
       </register>
       <register name="q" type="4">
         <text>nyy3jkp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIOa6kOeggeWtpumZoi1Gb3gKICog5Y+q5Li65Z+55YW7QkFU56iL5bqP5ZGY6ICM55SfCiAqIGh0dHA6Ly9iYXQua2UucXEuY29tCiAqIOW+gOacn+inhumikeWKoOe+pDo1MTYyMTIyNTYg5pqX5Y+3OjYKICovCg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgIHBsYXRmb3JtQ2F0ZWdvcnlSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIOa6kOeggeWtpumZoi1Gb3gKICog5Y+q5Li65Z+55YW7QkFU56iL5bqP5ZGY6ICM55SfCiAqIGh0dHA6Ly9iYXQua2UucXEuY29tCiAqIOW+gOacn+inhumikeWKoOe+pDo1MTYyMTIyNTYg5pqX5Y+3OjYKICovCg==</text>
