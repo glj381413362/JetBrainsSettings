@@ -187,6 +187,7 @@
         <mark key="]" line="383" column="28" />
         <mark key="." line="383" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformAttributeValueController.java" timestamp="1574840423792" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformSkuController.java" timestamp="1574745381372">
         <mark key="[" line="80" column="25" />
       </file>
@@ -207,6 +208,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceApplyDetailRespDTO.java" timestamp="1573019154846">
         <mark key="[" line="45" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PlatformProductRelCategoryController.java" timestamp="1574840451990" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/MasterProductServiceImpl.java" timestamp="1574649027884" />
       <file name="$USER_HOME$/ymxy_workspace/LearnDemo/src/main/java/demo/ds/stack/impl/LinkedStack.java" timestamp="1573984966670">
         <mark key="[" line="5" column="37" />
