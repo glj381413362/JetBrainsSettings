@@ -38,10 +38,10 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/api/controller/dto/CustomerUpdateReqDTO.java" timestamp="1573467157345">
         <mark key="[" line="127" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1574761939858">
-        <mark key="[" line="1590" column="43" />
-        <mark key="]" line="1590" column="43" />
-        <mark key="." line="1590" column="43" />
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/impl/PriceApplyServiceImpl.java" timestamp="1574826146826">
+        <mark key="[" line="1217" column="63" />
+        <mark key="]" line="1217" column="63" />
+        <mark key="." line="1217" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/dto/CodeMatchingQueryReqDTO.java" timestamp="1573788274563">
         <mark key="[" line="41" column="33" />
@@ -91,6 +91,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/task/CustomerForErpConvertTask.java" timestamp="1574825842556" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1574394133974">
         <mark key="[" line="103" column="46" />
         <mark key="]" line="102" column="113" />
@@ -274,7 +275,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/resources/application-dev.yml" timestamp="1574318923848">
         <mark key="[" line="155" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574823668985">
+      <file name="/Dummy.txt" timestamp="1574826149544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
@@ -289,9 +290,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/api/controller/v1/PriceApplyController.java" timestamp="1574760676983">
-        <mark key="[" line="233" column="26" />
-        <mark key="]" line="233" column="26" />
-        <mark key="." line="233" column="26" />
+        <mark key="[" line="257" column="26" />
+        <mark key="]" line="257" column="26" />
+        <mark key="." line="257" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-customer/src/main/java/com/tencent/fm/oms/customer/app/service/impl/CustomerServiceImpl.java" timestamp="1574742886693" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/customer/impl/CustomerFeignClientImpl.java" timestamp="1574742182209" />
@@ -645,9 +646,9 @@
         <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/service/PriceApplyService.java" timestamp="1574760585808">
-        <mark key="[" line="165" column="13" />
-        <mark key="]" line="165" column="13" />
-        <mark key="." line="165" column="13" />
+        <mark key="[" line="184" column="13" />
+        <mark key="]" line="184" column="13" />
+        <mark key="." line="184" column="13" />
       </file>
       <file name="$USER_HOME$/ymxy_workspace/spring-framework-glj/aop-test/src/test/java/AOPTest.java" timestamp="1574479838031">
         <mark key="[" line="5" column="0" />
@@ -888,7 +889,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>successRes</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -1006,7 +1007,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>successRes</text>
       </register>
       <register name="m" type="4">
         <keys>
