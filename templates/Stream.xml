@@ -1,18 +1,18 @@
 <templateSet group="Stream">
-  <template name=".toList" value=".collect(Collectors.toList())" description=".collect(Collectors.toList())" toReformat="false" toShortenFQNames="true">
+  <template name=".toList" value=".collect(Collectors.toList());" description=".collect(Collectors.toList())" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name=".toSet" value=".collect(Collectors.toSet())" description=".collect(Collectors.toSet())" toReformat="false" toShortenFQNames="true">
+  <template name=".toSet" value=".collect(Collectors.toSet());" description=".collect(Collectors.toSet())" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name=".groupingBy" value=".collect(Collectors.groupingBy(e -&gt; $END$))" description=".collect(Collectors.groupingBy(e -&gt; $END$))" toReformat="false" toShortenFQNames="true">
+  <template name=".groupingBy" value=".collect(Collectors.groupingBy(e -&gt; $END$));" description=".collect(Collectors.groupingBy(e -&gt; $END$))" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name=".join" value=".collect(Collectors.joining(&quot;$END$&quot;))" description=".collect(Collectors.joining(&quot;$END$&quot;))" toReformat="false" toShortenFQNames="true" />
+  <template name=".join" value=".collect(Collectors.joining(&quot;$END$&quot;));" description=".collect(Collectors.joining(&quot;$END$&quot;))" toReformat="false" toShortenFQNames="true" />
 </templateSet>
