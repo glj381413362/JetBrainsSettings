@@ -108,6 +108,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1574910243547">
         <mark key="[" line="98" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-order/pom.xml" timestamp="1575001270869" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-inventory/src/main/java/com/tencent/fm/oms/inventory/api/controller/dto/WarehouseProductUpdateReqDTO.java" timestamp="1573529654333">
         <mark key="[" line="22" column="7" />
       </file>
@@ -161,6 +162,7 @@
       <file name="$USER_HOME$/ymxy_workspace/ClassroomDemo/src/main/java/bat/ke/qq/com/ElasticSearchClientTest.java" timestamp="1574597082837">
         <mark key="[" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/pom.xml" timestamp="1575001206952" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-workflow/src/main/java/com/tencent/workflow/feign/product/data/PriceListDTO.java" timestamp="1574819824123">
         <mark key="[" line="48" column="37" />
       </file>
@@ -265,6 +267,7 @@
       <file name="$USER_HOME$/ymxy_workspace/dataStructure/pom.xml" timestamp="1573983242425">
         <mark key="[" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/org/hzero/boot/platform/lov/handler/impl/DefaultLovValueHandle.java" timestamp="1575000945106" />
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-core/src/main/java/com/tencent/fm/oms/core/feign/product/impl/ProductFeignClientImpl.java" timestamp="1574387339039">
         <mark key="[" line="81" column="5" />
       </file>
@@ -330,7 +333,7 @@
       <file name="$USER_HOME$/workspace/tencent-oms-backend/tencent-oms-product/src/main/java/com/tencent/fm/oms/pcm/manager/app/job/ProductDownloadJob.java" timestamp="1574050041754">
         <mark key="[" line="39" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574998323201">
+      <file name="/Dummy.txt" timestamp="1575001465656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Maven_Repository/org/springframework/spring-beans/5.0.10.RELEASE/spring-beans-5.0.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1573092124898">
