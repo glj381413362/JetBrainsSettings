@@ -582,7 +582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'GeneratorApplication'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HmallSaApplication'">
@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>454</Count>
+          <Count>456</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -742,7 +742,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GeneratorApplication'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HmallSaApplication'">
@@ -790,7 +790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or 'F11'</ShortCut>
           <Description>Stop 'OrderApplication'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlatformApplication'">
@@ -902,7 +902,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -966,7 +966,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
