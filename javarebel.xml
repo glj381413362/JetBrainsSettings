@@ -11,8 +11,8 @@
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2019.1.4" />
         <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="true" />
-        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2019.2.1" />
-        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2019.2.2" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
     </option>
     <option name="javaRebelPath" value="D:\Jrebel_Base\nightly_cache\201904010919\jrebel\jrebel.jar" />
