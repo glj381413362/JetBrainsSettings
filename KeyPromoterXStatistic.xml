@@ -526,7 +526,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -974,7 +974,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
