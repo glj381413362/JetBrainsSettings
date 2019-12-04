@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1527</Count>
+          <Count>1531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>469</Count>
+          <Count>471</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -702,7 +702,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>398</Count>
+          <Count>399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ArrayList'">
@@ -902,7 +902,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>157</Count>
+          <Count>158</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
