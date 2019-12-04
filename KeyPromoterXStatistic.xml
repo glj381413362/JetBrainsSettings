@@ -838,7 +838,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or 'F11'</ShortCut>
           <Description>Stop 'Scratch'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Scratch2'">
@@ -926,7 +926,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1143</Count>
+          <Count>1145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
