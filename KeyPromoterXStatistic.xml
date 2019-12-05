@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>163</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>471</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -790,7 +790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or 'F11'</ShortCut>
           <Description>Stop 'OrderApplication'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PlatformApplication'">
@@ -966,7 +966,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
