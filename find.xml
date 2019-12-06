@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.impx</mask>
@@ -17,7 +17,6 @@
     <mask>*.bm</mask>
     <mask>*.properties</mask>
     <mask>*.yam</mask>
-    <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.wxml</mask>
     <mask>*.lua</mask>
@@ -29,5 +28,6 @@
     <mask>*.screen</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
