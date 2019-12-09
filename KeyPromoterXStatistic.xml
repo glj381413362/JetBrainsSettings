@@ -926,7 +926,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1167</Count>
+          <Count>1168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
