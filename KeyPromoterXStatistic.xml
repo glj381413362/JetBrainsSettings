@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>497</Count>
+          <Count>498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
