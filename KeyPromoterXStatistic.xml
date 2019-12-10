@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>171</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1582</Count>
+          <Count>1586</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
