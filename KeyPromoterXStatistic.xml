@@ -198,7 +198,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>103</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1660</Count>
+          <Count>1665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
