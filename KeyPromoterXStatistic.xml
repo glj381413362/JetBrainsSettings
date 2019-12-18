@@ -297,6 +297,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Preferences...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'⌘,'</ShortCut>
+          <Description>Preferences...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -423,6 +431,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'LinkedList'</Description>
           <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PlatformApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PlatformApplication'</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Scratch (1)'">
@@ -798,7 +814,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PlatformApplication'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ProductApplication (2)'">
@@ -902,7 +918,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>183</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -918,7 +934,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -958,7 +974,7 @@
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>VCS Operations Popup...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
