@@ -761,6 +761,14 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DemoOrderApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'DemoOrderApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'GatewayApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
