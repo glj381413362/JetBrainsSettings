@@ -182,7 +182,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>48</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -934,7 +934,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>187</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
