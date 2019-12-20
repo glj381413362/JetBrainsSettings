@@ -318,7 +318,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -457,6 +457,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SayHelloToLeaveTest.testStartProcess'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SayHelloToLeaveTest.testStartProcess'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Scratch (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -582,7 +590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>266</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -873,6 +881,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SayHelloToLeaveTest.testStartProcess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'SayHelloToLeaveTest.testStartProcess'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SchedulerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -982,7 +998,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1308</Count>
+          <Count>1311</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
