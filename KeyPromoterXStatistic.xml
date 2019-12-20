@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>30</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -713,6 +713,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'chapter6'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'chapter6'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run Dashboard">
         <Item>
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
@@ -945,6 +953,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ch5-oa-manager'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'ch5-oa-manager'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'tencent-oms-customer [clean,compile...]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1006,7 +1022,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
