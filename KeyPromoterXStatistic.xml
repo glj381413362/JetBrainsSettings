@@ -665,6 +665,14 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HhsdjyhApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'HhsdjyhApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'HmallSaApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -847,6 +855,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GeneratorApplication'</Description>
           <Count>50</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HhsdjyhApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'HhsdjyhApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HmallSaApplication'">
