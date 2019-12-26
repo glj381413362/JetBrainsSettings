@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -198,7 +198,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -479,6 +479,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PlatformApplication'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Producer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Producer'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SayHelloToLeaveTest.testStartProcess'">
@@ -809,6 +817,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Consumer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'Consumer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CustomerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -921,6 +937,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Producer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'Producer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ProductApplication (2)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1030,7 +1054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1046,7 +1070,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>208</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1062,7 +1086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1070,7 +1094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1323</Count>
+          <Count>1324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
