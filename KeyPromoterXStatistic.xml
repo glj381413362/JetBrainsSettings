@@ -830,7 +830,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>434</Count>
+          <Count>437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ArrayList'">
