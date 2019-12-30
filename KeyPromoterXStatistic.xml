@@ -654,7 +654,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -694,7 +694,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'GeneratorApplication'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HhsdjyhApplication'">
@@ -782,7 +782,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>544</Count>
+          <Count>545</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -838,7 +838,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>448</Count>
+          <Count>450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ArrayList'">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>221</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
