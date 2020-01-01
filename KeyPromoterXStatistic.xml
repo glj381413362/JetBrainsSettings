@@ -1049,6 +1049,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'StringUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'StringUtil'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SwaggerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1150,7 +1158,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1368</Count>
+          <Count>1369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
