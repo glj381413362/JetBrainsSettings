@@ -198,7 +198,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1869</Count>
+          <Count>1870</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or 'F11'</ShortCut>
           <Description>Stop 'StringUtil'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SwaggerApplication'">
@@ -1158,7 +1158,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1369</Count>
+          <Count>1370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
