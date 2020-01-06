@@ -814,7 +814,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>591</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -870,7 +870,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>484</Count>
+          <Count>490</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminApplication'">
