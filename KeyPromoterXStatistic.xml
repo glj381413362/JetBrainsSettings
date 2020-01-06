@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -270,7 +270,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1935</Count>
+          <Count>1936</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -678,7 +678,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>119</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
