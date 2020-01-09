@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>195</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -430,7 +430,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -838,7 +838,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>600</Count>
+          <Count>601</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -894,7 +894,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>501</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminApplication'">
