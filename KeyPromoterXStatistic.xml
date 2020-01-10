@@ -206,7 +206,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -846,7 +846,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>607</Count>
+          <Count>608</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -902,7 +902,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>505</Count>
+          <Count>506</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminApplication'">
