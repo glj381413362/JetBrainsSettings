@@ -1249,6 +1249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'tencent-oms-order [clean,compile,package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or 'F11'</ShortCut>
+          <Description>Stop 'tencent-oms-order [clean,compile,package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'tencent-oms-pcm-starter-core [clean...]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1270,7 +1278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
