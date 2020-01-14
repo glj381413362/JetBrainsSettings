@@ -1102,7 +1102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or 'F11'</ShortCut>
           <Description>Stop 'PurchaseApplication'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RegisterApplication'">
