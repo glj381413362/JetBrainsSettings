@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>224</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -902,7 +902,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>560</Count>
+          <Count>562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminApplication'">
