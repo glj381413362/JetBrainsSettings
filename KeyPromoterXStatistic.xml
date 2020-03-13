@@ -206,7 +206,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -366,7 +366,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -702,7 +702,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
