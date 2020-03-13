@@ -1,4 +1,13 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+  <action id="$ShowInstantTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="$TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -13,6 +22,15 @@
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift meta f9" />
     <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Editor ShowInstantTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Editor TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
