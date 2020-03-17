@@ -497,6 +497,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrderServiceApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrderServiceApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PlatformApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -775,6 +783,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'IamApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OrderServiceApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OrderServiceApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PlatformApplication'">
